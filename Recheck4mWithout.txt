@@ -1,0 +1,7431 @@
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-93
+Test123,-89
+eduroam,-93
+STAFF,-88
+Dialog Wi-Fi,-90
+Mobitel_EAP,-86
+BIT,-90
+,-80
+Sci-Fi,-90
+eduroam,-93
+STAFF,-92
+Freewifi_Mobitel,-86
+Mobitel_Open,-87
+Mobitel_EAP,-95
+UocLib,-95
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+AndroidAP,-89
+,-94
+Sci-Fi,-93
+Test123,-89
+VISITORS,-90
+BIT,-91
+Dialog Wi-Fi,-84
+VISITORS,-90
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-89
+eduroam,-92
+STAFF,-90
+Dialog Wi-Fi,-91
+Mobitel_EAP,-84
+BIT,-93
+,-92
+Sci-Fi,-90
+eduroam,-92
+STAFF,-92
+Freewifi_Mobitel,-85
+Mobitel_Open,-86
+Mobitel_EAP,-95
+UocLib,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-93
+AndroidAP,-89
+,-94
+BIT,-94
+Dialog Wi-Fi,-84
+VISITORS,-90
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-89
+eduroam,-92
+STAFF,-90
+Dialog Wi-Fi,-91
+Mobitel_EAP,-84
+BIT,-93
+,-92
+Sci-Fi,-90
+eduroam,-92
+STAFF,-92
+Freewifi_Mobitel,-85
+Mobitel_Open,-86
+Mobitel_EAP,-95
+UocLib,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-93
+AndroidAP,-89
+,-94
+BIT,-94
+Dialog Wi-Fi,-84
+VISITORS,-90
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-89
+eduroam,-92
+STAFF,-90
+Dialog Wi-Fi,-91
+Mobitel_EAP,-84
+BIT,-93
+,-92
+Sci-Fi,-90
+eduroam,-92
+STAFF,-92
+Freewifi_Mobitel,-85
+Mobitel_Open,-86
+Mobitel_EAP,-95
+UocLib,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-93
+AndroidAP,-89
+,-94
+BIT,-94
+Dialog Wi-Fi,-84
+VISITORS,-90
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-89
+eduroam,-92
+STAFF,-90
+Dialog Wi-Fi,-91
+Mobitel_EAP,-84
+BIT,-93
+,-92
+Sci-Fi,-90
+eduroam,-92
+STAFF,-92
+Freewifi_Mobitel,-85
+Mobitel_Open,-86
+Mobitel_EAP,-95
+UocLib,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-93
+AndroidAP,-89
+,-94
+BIT,-93
+Dialog Wi-Fi,-85
+VISITORS,-90
+Test123,-91
+STAFF,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+eduroam,-94
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-88
+Mobitel_EAP,-95
+Test123,-93
+eduroam,-91
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-84
+BIT,-91
+,-92
+Sci-Fi,-92
+eduroam,-88
+STAFF,-90
+Freewifi_Mobitel,-86
+Mobitel_Open,-86
+Mobitel_EAP,-95
+UocLib,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-93
+AndroidAP,-89
+,-94
+BIT,-93
+Dialog Wi-Fi,-85
+VISITORS,-90
+Test123,-91
+STAFF,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+eduroam,-94
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-88
+Mobitel_EAP,-95
+Test123,-93
+eduroam,-91
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-84
+BIT,-91
+,-92
+Sci-Fi,-92
+eduroam,-88
+STAFF,-90
+Freewifi_Mobitel,-86
+Mobitel_Open,-86
+Mobitel_EAP,-95
+UocLib,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-93
+AndroidAP,-89
+,-94
+BIT,-93
+Dialog Wi-Fi,-85
+VISITORS,-90
+Test123,-91
+STAFF,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+eduroam,-94
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-89
+Mobitel_EAP,-95
+Test123,-93
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-92
+Mobitel_EAP,-84
+BIT,-92
+,-92
+Sci-Fi,-92
+eduroam,-91
+STAFF,-90
+Freewifi_Mobitel,-86
+Mobitel_Open,-86
+Mobitel_EAP,-95
+UocLib,-95
+Freewifi_Mobitel,-94
+AndroidAP,-89
+,-93
+BIT,-93
+Dialog Wi-Fi,-89
+VISITORS,-91
+Test123,-91
+STAFF,-92
+Sci-Fi,-94
+IBMBB Wireless,-94
+eduroam,-94
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-89
+Mobitel_EAP,-95
+Test123,-93
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-92
+Mobitel_EAP,-84
+BIT,-92
+,-92
+Sci-Fi,-92
+eduroam,-91
+STAFF,-90
+Freewifi_Mobitel,-86
+Mobitel_Open,-86
+Mobitel_EAP,-95
+UocLib,-95
+Freewifi_Mobitel,-94
+AndroidAP,-89
+,-93
+BIT,-93
+Dialog Wi-Fi,-89
+VISITORS,-91
+Test123,-91
+STAFF,-92
+Sci-Fi,-94
+IBMBB Wireless,-94
+eduroam,-94
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-89
+Mobitel_EAP,-95
+Test123,-93
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-92
+Mobitel_EAP,-84
+BIT,-92
+,-92
+Sci-Fi,-92
+eduroam,-91
+STAFF,-90
+Freewifi_Mobitel,-86
+Mobitel_Open,-86
+Mobitel_EAP,-95
+UocLib,-95
+Freewifi_Mobitel,-94
+AndroidAP,-89
+,-93
+BIT,-93
+Dialog Wi-Fi,-89
+VISITORS,-91
+Test123,-91
+STAFF,-92
+Sci-Fi,-94
+IBMBB Wireless,-94
+eduroam,-94
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-86
+Mobitel_EAP,-94
+Test123,-95
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-92
+,-94
+Sci-Fi,-95
+eduroam,-92
+STAFF,-91
+Freewifi_Mobitel,-86
+Mobitel_Open,-86
+UocLib,-95
+Freewifi_Mobitel,-93
+,-93
+BIT,-92
+Dialog Wi-Fi,-89
+VISITORS,-91
+Test123,-91
+STAFF,-94
+Sci-Fi,-94
+IBMBB Wireless,-94
+eduroam,-92
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-86
+Mobitel_EAP,-94
+Test123,-95
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-92
+,-94
+Sci-Fi,-95
+eduroam,-92
+STAFF,-91
+Freewifi_Mobitel,-86
+Mobitel_Open,-86
+UocLib,-95
+Freewifi_Mobitel,-93
+,-93
+BIT,-92
+Dialog Wi-Fi,-89
+VISITORS,-91
+Test123,-91
+STAFF,-94
+Sci-Fi,-94
+IBMBB Wireless,-94
+eduroam,-92
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-86
+Mobitel_EAP,-94
+Test123,-95
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-92
+,-94
+Sci-Fi,-95
+eduroam,-92
+STAFF,-91
+Freewifi_Mobitel,-86
+Mobitel_Open,-86
+UocLib,-95
+Freewifi_Mobitel,-93
+,-93
+BIT,-92
+Dialog Wi-Fi,-89
+VISITORS,-91
+Test123,-91
+STAFF,-94
+Sci-Fi,-94
+IBMBB Wireless,-94
+eduroam,-92
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-86
+Mobitel_EAP,-94
+Test123,-95
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-93
+,-94
+Sci-Fi,-89
+eduroam,-94
+STAFF,-94
+Freewifi_Mobitel,-88
+Mobitel_Open,-90
+UocLib,-94
+Freewifi_Mobitel,-94
+,-93
+BIT,-93
+Dialog Wi-Fi,-83
+VISITORS,-90
+Test123,-91
+STAFF,-94
+Sci-Fi,-94
+IBMBB Wireless,-94
+eduroam,-92
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-89
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-93
+,-94
+Sci-Fi,-89
+eduroam,-94
+STAFF,-94
+Freewifi_Mobitel,-88
+Mobitel_Open,-90
+UocLib,-94
+Freewifi_Mobitel,-94
+,-93
+BIT,-93
+Dialog Wi-Fi,-83
+VISITORS,-90
+Test123,-91
+STAFF,-94
+Sci-Fi,-94
+IBMBB Wireless,-94
+eduroam,-92
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-89
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-93
+,-94
+Sci-Fi,-89
+eduroam,-94
+STAFF,-94
+Freewifi_Mobitel,-88
+Mobitel_Open,-90
+UocLib,-94
+Freewifi_Mobitel,-94
+,-93
+BIT,-93
+Dialog Wi-Fi,-83
+VISITORS,-90
+Test123,-91
+STAFF,-94
+Sci-Fi,-94
+IBMBB Wireless,-94
+eduroam,-92
+BIT,-95
+Test123,-95
+DOA,-95
+VISITORS,-90
+VISITORS,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-89
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-94
+,-90
+Sci-Fi,-94
+eduroam,-94
+STAFF,-94
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-94
+,-93
+BIT,-94
+Dialog Wi-Fi,-83
+VISITORS,-94
+STAFF,-94
+Sci-Fi,-94
+eduroam,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Mobitel_Open,-93
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-94
+Test123,-95
+eduroam,-94
+STAFF,-91
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-94
+,-90
+Sci-Fi,-94
+eduroam,-94
+STAFF,-94
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-94
+,-93
+BIT,-94
+Dialog Wi-Fi,-83
+VISITORS,-94
+STAFF,-94
+Sci-Fi,-94
+eduroam,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Mobitel_Open,-93
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-94
+Test123,-95
+eduroam,-94
+STAFF,-91
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-94
+,-90
+Sci-Fi,-94
+eduroam,-94
+STAFF,-94
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-94
+,-93
+BIT,-94
+Dialog Wi-Fi,-83
+VISITORS,-94
+STAFF,-94
+Sci-Fi,-94
+eduroam,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Mobitel_Open,-93
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-94
+Test123,-95
+eduroam,-94
+STAFF,-91
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-94
+,-90
+Sci-Fi,-94
+eduroam,-94
+STAFF,-94
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-94
+,-93
+BIT,-94
+Dialog Wi-Fi,-83
+VISITORS,-94
+STAFF,-94
+Sci-Fi,-94
+eduroam,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Mobitel_Open,-93
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-94
+Test123,-95
+eduroam,-94
+STAFF,-91
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-94
+,-90
+Sci-Fi,-94
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-96
+Freewifi_Mobitel,-94
+BIT,-90
+Dialog Wi-Fi,-81
+VISITORS,-89
+STAFF,-94
+eduroam,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-90
+eduroam,-91
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-94
+,-90
+Sci-Fi,-93
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-96
+Freewifi_Mobitel,-94
+BIT,-90
+Dialog Wi-Fi,-81
+VISITORS,-89
+STAFF,-94
+eduroam,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-90
+eduroam,-91
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-94
+,-90
+Sci-Fi,-93
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-96
+Freewifi_Mobitel,-94
+BIT,-90
+Dialog Wi-Fi,-81
+VISITORS,-89
+STAFF,-94
+eduroam,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-90
+eduroam,-91
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-94
+,-90
+Sci-Fi,-93
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-96
+Freewifi_Mobitel,-94
+BIT,-90
+Dialog Wi-Fi,-81
+VISITORS,-89
+STAFF,-94
+eduroam,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Mobitel_EAP,-94
+Test123,-90
+eduroam,-91
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-94
+,-90
+Sci-Fi,-93
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-96
+Freewifi_Mobitel,-94
+BIT,-90
+Dialog Wi-Fi,-81
+VISITORS,-89
+STAFF,-94
+eduroam,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-93
+Test123,-91
+eduroam,-89
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-88
+BIT,-94
+,-90
+Sci-Fi,-88
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-86
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-90
+Dialog Wi-Fi,-82
+VISITORS,-89
+Mobitel_EAP,-96
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+Art Faculty Staff 3,-95
+DOA,-92
+,-94
+Sci-Fi,-96
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-93
+Test123,-91
+eduroam,-89
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-88
+BIT,-94
+,-90
+Sci-Fi,-88
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-86
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-90
+Dialog Wi-Fi,-82
+VISITORS,-89
+Mobitel_EAP,-96
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+Art Faculty Staff 3,-95
+DOA,-92
+,-94
+Sci-Fi,-96
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-93
+Test123,-91
+eduroam,-89
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-88
+BIT,-94
+,-90
+Sci-Fi,-88
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-86
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-90
+Dialog Wi-Fi,-82
+VISITORS,-89
+Mobitel_EAP,-96
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+Art Faculty Staff 3,-95
+DOA,-92
+,-94
+Sci-Fi,-96
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-93
+Test123,-91
+eduroam,-89
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-88
+BIT,-94
+,-90
+Sci-Fi,-88
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-86
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+Art Faculty Staff 3,-95
+DOA,-92
+,-94
+Sci-Fi,-95
+Mobitel_Open,-93
+Dialog 4G,-89
+Test123,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+Mobitel_EAP,-93
+Test123,-92
+eduroam,-94
+STAFF,-96
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+,-89
+Sci-Fi,-87
+eduroam,-89
+STAFF,-93
+Freewifi_Mobitel,-90
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+Art Faculty Staff 3,-95
+DOA,-92
+,-94
+Sci-Fi,-95
+Mobitel_Open,-93
+Dialog 4G,-89
+Test123,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+Mobitel_EAP,-93
+Test123,-92
+eduroam,-94
+STAFF,-96
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+,-89
+Sci-Fi,-87
+eduroam,-89
+STAFF,-93
+Freewifi_Mobitel,-90
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+Art Faculty Staff 3,-95
+DOA,-92
+,-94
+Sci-Fi,-95
+Mobitel_Open,-93
+Dialog 4G,-89
+Test123,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+Mobitel_EAP,-93
+Test123,-92
+eduroam,-94
+STAFF,-96
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+,-89
+Sci-Fi,-87
+eduroam,-89
+STAFF,-93
+Freewifi_Mobitel,-90
+Mobitel_Open,-91
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+Art Faculty Staff 3,-95
+DOA,-92
+,-94
+Sci-Fi,-95
+Mobitel_Open,-93
+Dialog 4G,-89
+Test123,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+Mobitel_EAP,-93
+Test123,-91
+eduroam,-92
+STAFF,-96
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+,-92
+Sci-Fi,-92
+eduroam,-92
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-89
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-90
+Dialog Wi-Fi,-80
+VISITORS,-91
+Mobitel_EAP,-92
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+DOA,-92
+,-94
+Sci-Fi,-93
+Mobitel_Open,-93
+Dialog 4G,-87
+Test123,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+Mobitel_EAP,-93
+Test123,-91
+eduroam,-92
+STAFF,-96
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+,-92
+Sci-Fi,-92
+eduroam,-92
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-89
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-90
+Dialog Wi-Fi,-80
+VISITORS,-91
+Mobitel_EAP,-92
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+DOA,-92
+,-94
+Sci-Fi,-93
+Mobitel_Open,-93
+Dialog 4G,-87
+Test123,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+Mobitel_EAP,-93
+Test123,-91
+eduroam,-92
+STAFF,-96
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+,-92
+Sci-Fi,-92
+eduroam,-92
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-89
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-90
+Dialog Wi-Fi,-80
+VISITORS,-91
+Mobitel_EAP,-92
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+DOA,-92
+,-94
+Sci-Fi,-93
+Mobitel_Open,-93
+Dialog 4G,-87
+Test123,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+Mobitel_EAP,-93
+Test123,-91
+eduroam,-92
+STAFF,-96
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+,-92
+Sci-Fi,-92
+eduroam,-92
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-89
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-90
+Dialog Wi-Fi,-80
+VISITORS,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+DOA,-92
+,-94
+Sci-Fi,-93
+Mobitel_Open,-93
+Dialog 4G,-87
+Test123,-93
+AndroidAP,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-93
+Test123,-92
+eduroam,-92
+STAFF,-93
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-93
+,-93
+Sci-Fi,-91
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-90
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-89
+Dialog Wi-Fi,-82
+VISITORS,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+DOA,-92
+,-94
+Sci-Fi,-93
+Mobitel_Open,-93
+Dialog 4G,-87
+Test123,-93
+AndroidAP,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-93
+Test123,-92
+eduroam,-92
+STAFF,-93
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-93
+,-93
+Sci-Fi,-91
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-88
+Mobitel_Open,-90
+UocLib,-94
+Freewifi_Mobitel,-92
+BIT,-89
+Dialog Wi-Fi,-82
+VISITORS,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-93
+DOA,-92
+,-94
+Sci-Fi,-93
+Mobitel_Open,-93
+Dialog 4G,-87
+Test123,-93
+AndroidAP,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-93
+Test123,-92
+eduroam,-92
+STAFF,-93
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-93
+,-91
+Sci-Fi,-92
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-89
+Mobitel_Open,-88
+UocLib,-94
+BIT,-89
+Dialog Wi-Fi,-82
+VISITORS,-89
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+,-94
+Sci-Fi,-93
+Dialog 4G,-78
+Test123,-93
+AndroidAP,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-87
+Mobitel_EAP,-93
+Test123,-88
+eduroam,-92
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-93
+,-91
+Sci-Fi,-92
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-89
+Mobitel_Open,-88
+UocLib,-94
+BIT,-89
+Dialog Wi-Fi,-82
+VISITORS,-89
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+,-94
+Sci-Fi,-93
+Dialog 4G,-78
+Test123,-93
+AndroidAP,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-87
+Mobitel_EAP,-93
+Test123,-88
+eduroam,-92
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-93
+,-91
+Sci-Fi,-92
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-89
+Mobitel_Open,-88
+UocLib,-94
+BIT,-89
+Dialog Wi-Fi,-82
+VISITORS,-89
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+,-94
+Sci-Fi,-93
+Dialog 4G,-78
+Test123,-93
+AndroidAP,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-87
+Mobitel_EAP,-93
+Test123,-88
+eduroam,-92
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-93
+,-91
+Sci-Fi,-92
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-89
+Mobitel_Open,-88
+UocLib,-94
+BIT,-89
+Dialog Wi-Fi,-82
+VISITORS,-89
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Mobitel_Open,-95
+,-94
+Sci-Fi,-93
+Dialog 4G,-78
+Test123,-93
+AndroidAP,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-87
+Mobitel_EAP,-93
+Test123,-90
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-93
+,-91
+Sci-Fi,-92
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-90
+Mobitel_Open,-88
+UocLib,-94
+BIT,-91
+Dialog Wi-Fi,-82
+VISITORS,-88
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Mobitel_Open,-95
+,-94
+Sci-Fi,-93
+Dialog 4G,-75
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-87
+Mobitel_EAP,-93
+Test123,-90
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-93
+,-91
+Sci-Fi,-92
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-90
+Mobitel_Open,-88
+UocLib,-94
+BIT,-91
+Dialog Wi-Fi,-82
+VISITORS,-88
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Mobitel_Open,-95
+,-94
+Sci-Fi,-93
+Dialog 4G,-75
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-87
+Mobitel_EAP,-93
+Test123,-90
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-93
+,-91
+Sci-Fi,-92
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-90
+Mobitel_Open,-88
+UocLib,-94
+BIT,-91
+Dialog Wi-Fi,-82
+VISITORS,-88
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Mobitel_Open,-95
+,-94
+Sci-Fi,-93
+Dialog 4G,-75
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-87
+Mobitel_EAP,-93
+Test123,-90
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-93
+,-91
+Sci-Fi,-92
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-90
+Mobitel_Open,-88
+UocLib,-94
+BIT,-91
+Dialog Wi-Fi,-82
+VISITORS,-88
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Mobitel_Open,-95
+,-94
+Sci-Fi,-93
+Dialog 4G,-75
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-97
+Test123,-91
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-86
+BIT,-95
+,-91
+Sci-Fi,-91
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-92
+Mobitel_Open,-92
+UocLib,-92
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-91
+Mobitel_EAP,-94
+Freewifi_Mobitel,-93
+Mobitel_Open,-95
+Sci-Fi,-95
+Dialog 4G,-81
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-97
+Test123,-91
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-86
+BIT,-95
+,-91
+Sci-Fi,-91
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-92
+Mobitel_Open,-92
+UocLib,-92
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-91
+Mobitel_EAP,-94
+Freewifi_Mobitel,-93
+Mobitel_Open,-95
+Sci-Fi,-95
+Dialog 4G,-81
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-97
+Test123,-91
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-86
+BIT,-95
+,-91
+Sci-Fi,-91
+eduroam,-94
+STAFF,-93
+Freewifi_Mobitel,-92
+Mobitel_Open,-92
+UocLib,-92
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-91
+Mobitel_EAP,-94
+Freewifi_Mobitel,-93
+Mobitel_Open,-95
+Sci-Fi,-95
+Dialog 4G,-81
+STAFF,-94
+Art Faculty Staff 3,-96
+IBMBB Wireless,-97
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-97
+Test123,-91
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-95
+,-92
+Sci-Fi,-93
+eduroam,-94
+Freewifi_Mobitel,-92
+Mobitel_Open,-87
+UocLib,-94
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Sci-Fi,-96
+Dialog 4G,-77
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-97
+Test123,-91
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-95
+,-92
+Sci-Fi,-93
+eduroam,-94
+Freewifi_Mobitel,-92
+Mobitel_Open,-87
+UocLib,-94
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Sci-Fi,-96
+Dialog 4G,-77
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-97
+Test123,-91
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-95
+,-92
+Sci-Fi,-93
+eduroam,-94
+Freewifi_Mobitel,-92
+Mobitel_Open,-87
+UocLib,-94
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Sci-Fi,-96
+Dialog 4G,-77
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-97
+Test123,-91
+eduroam,-93
+STAFF,-89
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-95
+,-92
+Sci-Fi,-93
+eduroam,-94
+Freewifi_Mobitel,-92
+Mobitel_Open,-87
+UocLib,-94
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Sci-Fi,-96
+Dialog 4G,-77
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-95
+Test123,-91
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-91
+BIT,-92
+,-92
+Sci-Fi,-93
+eduroam,-90
+Freewifi_Mobitel,-91
+Mobitel_Open,-90
+UocLib,-94
+BIT,-93
+Dialog Wi-Fi,-83
+VISITORS,-94
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-97
+Dialog 4G,-86
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-95
+Test123,-91
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-91
+BIT,-92
+,-92
+Sci-Fi,-93
+eduroam,-90
+Freewifi_Mobitel,-91
+Mobitel_Open,-90
+UocLib,-94
+BIT,-93
+Dialog Wi-Fi,-83
+VISITORS,-94
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-97
+Dialog 4G,-86
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-95
+Test123,-91
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-91
+BIT,-92
+,-92
+Sci-Fi,-93
+eduroam,-90
+Freewifi_Mobitel,-91
+Mobitel_Open,-90
+UocLib,-94
+BIT,-93
+Dialog Wi-Fi,-83
+VISITORS,-94
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-97
+Dialog 4G,-86
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-95
+Test123,-91
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-91
+BIT,-92
+,-92
+Sci-Fi,-93
+eduroam,-90
+Freewifi_Mobitel,-91
+Mobitel_Open,-90
+UocLib,-94
+BIT,-93
+Dialog Wi-Fi,-83
+VISITORS,-94
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-97
+Dialog 4G,-86
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-95
+Test123,-91
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-91
+BIT,-92
+,-92
+Sci-Fi,-93
+eduroam,-90
+Freewifi_Mobitel,-91
+Mobitel_Open,-90
+UocLib,-94
+BIT,-93
+Dialog Wi-Fi,-83
+VISITORS,-94
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-93
+Dialog 4G,-75
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+,-94
+STAFF,-93
+STAFF,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-87
+Mobitel_EAP,-95
+Test123,-91
+eduroam,-91
+STAFF,-90
+Dialog Wi-Fi,-90
+Mobitel_EAP,-89
+BIT,-92
+,-95
+Sci-Fi,-93
+eduroam,-90
+Freewifi_Mobitel,-91
+Mobitel_Open,-91
+UocLib,-94
+BIT,-92
+Dialog Wi-Fi,-83
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-93
+Dialog 4G,-75
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+,-94
+STAFF,-93
+STAFF,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-87
+Mobitel_EAP,-95
+Test123,-91
+eduroam,-91
+STAFF,-90
+Dialog Wi-Fi,-90
+Mobitel_EAP,-89
+BIT,-92
+,-95
+Sci-Fi,-93
+eduroam,-90
+Freewifi_Mobitel,-91
+Mobitel_Open,-91
+UocLib,-94
+BIT,-92
+Dialog Wi-Fi,-83
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-93
+Dialog 4G,-75
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+,-94
+STAFF,-93
+STAFF,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-87
+Mobitel_EAP,-95
+Test123,-91
+eduroam,-91
+STAFF,-90
+Dialog Wi-Fi,-90
+Mobitel_EAP,-89
+BIT,-92
+,-95
+Sci-Fi,-93
+eduroam,-90
+Freewifi_Mobitel,-91
+Mobitel_Open,-91
+UocLib,-94
+BIT,-92
+Dialog Wi-Fi,-83
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-93
+Dialog 4G,-75
+Freewifi_Mobitel,-91
+Mobitel_Open,-93
+AndroidAP,-95
+,-94
+STAFF,-93
+STAFF,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-87
+Mobitel_EAP,-95
+Test123,-91
+eduroam,-95
+STAFF,-90
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-92
+,-95
+Sci-Fi,-93
+eduroam,-93
+Freewifi_Mobitel,-91
+Mobitel_Open,-91
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-82
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-96
+Dialog 4G,-87
+Freewifi_Mobitel,-91
+AndroidAP,-94
+,-94
+STAFF,-94
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Mobitel_EAP,-95
+Test123,-94
+eduroam,-95
+STAFF,-90
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-92
+,-95
+Sci-Fi,-93
+eduroam,-93
+Freewifi_Mobitel,-91
+Mobitel_Open,-91
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-82
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-96
+Dialog 4G,-87
+Freewifi_Mobitel,-91
+AndroidAP,-94
+,-94
+STAFF,-94
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Mobitel_EAP,-95
+Test123,-94
+eduroam,-95
+STAFF,-90
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-92
+,-95
+Sci-Fi,-93
+eduroam,-93
+Freewifi_Mobitel,-91
+Mobitel_Open,-91
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-82
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-96
+Dialog 4G,-87
+Freewifi_Mobitel,-91
+AndroidAP,-94
+,-94
+STAFF,-94
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Mobitel_EAP,-95
+Test123,-94
+eduroam,-95
+STAFF,-90
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-92
+,-95
+Sci-Fi,-93
+eduroam,-93
+Freewifi_Mobitel,-91
+Mobitel_Open,-91
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-82
+VISITORS,-91
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Sci-Fi,-96
+Dialog 4G,-87
+Freewifi_Mobitel,-91
+AndroidAP,-94
+,-94
+STAFF,-94
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-95
+Test123,-92
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-93
+,-94
+Sci-Fi,-93
+eduroam,-93
+Freewifi_Mobitel,-89
+Mobitel_Open,-91
+UocLib,-95
+BIT,-93
+Dialog Wi-Fi,-81
+VISITORS,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Dialog 4G,-89
+Freewifi_Mobitel,-93
+AndroidAP,-93
+,-96
+STAFF,-92
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+Test123,-92
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-95
+Test123,-92
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-93
+,-94
+Sci-Fi,-93
+eduroam,-93
+Freewifi_Mobitel,-89
+Mobitel_Open,-91
+UocLib,-95
+BIT,-93
+Dialog Wi-Fi,-81
+VISITORS,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Dialog 4G,-89
+Freewifi_Mobitel,-93
+AndroidAP,-93
+,-96
+STAFF,-92
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+Test123,-92
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-95
+Test123,-92
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-93
+,-94
+Sci-Fi,-93
+eduroam,-93
+Freewifi_Mobitel,-89
+Mobitel_Open,-91
+UocLib,-95
+BIT,-93
+Dialog Wi-Fi,-81
+VISITORS,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Dialog 4G,-89
+Freewifi_Mobitel,-93
+AndroidAP,-93
+,-96
+STAFF,-92
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+Test123,-92
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-95
+Test123,-92
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-92
+,-94
+Sci-Fi,-93
+eduroam,-95
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+UocLib,-94
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-94
+Sci-Fi,-96
+Dialog 4G,-86
+Freewifi_Mobitel,-92
+AndroidAP,-96
+,-94
+STAFF,-93
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+Test123,-92
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Mobitel_EAP,-93
+Test123,-92
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-92
+,-94
+Sci-Fi,-93
+eduroam,-95
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+UocLib,-94
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-94
+Sci-Fi,-96
+Dialog 4G,-86
+Freewifi_Mobitel,-92
+AndroidAP,-96
+,-94
+STAFF,-93
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+Test123,-92
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Mobitel_EAP,-93
+Test123,-92
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-92
+,-94
+Sci-Fi,-93
+eduroam,-95
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+UocLib,-94
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-94
+Sci-Fi,-96
+Dialog 4G,-86
+Freewifi_Mobitel,-92
+AndroidAP,-96
+,-94
+STAFF,-93
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+Test123,-92
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Mobitel_EAP,-93
+Test123,-92
+eduroam,-91
+STAFF,-94
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-92
+,-94
+Sci-Fi,-93
+eduroam,-95
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+UocLib,-94
+BIT,-90
+Dialog Wi-Fi,-83
+VISITORS,-94
+Sci-Fi,-96
+Dialog 4G,-86
+Freewifi_Mobitel,-92
+AndroidAP,-96
+,-94
+STAFF,-93
+STAFF,-93
+BIT,-94
+Test123,-92
+VISITORS,-91
+Test123,-92
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-92
+Test123,-90
+eduroam,-90
+STAFF,-88
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-91
+,-93
+Sci-Fi,-94
+eduroam,-92
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-94
+BIT,-91
+Dialog Wi-Fi,-83
+VISITORS,-91
+Sci-Fi,-96
+Dialog 4G,-87
+Freewifi_Mobitel,-94
+AndroidAP,-96
+,-94
+STAFF,-93
+STAFF,-93
+Test123,-92
+VISITORS,-91
+Test123,-92
+Mobitel_Open,-93
+Mobitel_EAP,-97
+Freewifi_Mobitel,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-92
+Test123,-90
+eduroam,-90
+STAFF,-88
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-91
+,-93
+Sci-Fi,-94
+eduroam,-92
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-94
+BIT,-91
+Dialog Wi-Fi,-83
+VISITORS,-91
+Sci-Fi,-96
+Dialog 4G,-87
+Freewifi_Mobitel,-94
+AndroidAP,-96
+,-94
+STAFF,-93
+STAFF,-93
+Test123,-92
+VISITORS,-91
+Test123,-92
+Mobitel_Open,-93
+Mobitel_EAP,-97
+Freewifi_Mobitel,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Mobitel_EAP,-92
+Test123,-90
+eduroam,-90
+STAFF,-88
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-91
+,-93
+Sci-Fi,-94
+eduroam,-92
+Freewifi_Mobitel,-88
+Mobitel_Open,-91
+UocLib,-94
+BIT,-91
+Dialog Wi-Fi,-83
+VISITORS,-91
+Sci-Fi,-96
+Dialog 4G,-87
+Freewifi_Mobitel,-94
+AndroidAP,-96
+,-94
+STAFF,-93
+STAFF,-93
+Test123,-92
+VISITORS,-91
+Test123,-92
+Mobitel_Open,-93
+Mobitel_EAP,-97
+Freewifi_Mobitel,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Mobitel_EAP,-97
+Test123,-93
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-89
+BIT,-92
+,-93
+Sci-Fi,-94
+eduroam,-90
+Freewifi_Mobitel,-88
+UocLib,-94
+BIT,-94
+Dialog Wi-Fi,-80
+VISITORS,-93
+Sci-Fi,-94
+Dialog 4G,-90
+Freewifi_Mobitel,-95
+AndroidAP,-96
+,-94
+STAFF,-90
+STAFF,-94
+Test123,-97
+Test123,-90
+Mobitel_Open,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Mobitel_EAP,-97
+Test123,-93
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-89
+BIT,-92
+,-93
+Sci-Fi,-94
+eduroam,-90
+Freewifi_Mobitel,-88
+UocLib,-94
+BIT,-94
+Dialog Wi-Fi,-80
+VISITORS,-93
+Sci-Fi,-94
+Dialog 4G,-90
+Freewifi_Mobitel,-95
+AndroidAP,-96
+,-94
+STAFF,-90
+STAFF,-94
+Test123,-97
+Test123,-90
+Mobitel_Open,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Mobitel_EAP,-97
+Test123,-93
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-89
+BIT,-92
+,-93
+Sci-Fi,-94
+eduroam,-90
+Freewifi_Mobitel,-88
+UocLib,-94
+BIT,-94
+Dialog Wi-Fi,-80
+VISITORS,-93
+Sci-Fi,-94
+Dialog 4G,-90
+Freewifi_Mobitel,-95
+AndroidAP,-96
+,-94
+STAFF,-90
+STAFF,-94
+Test123,-97
+Test123,-90
+Mobitel_Open,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Mobitel_EAP,-97
+Test123,-93
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-89
+BIT,-92
+,-93
+Sci-Fi,-94
+eduroam,-90
+Freewifi_Mobitel,-88
+UocLib,-94
+BIT,-94
+Dialog Wi-Fi,-80
+VISITORS,-93
+Sci-Fi,-94
+Dialog 4G,-90
+Freewifi_Mobitel,-95
+AndroidAP,-96
+,-94
+STAFF,-90
+STAFF,-94
+Test123,-95
+Test123,-90
+Mobitel_Open,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+eduroam,-91
+BIT,-91
+Mobitel_Open,-95
+VISITORS,-94
+Mobitel_Open,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-97
+Test123,-92
+eduroam,-94
+STAFF,-91
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-90
+,-93
+Sci-Fi,-94
+eduroam,-91
+Freewifi_Mobitel,-94
+UocLib,-93
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-92
+Sci-Fi,-96
+Dialog 4G,-90
+Freewifi_Mobitel,-95
+AndroidAP,-96
+,-94
+STAFF,-90
+STAFF,-94
+Test123,-95
+Test123,-90
+Mobitel_Open,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+eduroam,-91
+BIT,-91
+Mobitel_Open,-95
+VISITORS,-94
+Mobitel_Open,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-97
+Test123,-92
+eduroam,-94
+STAFF,-91
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-90
+,-93
+Sci-Fi,-94
+eduroam,-91
+Freewifi_Mobitel,-94
+UocLib,-93
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-92
+Sci-Fi,-96
+Dialog 4G,-90
+Freewifi_Mobitel,-95
+AndroidAP,-96
+,-94
+STAFF,-90
+STAFF,-94
+Test123,-95
+Test123,-90
+Mobitel_Open,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+eduroam,-91
+BIT,-91
+Mobitel_Open,-95
+VISITORS,-94
+Mobitel_Open,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-88
+Mobitel_EAP,-97
+Test123,-92
+eduroam,-94
+STAFF,-91
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-90
+,-93
+Sci-Fi,-94
+eduroam,-89
+Freewifi_Mobitel,-94
+UocLib,-93
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-94
+Sci-Fi,-96
+Dialog 4G,-90
+Freewifi_Mobitel,-95
+STAFF,-90
+STAFF,-94
+Test123,-95
+Test123,-90
+Mobitel_Open,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+eduroam,-91
+BIT,-91
+Mobitel_Open,-95
+VISITORS,-94
+Mobitel_Open,-95
+DOA,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+Mobitel_EAP,-97
+Test123,-92
+eduroam,-93
+STAFF,-93
+Dialog Wi-Fi,-90
+Mobitel_EAP,-93
+BIT,-88
+,-93
+Sci-Fi,-94
+eduroam,-89
+Freewifi_Mobitel,-94
+UocLib,-93
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-94
+Sci-Fi,-96
+Dialog 4G,-90
+Freewifi_Mobitel,-95
+STAFF,-90
+STAFF,-94
+Test123,-95
+Test123,-90
+Mobitel_Open,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+eduroam,-91
+BIT,-91
+Mobitel_Open,-95
+VISITORS,-94
+Mobitel_Open,-95
+DOA,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+Mobitel_EAP,-97
+Test123,-92
+eduroam,-93
+STAFF,-93
+Dialog Wi-Fi,-90
+Mobitel_EAP,-93
+BIT,-88
+,-93
+Sci-Fi,-94
+eduroam,-89
+Freewifi_Mobitel,-94
+UocLib,-93
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-94
+Sci-Fi,-96
+Dialog 4G,-90
+Freewifi_Mobitel,-95
+STAFF,-90
+STAFF,-94
+Test123,-95
+Test123,-90
+Mobitel_Open,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+eduroam,-91
+BIT,-91
+Mobitel_Open,-95
+VISITORS,-94
+Mobitel_Open,-95
+DOA,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+Mobitel_EAP,-97
+Test123,-92
+eduroam,-93
+STAFF,-93
+Dialog Wi-Fi,-90
+Mobitel_EAP,-93
+BIT,-88
+,-93
+Sci-Fi,-94
+Freewifi_Mobitel,-94
+UocLib,-93
+BIT,-91
+Dialog Wi-Fi,-83
+VISITORS,-93
+Sci-Fi,-96
+Dialog 4G,-90
+Freewifi_Mobitel,-92
+STAFF,-90
+STAFF,-94
+Test123,-95
+Test123,-90
+Mobitel_Open,-95
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+eduroam,-91
+BIT,-91
+Mobitel_Open,-95
+VISITORS,-94
+Mobitel_Open,-95
+DOA,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+Mobitel_EAP,-97
+Test123,-89
+eduroam,-92
+STAFF,-90
+Dialog Wi-Fi,-90
+Mobitel_EAP,-93
+BIT,-91
+Sci-Fi,-91
+eduroam,-91
+Freewifi_Mobitel,-94
+UocLib,-93
+BIT,-91
+Dialog Wi-Fi,-83
+VISITORS,-93
+Sci-Fi,-96
+Dialog 4G,-90
+Freewifi_Mobitel,-92
+STAFF,-90
+STAFF,-94
+Test123,-95
+Test123,-90
+Mobitel_Open,-95
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+eduroam,-91
+BIT,-91
+Mobitel_Open,-95
+VISITORS,-94
+Mobitel_Open,-95
+DOA,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+Mobitel_EAP,-97
+Test123,-89
+eduroam,-92
+STAFF,-90
+Dialog Wi-Fi,-90
+Mobitel_EAP,-93
+BIT,-91
+Sci-Fi,-91
+eduroam,-91
+Freewifi_Mobitel,-94
+UocLib,-93
+BIT,-91
+Dialog Wi-Fi,-83
+VISITORS,-93
+Sci-Fi,-96
+Dialog 4G,-90
+Freewifi_Mobitel,-92
+STAFF,-90
+STAFF,-94
+Test123,-95
+Test123,-90
+Mobitel_Open,-95
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+eduroam,-91
+BIT,-91
+Mobitel_Open,-95
+VISITORS,-94
+Mobitel_Open,-95
+DOA,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+Mobitel_EAP,-97
+Test123,-89
+eduroam,-92
+STAFF,-90
+Dialog Wi-Fi,-90
+Mobitel_EAP,-93
+BIT,-91
+Sci-Fi,-91
+eduroam,-91
+Freewifi_Mobitel,-94
+UocLib,-93
+BIT,-91
+Dialog Wi-Fi,-83
+VISITORS,-93
+Sci-Fi,-96
+Dialog 4G,-90
+Freewifi_Mobitel,-92
+STAFF,-90
+STAFF,-94
+Test123,-95
+Test123,-90
+Mobitel_Open,-95
+BIT,-94
+Mobitel_Open,-94
+VISITORS,-94
+Mobitel_Open,-91
+DOA,-94
+AndroidAP,-89
+,-90
+CSHR ,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-95
+Test123,-95
+eduroam,-92
+STAFF,-93
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-89
+Sci-Fi,-91
+eduroam,-89
+Freewifi_Mobitel,-90
+UocLib,-95
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-92
+STAFF,-90
+STAFF,-94
+Test123,-92
+Mobitel_Open,-95
+Mobitel_EAP,-91
+Freewifi_Mobitel,-93
+eduroam,-93
+BIT,-94
+Mobitel_Open,-94
+VISITORS,-94
+Mobitel_Open,-91
+DOA,-94
+AndroidAP,-89
+,-90
+CSHR ,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-95
+Test123,-95
+eduroam,-92
+STAFF,-93
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-89
+Sci-Fi,-91
+eduroam,-89
+Freewifi_Mobitel,-90
+UocLib,-95
+BIT,-93
+Dialog Wi-Fi,-82
+VISITORS,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-92
+STAFF,-90
+STAFF,-94
+Test123,-92
+Mobitel_Open,-95
+Mobitel_EAP,-91
+Freewifi_Mobitel,-93
+eduroam,-93
+BIT,-94
+Mobitel_Open,-94
+VISITORS,-94
+Mobitel_Open,-91
+DOA,-94
+AndroidAP,-89
+,-90
+CSHR ,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-95
+Test123,-95
+eduroam,-92
+STAFF,-93
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-89
+Sci-Fi,-91
+eduroam,-93
+Freewifi_Mobitel,-90
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-81
+VISITORS,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-94
+STAFF,-92
+Test123,-92
+Mobitel_Open,-93
+Mobitel_EAP,-94
+Freewifi_Mobitel,-92
+eduroam,-93
+BIT,-94
+Mobitel_Open,-94
+VISITORS,-94
+Mobitel_Open,-95
+DOA,-94
+AndroidAP,-88
+,-90
+CSHR ,-96
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-95
+Test123,-93
+eduroam,-92
+STAFF,-93
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-89
+Sci-Fi,-91
+eduroam,-93
+Freewifi_Mobitel,-90
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-81
+VISITORS,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-94
+STAFF,-92
+Test123,-92
+Mobitel_Open,-93
+Mobitel_EAP,-94
+Freewifi_Mobitel,-92
+eduroam,-93
+BIT,-94
+Mobitel_Open,-94
+VISITORS,-94
+Mobitel_Open,-95
+DOA,-94
+AndroidAP,-88
+,-90
+CSHR ,-96
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-95
+Test123,-93
+eduroam,-92
+STAFF,-93
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-89
+Sci-Fi,-91
+eduroam,-93
+Freewifi_Mobitel,-90
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-81
+VISITORS,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-94
+STAFF,-92
+Test123,-92
+Mobitel_Open,-93
+Mobitel_EAP,-94
+Freewifi_Mobitel,-92
+eduroam,-93
+BIT,-94
+Mobitel_Open,-94
+VISITORS,-94
+Mobitel_Open,-95
+DOA,-94
+AndroidAP,-88
+,-90
+CSHR ,-96
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-95
+Test123,-93
+eduroam,-92
+STAFF,-93
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-89
+Sci-Fi,-91
+eduroam,-93
+Freewifi_Mobitel,-92
+UocLib,-94
+BIT,-92
+Dialog Wi-Fi,-82
+VISITORS,-95
+Sci-Fi,-93
+Freewifi_Mobitel,-94
+STAFF,-94
+Test123,-92
+Mobitel_Open,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+eduroam,-93
+BIT,-94
+Mobitel_Open,-94
+VISITORS,-94
+Mobitel_Open,-93
+AndroidAP,-87
+,-90
+CSHR ,-96
+Mobitel_EAP,-95
+STAFF,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-95
+Test123,-95
+eduroam,-92
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-95
+Sci-Fi,-91
+eduroam,-93
+Freewifi_Mobitel,-92
+UocLib,-94
+BIT,-92
+Dialog Wi-Fi,-82
+VISITORS,-95
+Sci-Fi,-93
+Freewifi_Mobitel,-94
+STAFF,-94
+Test123,-92
+Mobitel_Open,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+eduroam,-93
+BIT,-94
+Mobitel_Open,-94
+VISITORS,-94
+Mobitel_Open,-93
+AndroidAP,-87
+,-90
+CSHR ,-96
+Mobitel_EAP,-95
+STAFF,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-95
+Test123,-95
+eduroam,-92
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-95
+Sci-Fi,-91
+eduroam,-93
+Freewifi_Mobitel,-92
+UocLib,-94
+BIT,-92
+Dialog Wi-Fi,-82
+VISITORS,-95
+Sci-Fi,-93
+Freewifi_Mobitel,-94
+STAFF,-94
+Test123,-92
+Mobitel_Open,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+eduroam,-93
+BIT,-94
+Mobitel_Open,-94
+VISITORS,-94
+Mobitel_Open,-93
+AndroidAP,-87
+,-90
+CSHR ,-96
+Mobitel_EAP,-95
+STAFF,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-95
+Test123,-95
+eduroam,-92
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-95
+Sci-Fi,-91
+eduroam,-93
+Freewifi_Mobitel,-92
+UocLib,-94
+BIT,-92
+Dialog Wi-Fi,-82
+VISITORS,-95
+Sci-Fi,-93
+Freewifi_Mobitel,-94
+STAFF,-94
+Test123,-92
+Mobitel_Open,-95
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+eduroam,-92
+BIT,-94
+Mobitel_Open,-91
+VISITORS,-94
+Mobitel_Open,-93
+AndroidAP,-87
+,-93
+CSHR ,-96
+Mobitel_EAP,-95
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+Test123,-93
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-94
+Sci-Fi,-91
+eduroam,-93
+Freewifi_Mobitel,-92
+UocLib,-96
+BIT,-92
+Dialog Wi-Fi,-85
+VISITORS,-94
+Sci-Fi,-93
+Freewifi_Mobitel,-95
+STAFF,-94
+Test123,-92
+Mobitel_Open,-95
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+eduroam,-92
+BIT,-94
+Mobitel_Open,-91
+VISITORS,-94
+Mobitel_Open,-93
+AndroidAP,-87
+,-93
+CSHR ,-96
+Mobitel_EAP,-95
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+Test123,-93
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-94
+Sci-Fi,-91
+eduroam,-93
+Freewifi_Mobitel,-92
+UocLib,-96
+BIT,-92
+Dialog Wi-Fi,-85
+VISITORS,-94
+Sci-Fi,-93
+Freewifi_Mobitel,-95
+STAFF,-94
+Test123,-92
+Mobitel_Open,-95
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+eduroam,-92
+BIT,-94
+Mobitel_Open,-91
+VISITORS,-94
+Mobitel_Open,-93
+AndroidAP,-87
+,-93
+CSHR ,-96
+Mobitel_EAP,-95
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+Test123,-93
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-91
+BIT,-94
+Sci-Fi,-95
+eduroam,-93
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-93
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-95
+Test123,-93
+Mobitel_Open,-95
+Mobitel_EAP,-96
+Freewifi_Mobitel,-93
+eduroam,-92
+BIT,-94
+Mobitel_Open,-93
+VISITORS,-91
+Mobitel_Open,-93
+AndroidAP,-89
+,-93
+Mobitel_EAP,-95
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-96
+eduroam,-91
+STAFF,-91
+Dialog Wi-Fi,-92
+Mobitel_EAP,-91
+BIT,-94
+Sci-Fi,-95
+eduroam,-93
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-93
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-95
+Test123,-93
+Mobitel_Open,-95
+Mobitel_EAP,-96
+Freewifi_Mobitel,-93
+eduroam,-92
+BIT,-94
+Mobitel_Open,-93
+VISITORS,-91
+Mobitel_Open,-93
+AndroidAP,-89
+,-93
+Mobitel_EAP,-95
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-96
+eduroam,-91
+STAFF,-91
+Dialog Wi-Fi,-92
+Mobitel_EAP,-91
+BIT,-94
+Sci-Fi,-95
+eduroam,-93
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-93
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-95
+Test123,-93
+Mobitel_Open,-95
+Mobitel_EAP,-96
+Freewifi_Mobitel,-93
+eduroam,-92
+BIT,-94
+Mobitel_Open,-93
+VISITORS,-91
+Mobitel_Open,-93
+AndroidAP,-89
+,-93
+Mobitel_EAP,-95
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-96
+eduroam,-91
+STAFF,-91
+Dialog Wi-Fi,-92
+Mobitel_EAP,-91
+BIT,-94
+Sci-Fi,-95
+eduroam,-93
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-93
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-95
+Test123,-93
+Mobitel_Open,-95
+Mobitel_EAP,-96
+Freewifi_Mobitel,-93
+eduroam,-92
+BIT,-94
+Mobitel_Open,-93
+VISITORS,-91
+Mobitel_Open,-93
+AndroidAP,-89
+,-93
+Mobitel_EAP,-95
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Test123,-96
+eduroam,-93
+STAFF,-94
+Dialog Wi-Fi,-90
+Mobitel_EAP,-91
+BIT,-95
+Sci-Fi,-95
+eduroam,-96
+Freewifi_Mobitel,-88
+UocLib,-96
+BIT,-93
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-96
+Test123,-93
+Mobitel_Open,-95
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+eduroam,-92
+BIT,-94
+Mobitel_Open,-91
+VISITORS,-91
+Mobitel_Open,-95
+AndroidAP,-89
+,-95
+Mobitel_EAP,-95
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Test123,-96
+eduroam,-93
+STAFF,-94
+Dialog Wi-Fi,-90
+Mobitel_EAP,-91
+BIT,-95
+Sci-Fi,-95
+eduroam,-96
+Freewifi_Mobitel,-88
+UocLib,-96
+BIT,-93
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-96
+Test123,-93
+Mobitel_Open,-95
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+eduroam,-92
+BIT,-94
+Mobitel_Open,-91
+VISITORS,-91
+Mobitel_Open,-95
+AndroidAP,-89
+,-95
+Mobitel_EAP,-95
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Test123,-96
+eduroam,-93
+STAFF,-94
+Dialog Wi-Fi,-90
+Mobitel_EAP,-91
+BIT,-95
+Sci-Fi,-95
+eduroam,-96
+Freewifi_Mobitel,-88
+UocLib,-96
+BIT,-93
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-96
+Test123,-93
+Mobitel_Open,-95
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+eduroam,-92
+BIT,-94
+Mobitel_Open,-91
+VISITORS,-91
+Mobitel_Open,-95
+AndroidAP,-89
+,-95
+Mobitel_EAP,-95
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-94
+Test123,-89
+eduroam,-93
+STAFF,-88
+Dialog Wi-Fi,-90
+Mobitel_EAP,-89
+BIT,-90
+Sci-Fi,-95
+eduroam,-90
+Freewifi_Mobitel,-89
+UocLib,-93
+BIT,-94
+Dialog Wi-Fi,-86
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-90
+Test123,-93
+Mobitel_Open,-95
+Mobitel_EAP,-96
+Freewifi_Mobitel,-95
+eduroam,-92
+BIT,-94
+Mobitel_Open,-91
+VISITORS,-91
+Mobitel_Open,-96
+AndroidAP,-89
+,-94
+Mobitel_EAP,-96
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-94
+Test123,-89
+eduroam,-93
+STAFF,-88
+Dialog Wi-Fi,-90
+Mobitel_EAP,-89
+BIT,-90
+Sci-Fi,-95
+eduroam,-90
+Freewifi_Mobitel,-89
+UocLib,-93
+BIT,-94
+Dialog Wi-Fi,-86
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-90
+Test123,-93
+Mobitel_Open,-95
+Mobitel_EAP,-96
+Freewifi_Mobitel,-95
+eduroam,-92
+BIT,-94
+Mobitel_Open,-91
+VISITORS,-91
+Mobitel_Open,-96
+AndroidAP,-89
+,-94
+Mobitel_EAP,-96
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-94
+Test123,-89
+eduroam,-93
+STAFF,-88
+Dialog Wi-Fi,-90
+Mobitel_EAP,-89
+BIT,-90
+Sci-Fi,-95
+eduroam,-90
+Freewifi_Mobitel,-89
+UocLib,-93
+BIT,-94
+Dialog Wi-Fi,-86
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-90
+Test123,-93
+Mobitel_Open,-95
+Mobitel_EAP,-96
+Freewifi_Mobitel,-95
+eduroam,-92
+BIT,-94
+Mobitel_Open,-91
+VISITORS,-91
+Mobitel_Open,-96
+AndroidAP,-89
+,-94
+Mobitel_EAP,-96
+STAFF,-93
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+Test123,-91
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-89
+Sci-Fi,-95
+eduroam,-87
+Freewifi_Mobitel,-89
+UocLib,-96
+BIT,-92
+Dialog Wi-Fi,-86
+VISITORS,-90
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-85
+Test123,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+BIT,-94
+Mobitel_Open,-88
+VISITORS,-91
+Mobitel_Open,-96
+AndroidAP,-89
+,-95
+Mobitel_EAP,-94
+STAFF,-93
+DOA,-92
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+Test123,-91
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-89
+Sci-Fi,-95
+eduroam,-87
+Freewifi_Mobitel,-89
+UocLib,-96
+BIT,-92
+Dialog Wi-Fi,-86
+VISITORS,-90
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-85
+Test123,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+BIT,-94
+Mobitel_Open,-88
+VISITORS,-91
+Mobitel_Open,-96
+AndroidAP,-89
+,-95
+Mobitel_EAP,-94
+STAFF,-93
+DOA,-92
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+Test123,-91
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-89
+Sci-Fi,-95
+eduroam,-87
+Freewifi_Mobitel,-89
+UocLib,-96
+BIT,-92
+Dialog Wi-Fi,-86
+VISITORS,-90
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-85
+Test123,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+BIT,-94
+Mobitel_Open,-88
+VISITORS,-91
+Mobitel_Open,-96
+AndroidAP,-89
+,-95
+Mobitel_EAP,-94
+STAFF,-93
+DOA,-92
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+Test123,-91
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-91
+BIT,-89
+Sci-Fi,-95
+eduroam,-87
+Freewifi_Mobitel,-89
+UocLib,-96
+BIT,-92
+Dialog Wi-Fi,-86
+VISITORS,-90
+Freewifi_Mobitel,-92
+STAFF,-85
+Mobitel_EAP,-97
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+Mobitel_Open,-95
+AndroidAP,-88
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-94
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-93
+BIT,-89
+eduroam,-87
+Freewifi_Mobitel,-89
+UocLib,-96
+BIT,-92
+Dialog Wi-Fi,-89
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-85
+Mobitel_EAP,-97
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+Mobitel_Open,-95
+AndroidAP,-88
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-94
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-93
+BIT,-89
+eduroam,-87
+Freewifi_Mobitel,-89
+UocLib,-96
+BIT,-92
+Dialog Wi-Fi,-89
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-85
+Mobitel_EAP,-97
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+Mobitel_Open,-95
+AndroidAP,-88
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-94
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-93
+BIT,-89
+eduroam,-87
+Freewifi_Mobitel,-89
+UocLib,-96
+BIT,-92
+Dialog Wi-Fi,-89
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-85
+Mobitel_EAP,-97
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+Mobitel_Open,-95
+AndroidAP,-88
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-94
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-93
+BIT,-89
+eduroam,-87
+Freewifi_Mobitel,-89
+UocLib,-96
+BIT,-92
+Dialog Wi-Fi,-89
+VISITORS,-93
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-90
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-89
+Mobitel_Open,-94
+AndroidAP,-92
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-93
+Test123,-94
+eduroam,-95
+STAFF,-93
+Dialog Wi-Fi,-93
+Mobitel_EAP,-89
+BIT,-92
+eduroam,-89
+Freewifi_Mobitel,-91
+UocLib,-94
+BIT,-95
+Dialog Wi-Fi,-89
+VISITORS,-93
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-90
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-89
+Mobitel_Open,-94
+AndroidAP,-92
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-93
+Test123,-94
+eduroam,-95
+STAFF,-93
+Dialog Wi-Fi,-93
+Mobitel_EAP,-89
+BIT,-92
+eduroam,-89
+Freewifi_Mobitel,-91
+UocLib,-94
+BIT,-95
+Dialog Wi-Fi,-89
+VISITORS,-93
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-90
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-89
+Mobitel_Open,-94
+AndroidAP,-92
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-93
+Test123,-94
+eduroam,-95
+STAFF,-93
+Dialog Wi-Fi,-93
+Mobitel_EAP,-89
+BIT,-92
+eduroam,-89
+Freewifi_Mobitel,-91
+UocLib,-94
+BIT,-95
+Dialog Wi-Fi,-89
+VISITORS,-93
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-90
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-89
+Mobitel_Open,-94
+AndroidAP,-92
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-93
+Test123,-94
+eduroam,-95
+STAFF,-93
+Dialog Wi-Fi,-93
+Mobitel_EAP,-89
+BIT,-92
+eduroam,-89
+Freewifi_Mobitel,-91
+UocLib,-94
+BIT,-95
+Dialog Wi-Fi,-89
+VISITORS,-93
+Sci-Fi,-95
+Freewifi_Mobitel,-92
+STAFF,-90
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-94
+AndroidAP,-93
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+CSHR ,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-92
+Test123,-92
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-92
+BIT,-89
+eduroam,-89
+Freewifi_Mobitel,-92
+UocLib,-96
+BIT,-93
+Dialog Wi-Fi,-89
+VISITORS,-91
+Sci-Fi,-95
+Freewifi_Mobitel,-96
+STAFF,-88
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-94
+AndroidAP,-93
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+CSHR ,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-92
+Test123,-92
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-92
+BIT,-89
+eduroam,-89
+Freewifi_Mobitel,-92
+UocLib,-96
+BIT,-93
+Dialog Wi-Fi,-89
+VISITORS,-91
+Sci-Fi,-95
+Freewifi_Mobitel,-96
+STAFF,-88
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-94
+AndroidAP,-93
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+CSHR ,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-92
+Test123,-92
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-92
+BIT,-89
+eduroam,-89
+Freewifi_Mobitel,-92
+UocLib,-96
+BIT,-93
+Dialog Wi-Fi,-89
+VISITORS,-91
+Sci-Fi,-95
+Freewifi_Mobitel,-96
+STAFF,-88
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-94
+AndroidAP,-93
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+CSHR ,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-92
+Test123,-92
+eduroam,-92
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-92
+BIT,-89
+eduroam,-89
+Freewifi_Mobitel,-92
+UocLib,-96
+BIT,-93
+Dialog Wi-Fi,-89
+VISITORS,-91
+Sci-Fi,-95
+Freewifi_Mobitel,-96
+STAFF,-88
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-94
+AndroidAP,-93
+,-95
+Mobitel_EAP,-94
+DOA,-92
+,-94
+Mobitel_Open,-92
+CSHR ,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+Test123,-96
+eduroam,-97
+STAFF,-96
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-90
+eduroam,-89
+Freewifi_Mobitel,-92
+UocLib,-96
+BIT,-94
+Dialog Wi-Fi,-87
+VISITORS,-96
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-88
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-91
+AndroidAP,-91
+,-94
+Mobitel_EAP,-96
+,-94
+Mobitel_Open,-95
+CSHR ,-95
+Test123,-88
+Sci-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+Test123,-96
+eduroam,-97
+STAFF,-96
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-90
+eduroam,-89
+Freewifi_Mobitel,-92
+UocLib,-96
+BIT,-94
+Dialog Wi-Fi,-87
+VISITORS,-96
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-88
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-91
+AndroidAP,-91
+,-94
+Mobitel_EAP,-96
+,-94
+Mobitel_Open,-95
+CSHR ,-95
+Test123,-88
+Sci-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+Test123,-96
+eduroam,-97
+STAFF,-96
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-90
+eduroam,-89
+Freewifi_Mobitel,-92
+UocLib,-96
+BIT,-94
+Dialog Wi-Fi,-87
+VISITORS,-96
+Sci-Fi,-95
+Freewifi_Mobitel,-95
+STAFF,-88
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-91
+AndroidAP,-91
+,-94
+Mobitel_EAP,-96
+,-94
+Mobitel_Open,-95
+CSHR ,-95
+Test123,-88
+Sci-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+Test123,-95
+eduroam,-97
+STAFF,-96
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-94
+eduroam,-92
+Freewifi_Mobitel,-92
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-87
+VISITORS,-96
+Sci-Fi,-95
+Freewifi_Mobitel,-98
+STAFF,-94
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-95
+AndroidAP,-96
+,-94
+Mobitel_EAP,-92
+,-94
+Mobitel_Open,-92
+CSHR ,-95
+Test123,-88
+Sci-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+Test123,-95
+eduroam,-97
+STAFF,-96
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-94
+eduroam,-92
+Freewifi_Mobitel,-92
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-87
+VISITORS,-96
+Sci-Fi,-95
+Freewifi_Mobitel,-98
+STAFF,-94
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-95
+AndroidAP,-96
+,-94
+Mobitel_EAP,-92
+,-94
+Mobitel_Open,-92
+CSHR ,-95
+Test123,-88
+Sci-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+Test123,-95
+eduroam,-97
+STAFF,-96
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-94
+eduroam,-92
+Freewifi_Mobitel,-92
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-87
+VISITORS,-96
+Sci-Fi,-95
+Freewifi_Mobitel,-98
+STAFF,-94
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Mobitel_Open,-91
+Mobitel_Open,-95
+AndroidAP,-96
+,-94
+Mobitel_EAP,-92
+,-94
+Mobitel_Open,-92
+CSHR ,-95
+Test123,-88
+Sci-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Test123,-95
+eduroam,-97
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-94
+eduroam,-95
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-87
+VISITORS,-96
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-93
+Mobitel_Open,-86
+Mobitel_Open,-95
+AndroidAP,-94
+,-93
+Mobitel_EAP,-92
+Mobitel_Open,-94
+CSHR ,-95
+Test123,-88
+Sci-Fi,-91
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Test123,-95
+eduroam,-97
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-94
+eduroam,-95
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-87
+VISITORS,-96
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-93
+Mobitel_Open,-86
+Mobitel_Open,-95
+AndroidAP,-94
+,-93
+Mobitel_EAP,-92
+Mobitel_Open,-94
+CSHR ,-95
+Test123,-88
+Sci-Fi,-91
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Test123,-95
+eduroam,-97
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-94
+eduroam,-95
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-87
+VISITORS,-96
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-93
+Mobitel_Open,-86
+Mobitel_Open,-95
+AndroidAP,-94
+,-93
+Mobitel_EAP,-92
+Mobitel_Open,-94
+CSHR ,-95
+Test123,-88
+Sci-Fi,-91
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+Test123,-95
+eduroam,-97
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-94
+eduroam,-95
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-87
+VISITORS,-96
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-93
+Mobitel_Open,-86
+Mobitel_Open,-95
+AndroidAP,-94
+,-93
+Mobitel_EAP,-92
+Mobitel_Open,-94
+CSHR ,-95
+Test123,-88
+Sci-Fi,-91
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-95
+eduroam,-97
+STAFF,-91
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-86
+VISITORS,-96
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-93
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Mobitel_Open,-86
+Mobitel_Open,-94
+AndroidAP,-93
+,-92
+Mobitel_EAP,-95
+Mobitel_Open,-94
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-95
+eduroam,-97
+STAFF,-91
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-86
+VISITORS,-96
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-93
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Mobitel_Open,-86
+Mobitel_Open,-94
+AndroidAP,-93
+,-92
+Mobitel_EAP,-95
+Mobitel_Open,-94
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-95
+eduroam,-97
+STAFF,-91
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-86
+VISITORS,-96
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-93
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Mobitel_Open,-86
+Mobitel_Open,-94
+AndroidAP,-93
+,-92
+Mobitel_EAP,-95
+Mobitel_Open,-94
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-95
+eduroam,-97
+STAFF,-91
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+BIT,-92
+Dialog Wi-Fi,-86
+VISITORS,-96
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-93
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Mobitel_Open,-86
+Mobitel_Open,-94
+AndroidAP,-93
+,-92
+Mobitel_EAP,-95
+Mobitel_Open,-94
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+BIT,-91
+Dialog Wi-Fi,-86
+VISITORS,-91
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Mobitel_Open,-88
+Mobitel_Open,-93
+AndroidAP,-93
+,-92
+Mobitel_EAP,-95
+Mobitel_Open,-93
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+BIT,-91
+Dialog Wi-Fi,-86
+VISITORS,-91
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Mobitel_Open,-88
+Mobitel_Open,-93
+AndroidAP,-93
+,-92
+Mobitel_EAP,-95
+Mobitel_Open,-93
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+BIT,-91
+Dialog Wi-Fi,-86
+VISITORS,-91
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Mobitel_Open,-88
+Mobitel_Open,-93
+AndroidAP,-93
+,-92
+Mobitel_EAP,-95
+Mobitel_Open,-93
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-90
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+BIT,-91
+Dialog Wi-Fi,-86
+VISITORS,-91
+Sci-Fi,-94
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Mobitel_Open,-88
+Mobitel_Open,-93
+AndroidAP,-93
+,-92
+Mobitel_EAP,-95
+Mobitel_Open,-93
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-93
+BIT,-91
+Dialog Wi-Fi,-85
+VISITORS,-91
+Sci-Fi,-96
+Freewifi_Mobitel,-94
+STAFF,-93
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-93
+,-94
+Mobitel_EAP,-99
+Mobitel_Open,-93
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-93
+BIT,-91
+Dialog Wi-Fi,-85
+VISITORS,-91
+Sci-Fi,-96
+Freewifi_Mobitel,-94
+STAFF,-93
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-93
+,-94
+Mobitel_EAP,-99
+Mobitel_Open,-93
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-93
+BIT,-91
+Dialog Wi-Fi,-85
+VISITORS,-91
+Sci-Fi,-96
+Freewifi_Mobitel,-94
+STAFF,-93
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-93
+,-94
+Mobitel_EAP,-99
+Mobitel_Open,-93
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-90
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-93
+BIT,-91
+Dialog Wi-Fi,-85
+VISITORS,-91
+Sci-Fi,-96
+Freewifi_Mobitel,-94
+STAFF,-93
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-93
+,-94
+Mobitel_EAP,-99
+Mobitel_Open,-93
+CSHR ,-95
+Test123,-91
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-91
+eduroam,-90
+Freewifi_Mobitel,-89
+UocLib,-97
+BIT,-91
+Dialog Wi-Fi,-85
+VISITORS,-91
+Sci-Fi,-96
+Freewifi_Mobitel,-95
+STAFF,-87
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-90
+,-94
+Mobitel_EAP,-94
+Mobitel_Open,-93
+Test123,-89
+Sci-Fi,-93
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-91
+eduroam,-90
+Freewifi_Mobitel,-89
+UocLib,-97
+BIT,-91
+Dialog Wi-Fi,-85
+VISITORS,-91
+Sci-Fi,-96
+Freewifi_Mobitel,-95
+STAFF,-87
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-90
+,-94
+Mobitel_EAP,-94
+Mobitel_Open,-93
+Test123,-89
+Sci-Fi,-93
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-91
+eduroam,-90
+Freewifi_Mobitel,-89
+UocLib,-97
+BIT,-91
+Dialog Wi-Fi,-85
+VISITORS,-91
+Sci-Fi,-96
+Freewifi_Mobitel,-95
+STAFF,-87
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-90
+,-94
+Mobitel_EAP,-94
+Mobitel_Open,-93
+Test123,-89
+Sci-Fi,-93
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+Test123,-93
+eduroam,-90
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-91
+eduroam,-90
+Freewifi_Mobitel,-89
+UocLib,-97
+BIT,-91
+Dialog Wi-Fi,-85
+VISITORS,-91
+Sci-Fi,-96
+Freewifi_Mobitel,-95
+STAFF,-87
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-96
+,-94
+Mobitel_EAP,-94
+Mobitel_Open,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Test123,-93
+eduroam,-90
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-93
+eduroam,-93
+Freewifi_Mobitel,-95
+UocLib,-94
+BIT,-92
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-96
+Freewifi_Mobitel,-95
+STAFF,-92
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-96
+,-94
+Mobitel_EAP,-94
+Mobitel_Open,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Test123,-93
+eduroam,-90
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-93
+eduroam,-93
+Freewifi_Mobitel,-95
+UocLib,-94
+BIT,-92
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-96
+Freewifi_Mobitel,-95
+STAFF,-92
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-96
+,-94
+Mobitel_EAP,-94
+Mobitel_Open,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+Test123,-93
+eduroam,-90
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-93
+eduroam,-93
+Freewifi_Mobitel,-95
+UocLib,-94
+BIT,-92
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-96
+Freewifi_Mobitel,-95
+STAFF,-92
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+Mobitel_Open,-93
+AndroidAP,-96
+,-94
+Mobitel_EAP,-94
+Mobitel_Open,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-88
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-88
+Freewifi_Mobitel,-90
+UocLib,-95
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-96
+Freewifi_Mobitel,-94
+STAFF,-90
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+AndroidAP,-96
+,-94
+Mobitel_EAP,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-88
+Freewifi_Mobitel,-90
+UocLib,-95
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-96
+Freewifi_Mobitel,-94
+STAFF,-90
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+AndroidAP,-96
+,-94
+Mobitel_EAP,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-88
+Freewifi_Mobitel,-90
+UocLib,-95
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-96
+Freewifi_Mobitel,-94
+STAFF,-90
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+AndroidAP,-96
+,-94
+Mobitel_EAP,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-88
+Freewifi_Mobitel,-90
+UocLib,-95
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-96
+Freewifi_Mobitel,-94
+STAFF,-90
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-89
+AndroidAP,-96
+,-94
+Mobitel_EAP,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-88
+Freewifi_Mobitel,-90
+UocLib,-95
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-96
+Freewifi_Mobitel,-94
+STAFF,-87
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+AndroidAP,-94
+,-96
+Mobitel_EAP,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-93
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-87
+eduroam,-88
+Freewifi_Mobitel,-88
+UocLib,-94
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-97
+Freewifi_Mobitel,-94
+STAFF,-87
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+AndroidAP,-94
+,-96
+Mobitel_EAP,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-93
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-87
+eduroam,-88
+Freewifi_Mobitel,-88
+UocLib,-94
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-97
+Freewifi_Mobitel,-94
+STAFF,-87
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+AndroidAP,-94
+,-96
+Mobitel_EAP,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-93
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-87
+eduroam,-88
+Freewifi_Mobitel,-88
+UocLib,-94
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-97
+Freewifi_Mobitel,-94
+STAFF,-87
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+AndroidAP,-94
+,-96
+Mobitel_EAP,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-93
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-87
+eduroam,-88
+Freewifi_Mobitel,-88
+UocLib,-94
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-97
+Freewifi_Mobitel,-94
+STAFF,-87
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+AndroidAP,-94
+,-96
+Mobitel_EAP,-93
+Test123,-89
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-89
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-88
+BIT,-94
+eduroam,-92
+Freewifi_Mobitel,-88
+UocLib,-93
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-90
+Freewifi_Mobitel,-96
+Mobitel_Open,-87
+AndroidAP,-95
+,-96
+Mobitel_EAP,-93
+Sci-Fi,-94
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-89
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-88
+BIT,-94
+eduroam,-92
+Freewifi_Mobitel,-88
+UocLib,-93
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-90
+Freewifi_Mobitel,-96
+Mobitel_Open,-87
+AndroidAP,-95
+,-96
+Mobitel_EAP,-93
+Sci-Fi,-94
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-89
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-88
+BIT,-94
+eduroam,-92
+Freewifi_Mobitel,-88
+UocLib,-93
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-90
+Freewifi_Mobitel,-96
+Mobitel_Open,-87
+AndroidAP,-95
+,-96
+Mobitel_EAP,-93
+Sci-Fi,-94
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-89
+eduroam,-96
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-88
+BIT,-94
+eduroam,-92
+Freewifi_Mobitel,-88
+UocLib,-93
+BIT,-98
+Dialog Wi-Fi,-87
+VISITORS,-94
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-90
+Freewifi_Mobitel,-96
+Mobitel_Open,-87
+AndroidAP,-95
+,-96
+Mobitel_EAP,-93
+Sci-Fi,-94
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+Test123,-91
+Test123,-92
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+eduroam,-93
+STAFF,-95
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-81
+UocLib,-93
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-91
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+AndroidAP,-92
+,-95
+Mobitel_EAP,-93
+Sci-Fi,-94
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+Test123,-91
+Test123,-92
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+eduroam,-93
+STAFF,-95
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-81
+UocLib,-93
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-91
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+AndroidAP,-92
+,-95
+Mobitel_EAP,-93
+Sci-Fi,-94
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+Test123,-91
+Test123,-92
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+eduroam,-93
+STAFF,-95
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-81
+UocLib,-93
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-91
+Freewifi_Mobitel,-96
+Mobitel_Open,-88
+AndroidAP,-92
+,-95
+Mobitel_EAP,-93
+Sci-Fi,-94
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+Test123,-91
+Test123,-92
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+eduroam,-93
+STAFF,-94
+Dialog Wi-Fi,-94
+Mobitel_EAP,-89
+BIT,-93
+eduroam,-95
+Freewifi_Mobitel,-88
+UocLib,-92
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-91
+Mobitel_Open,-87
+AndroidAP,-96
+,-92
+Mobitel_EAP,-95
+Sci-Fi,-95
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+eduroam,-93
+STAFF,-94
+Dialog Wi-Fi,-94
+Mobitel_EAP,-89
+BIT,-93
+eduroam,-95
+Freewifi_Mobitel,-88
+UocLib,-92
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-91
+Mobitel_Open,-87
+AndroidAP,-96
+,-92
+Mobitel_EAP,-95
+Sci-Fi,-95
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+eduroam,-93
+STAFF,-94
+Dialog Wi-Fi,-94
+Mobitel_EAP,-89
+BIT,-93
+eduroam,-95
+Freewifi_Mobitel,-88
+UocLib,-92
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-91
+Mobitel_Open,-87
+AndroidAP,-96
+,-92
+Mobitel_EAP,-95
+Sci-Fi,-95
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+eduroam,-93
+STAFF,-94
+Dialog Wi-Fi,-94
+Mobitel_EAP,-89
+BIT,-93
+eduroam,-95
+Freewifi_Mobitel,-88
+UocLib,-92
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-91
+Mobitel_Open,-87
+AndroidAP,-96
+,-92
+Mobitel_EAP,-95
+Sci-Fi,-95
+DOA,-96
+eduroam,-96
+STAFF,-94
+Mobitel_Open,-94
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+eduroam,-93
+STAFF,-94
+Dialog Wi-Fi,-94
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-92
+Freewifi_Mobitel,-89
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-95
+,-91
+Mobitel_EAP,-95
+Sci-Fi,-95
+STAFF,-94
+Mobitel_Open,-94
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-92
+Freewifi_Mobitel,-89
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-95
+,-91
+Mobitel_EAP,-95
+Sci-Fi,-95
+STAFF,-94
+Mobitel_Open,-94
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-92
+Freewifi_Mobitel,-89
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-95
+,-91
+Mobitel_EAP,-95
+Sci-Fi,-95
+STAFF,-94
+Mobitel_Open,-94
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-92
+Freewifi_Mobitel,-89
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-95
+,-91
+Mobitel_EAP,-95
+Sci-Fi,-95
+STAFF,-94
+Mobitel_Open,-94
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-92
+Freewifi_Mobitel,-89
+UocLib,-95
+BIT,-95
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-95
+Freewifi_Mobitel,-94
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-95
+,-91
+Mobitel_EAP,-95
+Sci-Fi,-95
+STAFF,-94
+Mobitel_Open,-94
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-93
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-92
+Freewifi_Mobitel,-89
+UocLib,-90
+BIT,-95
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-94
+Freewifi_Mobitel,-93
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-92
+,-91
+Mobitel_EAP,-94
+Sci-Fi,-95
+STAFF,-94
+Mobitel_Open,-97
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-93
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-92
+Freewifi_Mobitel,-89
+UocLib,-90
+BIT,-95
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-94
+Freewifi_Mobitel,-93
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-92
+,-91
+Mobitel_EAP,-94
+Sci-Fi,-95
+STAFF,-94
+Mobitel_Open,-97
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-93
+eduroam,-93
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-88
+BIT,-89
+eduroam,-92
+Freewifi_Mobitel,-89
+UocLib,-90
+BIT,-95
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-94
+Freewifi_Mobitel,-93
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-92
+,-91
+Mobitel_EAP,-94
+Sci-Fi,-95
+STAFF,-94
+Mobitel_Open,-97
+Test123,-90
+Test123,-95
+IBMBB Wireless,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-93
+eduroam,-93
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-94
+Freewifi_Mobitel,-95
+STAFF,-92
+Mobitel_Open,-88
+AndroidAP,-92
+,-93
+Mobitel_EAP,-95
+Sci-Fi,-95
+STAFF,-97
+Mobitel_Open,-93
+Test123,-90
+Test123,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-93
+eduroam,-93
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-94
+Freewifi_Mobitel,-95
+STAFF,-92
+Mobitel_Open,-88
+AndroidAP,-92
+,-93
+Mobitel_EAP,-95
+Sci-Fi,-95
+STAFF,-97
+Mobitel_Open,-93
+Test123,-90
+Test123,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-93
+eduroam,-93
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-94
+Freewifi_Mobitel,-95
+STAFF,-92
+Mobitel_Open,-88
+AndroidAP,-92
+,-93
+Mobitel_EAP,-95
+Sci-Fi,-95
+STAFF,-97
+Mobitel_Open,-93
+Test123,-90
+Test123,-95
+,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-88
+BIT,-93
+eduroam,-93
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-94
+Freewifi_Mobitel,-95
+STAFF,-92
+Mobitel_Open,-88
+AndroidAP,-92
+,-93
+Mobitel_EAP,-95
+Sci-Fi,-92
+STAFF,-97
+Mobitel_Open,-93
+Test123,-90
+Test123,-95
+,-97
+CSHR ,-95
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-87
+BIT,-91
+eduroam,-91
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-87
+VISITORS,-93
+Sci-Fi,-93
+Freewifi_Mobitel,-95
+STAFF,-90
+Mobitel_Open,-89
+AndroidAP,-94
+,-94
+Mobitel_EAP,-95
+Sci-Fi,-92
+STAFF,-97
+Mobitel_Open,-93
+Test123,-90
+Test123,-95
+,-97
+CSHR ,-95
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-87
+BIT,-91
+eduroam,-91
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-87
+VISITORS,-93
+Sci-Fi,-93
+Freewifi_Mobitel,-95
+STAFF,-90
+Mobitel_Open,-89
+AndroidAP,-94
+,-94
+Mobitel_EAP,-95
+Sci-Fi,-92
+STAFF,-97
+Mobitel_Open,-93
+Test123,-90
+Test123,-95
+,-97
+CSHR ,-95
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-87
+BIT,-91
+eduroam,-91
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-87
+VISITORS,-93
+Sci-Fi,-93
+Freewifi_Mobitel,-95
+STAFF,-90
+Mobitel_Open,-89
+AndroidAP,-94
+,-94
+Mobitel_EAP,-95
+Sci-Fi,-92
+STAFF,-97
+Mobitel_Open,-93
+Test123,-90
+Test123,-95
+,-97
+CSHR ,-95
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-87
+BIT,-91
+eduroam,-91
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-92
+Freewifi_Mobitel,-95
+STAFF,-90
+Mobitel_Open,-90
+AndroidAP,-93
+,-94
+Mobitel_EAP,-96
+Sci-Fi,-95
+STAFF,-97
+Mobitel_Open,-93
+,-97
+CSHR ,-95
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-94
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-92
+Freewifi_Mobitel,-95
+STAFF,-90
+Mobitel_Open,-90
+AndroidAP,-93
+,-94
+Mobitel_EAP,-96
+Sci-Fi,-95
+STAFF,-97
+Mobitel_Open,-93
+,-97
+CSHR ,-95
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-94
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-92
+Freewifi_Mobitel,-95
+STAFF,-90
+Mobitel_Open,-90
+AndroidAP,-93
+,-94
+Mobitel_EAP,-96
+Sci-Fi,-95
+STAFF,-97
+Mobitel_Open,-93
+,-97
+CSHR ,-95
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-94
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-92
+Freewifi_Mobitel,-95
+STAFF,-90
+Mobitel_Open,-90
+AndroidAP,-93
+,-94
+Mobitel_EAP,-96
+Sci-Fi,-95
+STAFF,-97
+Mobitel_Open,-93
+,-97
+CSHR ,-95
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-94
+Dialog Wi-Fi,-90
+Mobitel_EAP,-92
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-88
+UocLib,-95
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-93
+Sci-Fi,-92
+Freewifi_Mobitel,-95
+STAFF,-90
+Mobitel_Open,-90
+AndroidAP,-93
+,-94
+Mobitel_EAP,-96
+Sci-Fi,-95
+STAFF,-97
+Mobitel_Open,-93
+,-97
+CSHR ,-95
+eduroam,-96
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-90
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-92
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_Open,-88
+AndroidAP,-94
+,-94
+Mobitel_EAP,-93
+Sci-Fi,-94
+STAFF,-97
+Mobitel_Open,-93
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-90
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-92
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_Open,-88
+AndroidAP,-94
+,-94
+Mobitel_EAP,-93
+Sci-Fi,-94
+STAFF,-97
+Mobitel_Open,-93
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-90
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-92
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_Open,-88
+AndroidAP,-94
+,-94
+Mobitel_EAP,-93
+Sci-Fi,-94
+STAFF,-97
+Mobitel_Open,-93
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+STAFF,-94
+Dialog Wi-Fi,-91
+Mobitel_EAP,-90
+BIT,-90
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-92
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_Open,-88
+AndroidAP,-94
+,-94
+Mobitel_EAP,-93
+Sci-Fi,-94
+STAFF,-97
+Mobitel_Open,-93
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+STAFF,-94
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-91
+eduroam,-91
+Freewifi_Mobitel,-87
+UocLib,-92
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_Open,-86
+AndroidAP,-93
+,-94
+Mobitel_EAP,-93
+Sci-Fi,-94
+STAFF,-97
+Mobitel_Open,-93
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+STAFF,-93
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+STAFF,-94
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-91
+eduroam,-91
+Freewifi_Mobitel,-87
+UocLib,-92
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_Open,-86
+AndroidAP,-93
+,-94
+Mobitel_EAP,-93
+Sci-Fi,-94
+STAFF,-97
+Mobitel_Open,-93
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+STAFF,-93
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+STAFF,-94
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-91
+eduroam,-91
+Freewifi_Mobitel,-87
+UocLib,-92
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_Open,-86
+AndroidAP,-93
+,-94
+Mobitel_EAP,-93
+Sci-Fi,-94
+STAFF,-97
+Mobitel_Open,-93
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+STAFF,-93
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-91
+STAFF,-94
+Dialog Wi-Fi,-89
+Mobitel_EAP,-88
+BIT,-91
+eduroam,-91
+Freewifi_Mobitel,-87
+UocLib,-92
+BIT,-96
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-91
+Mobitel_Open,-86
+,-92
+Mobitel_EAP,-93
+Sci-Fi,-94
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+STAFF,-92
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-88
+BIT,-90
+eduroam,-91
+Freewifi_Mobitel,-87
+UocLib,-92
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-93
+,-92
+Mobitel_EAP,-93
+Sci-Fi,-94
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+STAFF,-92
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-88
+BIT,-90
+eduroam,-91
+Freewifi_Mobitel,-87
+UocLib,-92
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-93
+,-92
+Mobitel_EAP,-93
+Sci-Fi,-94
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+STAFF,-92
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-88
+BIT,-90
+eduroam,-91
+Freewifi_Mobitel,-87
+UocLib,-92
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-96
+STAFF,-90
+Mobitel_Open,-87
+AndroidAP,-93
+,-92
+Mobitel_EAP,-93
+Sci-Fi,-94
+,-95
+CSHR ,-95
+eduroam,-95
+Test123,-94
+STAFF,-92
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-85
+BIT,-91
+eduroam,-92
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-98
+Freewifi_Mobitel,-94
+STAFF,-88
+Mobitel_Open,-86
+AndroidAP,-93
+,-92
+Mobitel_EAP,-94
+Sci-Fi,-94
+,-95
+eduroam,-95
+Test123,-94
+STAFF,-92
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+Test123,-92
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-85
+BIT,-91
+eduroam,-92
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-98
+Freewifi_Mobitel,-94
+STAFF,-88
+Mobitel_Open,-86
+AndroidAP,-93
+,-92
+Mobitel_EAP,-94
+Sci-Fi,-94
+,-95
+eduroam,-95
+Test123,-94
+STAFF,-92
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+Test123,-92
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-85
+BIT,-91
+eduroam,-92
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-88
+VISITORS,-95
+Sci-Fi,-98
+Freewifi_Mobitel,-94
+STAFF,-88
+Mobitel_Open,-86
+AndroidAP,-93
+,-92
+Mobitel_EAP,-94
+Sci-Fi,-94
+,-95
+eduroam,-95
+Test123,-94
+STAFF,-92
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+Test123,-92
+Mobitel_Open,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-92
+Dialog Wi-Fi,-90
+Mobitel_EAP,-85
+BIT,-91
+eduroam,-90
+Freewifi_Mobitel,-86
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-95
+Sci-Fi,-98
+Freewifi_Mobitel,-94
+STAFF,-88
+Mobitel_Open,-80
+AndroidAP,-93
+,-92
+Mobitel_EAP,-92
+Sci-Fi,-94
+,-95
+eduroam,-94
+Test123,-94
+STAFF,-92
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+Test123,-94
+Mobitel_Open,-93
+Test123,-91
+DOA,-95
+BIT,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-85
+BIT,-91
+eduroam,-90
+Freewifi_Mobitel,-86
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-95
+Sci-Fi,-98
+Freewifi_Mobitel,-94
+STAFF,-88
+Mobitel_Open,-80
+AndroidAP,-93
+,-92
+Mobitel_EAP,-92
+Sci-Fi,-94
+,-95
+eduroam,-94
+Test123,-94
+STAFF,-92
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+Test123,-94
+Mobitel_Open,-93
+Test123,-91
+DOA,-95
+BIT,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-85
+BIT,-91
+eduroam,-90
+Freewifi_Mobitel,-86
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-95
+Sci-Fi,-98
+Freewifi_Mobitel,-94
+STAFF,-88
+Mobitel_Open,-80
+AndroidAP,-93
+,-92
+Mobitel_EAP,-92
+Sci-Fi,-94
+,-95
+eduroam,-94
+Test123,-94
+STAFF,-92
+Test123,-95
+VISITORS,-94
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+Test123,-94
+Mobitel_Open,-93
+Test123,-91
+DOA,-95
+BIT,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-85
+BIT,-91
+eduroam,-90
+Freewifi_Mobitel,-86
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-95
+Sci-Fi,-98
+Freewifi_Mobitel,-94
+STAFF,-88
+Mobitel_Open,-80
+AndroidAP,-93
+,-91
+Mobitel_EAP,-92
+eduroam,-94
+STAFF,-92
+Freewifi_Mobitel,-96
+Mobitel_EAP,-94
+Test123,-94
+Mobitel_Open,-93
+Test123,-91
+DOA,-95
+BIT,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-92
+eduroam,-91
+Freewifi_Mobitel,-86
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-94
+Sci-Fi,-98
+Freewifi_Mobitel,-95
+STAFF,-91
+Mobitel_Open,-80
+AndroidAP,-93
+,-91
+Mobitel_EAP,-92
+eduroam,-94
+STAFF,-92
+Freewifi_Mobitel,-96
+Mobitel_EAP,-94
+Test123,-94
+Mobitel_Open,-93
+Test123,-91
+DOA,-95
+BIT,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-92
+eduroam,-91
+Freewifi_Mobitel,-86
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-94
+Sci-Fi,-98
+Freewifi_Mobitel,-95
+STAFF,-91
+Mobitel_Open,-80
+AndroidAP,-93
+,-91
+Mobitel_EAP,-92
+eduroam,-94
+STAFF,-92
+Freewifi_Mobitel,-96
+Mobitel_EAP,-94
+Test123,-94
+Mobitel_Open,-93
+Test123,-91
+DOA,-95
+BIT,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-92
+eduroam,-91
+Freewifi_Mobitel,-86
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-94
+Sci-Fi,-98
+Freewifi_Mobitel,-95
+STAFF,-91
+Mobitel_Open,-80
+AndroidAP,-93
+,-91
+Mobitel_EAP,-92
+eduroam,-94
+STAFF,-92
+Freewifi_Mobitel,-96
+Mobitel_EAP,-94
+Test123,-94
+Mobitel_Open,-93
+Test123,-91
+DOA,-95
+BIT,-92
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-90
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-89
+BIT,-92
+eduroam,-91
+Freewifi_Mobitel,-86
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-96
+Sci-Fi,-98
+Freewifi_Mobitel,-95
+STAFF,-94
+Mobitel_Open,-80
+AndroidAP,-91
+,-91
+Mobitel_EAP,-92
+eduroam,-93
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-93
+Test123,-95
+DOA,-95
+BIT,-95
+Mobitel_Open,-97
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-96
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-96
+Sci-Fi,-98
+Freewifi_Mobitel,-95
+STAFF,-94
+Mobitel_Open,-80
+AndroidAP,-91
+,-91
+Mobitel_EAP,-92
+eduroam,-93
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-93
+Test123,-95
+DOA,-95
+BIT,-95
+Mobitel_Open,-97
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-96
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-96
+Sci-Fi,-98
+Freewifi_Mobitel,-95
+STAFF,-94
+Mobitel_Open,-80
+AndroidAP,-91
+,-91
+Mobitel_EAP,-92
+eduroam,-93
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-93
+Test123,-95
+DOA,-95
+BIT,-95
+Mobitel_Open,-97
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-92
+STAFF,-92
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-96
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-94
+Dialog Wi-Fi,-83
+VISITORS,-96
+Sci-Fi,-98
+Freewifi_Mobitel,-95
+STAFF,-94
+Mobitel_Open,-80
+AndroidAP,-91
+,-91
+Mobitel_EAP,-92
+eduroam,-93
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-93
+Test123,-95
+DOA,-95
+BIT,-95
+Mobitel_Open,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-96
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-93
+Dialog Wi-Fi,-83
+VISITORS,-96
+Sci-Fi,-99
+Freewifi_Mobitel,-94
+STAFF,-94
+Mobitel_Open,-90
+AndroidAP,-93
+,-91
+Mobitel_EAP,-95
+eduroam,-92
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-94
+Test123,-95
+DOA,-95
+BIT,-94
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-96
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-93
+Dialog Wi-Fi,-83
+VISITORS,-96
+Sci-Fi,-99
+Freewifi_Mobitel,-94
+STAFF,-94
+Mobitel_Open,-90
+AndroidAP,-93
+,-91
+Mobitel_EAP,-95
+eduroam,-92
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-94
+Test123,-95
+DOA,-95
+BIT,-94
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-96
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-93
+Dialog Wi-Fi,-83
+VISITORS,-96
+Sci-Fi,-99
+Freewifi_Mobitel,-94
+STAFF,-94
+Mobitel_Open,-90
+AndroidAP,-93
+,-91
+Mobitel_EAP,-95
+eduroam,-92
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-94
+Test123,-95
+DOA,-95
+BIT,-94
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-96
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-93
+Dialog Wi-Fi,-83
+VISITORS,-96
+Sci-Fi,-99
+Freewifi_Mobitel,-94
+STAFF,-94
+Mobitel_Open,-90
+AndroidAP,-93
+,-91
+Mobitel_EAP,-95
+eduroam,-92
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-94
+Test123,-95
+DOA,-95
+BIT,-94
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-93
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-95
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-94
+Sci-Fi,-99
+Freewifi_Mobitel,-95
+STAFF,-95
+Mobitel_Open,-90
+AndroidAP,-84
+,-94
+Mobitel_EAP,-92
+eduroam,-93
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-95
+Test123,-95
+DOA,-92
+BIT,-93
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-93
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-95
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-94
+Sci-Fi,-99
+Freewifi_Mobitel,-95
+STAFF,-95
+Mobitel_Open,-90
+AndroidAP,-84
+,-94
+Mobitel_EAP,-92
+eduroam,-93
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-95
+Test123,-95
+DOA,-92
+BIT,-93
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-93
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-95
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-94
+Sci-Fi,-99
+Freewifi_Mobitel,-95
+STAFF,-95
+Mobitel_Open,-90
+AndroidAP,-84
+,-94
+Mobitel_EAP,-92
+eduroam,-93
+Freewifi_Mobitel,-96
+Test123,-95
+Mobitel_Open,-95
+Test123,-95
+DOA,-92
+BIT,-93
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-97
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-93
+Dialog Wi-Fi,-92
+Mobitel_EAP,-92
+BIT,-95
+eduroam,-95
+Freewifi_Mobitel,-90
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-94
+Sci-Fi,-99
+Freewifi_Mobitel,-95
+STAFF,-95
+Mobitel_Open,-90
+AndroidAP,-84
+,-94
+Mobitel_EAP,-92
+eduroam,-93
+Freewifi_Mobitel,-96
+Test123,-95
+Test123,-94
+DOA,-92
+BIT,-92
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-95
+ ------------ 
+HTC Portable Hotspot ED58,-52
+lish,-89
+STAFF,-91
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-93
+eduroam,-92
+Freewifi_Mobitel,-90
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-91
+Sci-Fi,-99
+Freewifi_Mobitel,-95
+STAFF,-93
+Mobitel_Open,-90
+AndroidAP,-90
+,-94
+Mobitel_EAP,-92
+eduroam,-90
+Test123,-92
+Mobitel_Open,-93
+Test123,-94
+DOA,-92
+BIT,-92
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-95
+ ------------ 
+HTC Portable Hotspot ED58,-52
+lish,-89
+STAFF,-91
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-93
+eduroam,-92
+Freewifi_Mobitel,-90
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-91
+Sci-Fi,-99
+Freewifi_Mobitel,-95
+STAFF,-93
+Mobitel_Open,-90
+AndroidAP,-90
+,-94
+Mobitel_EAP,-92
+eduroam,-90
+Test123,-92
+Mobitel_Open,-93
+Test123,-94
+DOA,-92
+BIT,-92
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-95
+ ------------ 
+HTC Portable Hotspot ED58,-52
+lish,-89
+STAFF,-91
+Dialog Wi-Fi,-91
+Mobitel_EAP,-92
+BIT,-93
+eduroam,-92
+Freewifi_Mobitel,-90
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-91
+Sci-Fi,-99
+Freewifi_Mobitel,-95
+STAFF,-93
+Mobitel_Open,-90
+AndroidAP,-90
+,-94
+Mobitel_EAP,-92
+eduroam,-90
+Test123,-92
+Mobitel_Open,-93
+Test123,-94
+DOA,-92
+BIT,-92
+Mobitel_Open,-97
+Sci-Fi,-91
+CSHR ,-94
+,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-91
+Dialog Wi-Fi,-92
+Mobitel_EAP,-94
+BIT,-93
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-93
+Sci-Fi,-99
+Freewifi_Mobitel,-92
+STAFF,-92
+Mobitel_Open,-88
+AndroidAP,-87
+,-91
+Mobitel_EAP,-92
+eduroam,-93
+Test123,-91
+Mobitel_Open,-95
+Test123,-94
+DOA,-92
+BIT,-91
+Sci-Fi,-92
+CSHR ,-94
+,-95
+STAFF,-93
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-91
+Dialog Wi-Fi,-92
+Mobitel_EAP,-94
+BIT,-93
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-93
+Sci-Fi,-99
+Freewifi_Mobitel,-92
+STAFF,-92
+Mobitel_Open,-88
+AndroidAP,-87
+,-91
+Mobitel_EAP,-92
+eduroam,-93
+Test123,-91
+Mobitel_Open,-95
+Test123,-94
+DOA,-92
+BIT,-91
+Sci-Fi,-92
+CSHR ,-94
+,-95
+STAFF,-93
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-89
+STAFF,-91
+Dialog Wi-Fi,-92
+Mobitel_EAP,-94
+BIT,-93
+eduroam,-92
+Freewifi_Mobitel,-87
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-93
+Sci-Fi,-99
+Freewifi_Mobitel,-92
+STAFF,-92
+Mobitel_Open,-88
+AndroidAP,-87
+,-91
+Mobitel_EAP,-92
+eduroam,-93
+Test123,-91
+Mobitel_Open,-95
+Test123,-94
+DOA,-92
+BIT,-91
+Sci-Fi,-92
+CSHR ,-94
+,-95
+STAFF,-93
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+STAFF,-93
+Dialog Wi-Fi,-90
+Mobitel_EAP,-84
+BIT,-93
+eduroam,-95
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-84
+VISITORS,-95
+Freewifi_Mobitel,-92
+STAFF,-94
+Mobitel_Open,-85
+AndroidAP,-82
+,-89
+Mobitel_EAP,-92
+eduroam,-96
+Test123,-94
+Mobitel_Open,-95
+Test123,-94
+DOA,-92
+BIT,-94
+Sci-Fi,-92
+,-92
+STAFF,-92
+Test123,-95
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+STAFF,-93
+Dialog Wi-Fi,-90
+Mobitel_EAP,-84
+BIT,-93
+eduroam,-95
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-84
+VISITORS,-95
+Freewifi_Mobitel,-92
+STAFF,-94
+Mobitel_Open,-85
+AndroidAP,-82
+,-89
+Mobitel_EAP,-92
+eduroam,-96
+Test123,-94
+Mobitel_Open,-95
+Test123,-94
+DOA,-92
+BIT,-94
+Sci-Fi,-92
+,-92
+STAFF,-92
+Test123,-95
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+STAFF,-93
+Dialog Wi-Fi,-90
+Mobitel_EAP,-84
+BIT,-93
+eduroam,-95
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-84
+VISITORS,-95
+Freewifi_Mobitel,-92
+STAFF,-94
+Mobitel_Open,-85
+AndroidAP,-82
+,-89
+Mobitel_EAP,-92
+eduroam,-96
+Test123,-94
+Mobitel_Open,-95
+Test123,-94
+DOA,-92
+BIT,-94
+Sci-Fi,-92
+,-92
+STAFF,-92
+Test123,-95
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-89
+STAFF,-93
+Dialog Wi-Fi,-90
+Mobitel_EAP,-84
+BIT,-93
+eduroam,-95
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-84
+VISITORS,-95
+Freewifi_Mobitel,-92
+STAFF,-94
+Mobitel_Open,-85
+AndroidAP,-82
+,-89
+Mobitel_EAP,-92
+eduroam,-96
+Test123,-94
+Mobitel_Open,-95
+Test123,-94
+DOA,-92
+BIT,-94
+Sci-Fi,-92
+,-92
+STAFF,-92
+Test123,-95
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-94
+STAFF,-94
+Dialog Wi-Fi,-89
+Mobitel_EAP,-86
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-85
+VISITORS,-95
+Freewifi_Mobitel,-92
+STAFF,-91
+Mobitel_Open,-87
+AndroidAP,-90
+,-89
+Mobitel_EAP,-92
+eduroam,-91
+Test123,-94
+Mobitel_Open,-95
+Test123,-91
+DOA,-92
+BIT,-94
+Sci-Fi,-95
+,-93
+STAFF,-92
+Test123,-92
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+eduroam,-92
+Sci-Fi,-94
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-94
+STAFF,-94
+Dialog Wi-Fi,-89
+Mobitel_EAP,-86
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-85
+VISITORS,-95
+Freewifi_Mobitel,-92
+STAFF,-91
+Mobitel_Open,-87
+AndroidAP,-90
+,-89
+Mobitel_EAP,-92
+eduroam,-91
+Test123,-94
+Mobitel_Open,-95
+Test123,-91
+DOA,-92
+BIT,-94
+Sci-Fi,-95
+,-93
+STAFF,-92
+Test123,-92
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+eduroam,-92
+Sci-Fi,-94
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-94
+STAFF,-94
+Dialog Wi-Fi,-89
+Mobitel_EAP,-86
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-85
+VISITORS,-95
+Freewifi_Mobitel,-92
+STAFF,-91
+Mobitel_Open,-87
+AndroidAP,-90
+,-89
+Mobitel_EAP,-92
+eduroam,-91
+Test123,-94
+Mobitel_Open,-95
+Test123,-91
+DOA,-92
+BIT,-94
+Sci-Fi,-95
+,-93
+STAFF,-92
+Test123,-92
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+eduroam,-92
+Sci-Fi,-94
+ ------------ 
+HTC Portable Hotspot ED58,-49
+lish,-94
+STAFF,-94
+Dialog Wi-Fi,-89
+Mobitel_EAP,-86
+BIT,-92
+eduroam,-92
+Freewifi_Mobitel,-86
+UocLib,-92
+Dialog Wi-Fi,-85
+VISITORS,-95
+Freewifi_Mobitel,-92
+STAFF,-91
+Mobitel_Open,-87
+AndroidAP,-90
+,-89
+Mobitel_EAP,-92
+eduroam,-91
+Test123,-94
+Mobitel_Open,-95
+Test123,-91
+BIT,-93
+Sci-Fi,-95
+,-94
+STAFF,-92
+Test123,-92
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+eduroam,-92
+Sci-Fi,-94
+STAFF,-93
+IBMBB Wireless,-96
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-86
+BIT,-96
+eduroam,-94
+Freewifi_Mobitel,-86
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-93
+Freewifi_Mobitel,-95
+STAFF,-93
+Mobitel_Open,-85
+AndroidAP,-90
+,-93
+Mobitel_EAP,-93
+eduroam,-91
+Test123,-94
+Mobitel_Open,-92
+Test123,-91
+BIT,-93
+Sci-Fi,-95
+,-94
+STAFF,-92
+Test123,-92
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+eduroam,-92
+Sci-Fi,-94
+STAFF,-93
+IBMBB Wireless,-96
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-86
+BIT,-96
+eduroam,-94
+Freewifi_Mobitel,-86
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-93
+Freewifi_Mobitel,-95
+STAFF,-93
+Mobitel_Open,-85
+AndroidAP,-90
+,-93
+Mobitel_EAP,-93
+eduroam,-91
+Test123,-94
+Mobitel_Open,-92
+Test123,-91
+BIT,-93
+Sci-Fi,-95
+,-94
+STAFF,-92
+Test123,-92
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+eduroam,-92
+Sci-Fi,-94
+STAFF,-93
+IBMBB Wireless,-96
+ ------------ 
+HTC Portable Hotspot ED58,-51
+lish,-90
+STAFF,-92
+Dialog Wi-Fi,-91
+Mobitel_EAP,-86
+BIT,-96
+eduroam,-94
+Freewifi_Mobitel,-86
+UocLib,-95
+Dialog Wi-Fi,-84
+VISITORS,-93
+Freewifi_Mobitel,-95
+STAFF,-93
+Mobitel_Open,-85
+AndroidAP,-90
+,-93
+Mobitel_EAP,-93
+eduroam,-91
+Test123,-94
+Mobitel_Open,-92
+Test123,-91
+BIT,-93
+Sci-Fi,-95
+,-94
+STAFF,-92
+Test123,-92
+Mobitel_Open,-95
+Freewifi_Mobitel,-97
+eduroam,-92
+Sci-Fi,-94
+STAFF,-93
+IBMBB Wireless,-96
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-86
+BIT,-91
+eduroam,-93
+Freewifi_Mobitel,-86
+UocLib,-95
+Dialog Wi-Fi,-82
+VISITORS,-91
+Freewifi_Mobitel,-95
+STAFF,-91
+Mobitel_Open,-85
+AndroidAP,-90
+,-93
+Mobitel_EAP,-94
+eduroam,-91
+Test123,-90
+Mobitel_Open,-95
+Test123,-92
+BIT,-93
+Sci-Fi,-95
+,-94
+STAFF,-92
+Test123,-92
+Mobitel_Open,-94
+Freewifi_Mobitel,-93
+eduroam,-92
+Sci-Fi,-94
+STAFF,-93
+IBMBB Wireless,-96
+Mobitel_EAP,-93
+IBMBB Wireless,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-86
+BIT,-91
+eduroam,-93
+Freewifi_Mobitel,-86
+UocLib,-95
+Dialog Wi-Fi,-82
+VISITORS,-91
+Freewifi_Mobitel,-95
+STAFF,-91
+Mobitel_Open,-85
+AndroidAP,-90
+,-93
+Mobitel_EAP,-94
+eduroam,-91
+Test123,-90
+Mobitel_Open,-95
+Test123,-92
+BIT,-93
+Sci-Fi,-95
+,-94
+STAFF,-92
+Test123,-92
+Mobitel_Open,-94
+Freewifi_Mobitel,-93
+eduroam,-92
+Sci-Fi,-94
+STAFF,-93
+IBMBB Wireless,-96
+Mobitel_EAP,-93
+IBMBB Wireless,-94
+ ------------ 
+HTC Portable Hotspot ED58,-50
+lish,-91
+STAFF,-90
+Dialog Wi-Fi,-92
+Mobitel_EAP,-86
+BIT,-91
+eduroam,-93
+Freewifi_Mobitel,-86
+UocLib,-95
+Dialog Wi-Fi,-82
+VISITORS,-91
+Freewifi_Mobitel,-95
+STAFF,-91
+Mobitel_Open,-85
+AndroidAP,-90
+,-93
+Mobitel_EAP,-94
+eduroam,-91
+Test123,-90
+Mobitel_Open,-95
+Test123,-92
+BIT,-93
+Sci-Fi,-95
+,-94
+STAFF,-92
+Test123,-92
+Mobitel_Open,-94
+Freewifi_Mobitel,-93
+eduroam,-92
+Sci-Fi,-94
+STAFF,-93
+IBMBB Wireless,-96
+Mobitel_EAP,-96
+IBMBB Wireless,-94
+ ------------ 
+HTC Portable Hotspot ED58,-52
+lish,-91
+STAFF,-88
+Dialog Wi-Fi,-92
+Mobitel_EAP,-89
+BIT,-91
+eduroam,-93
+Freewifi_Mobitel,-88
+UocLib,-95
+Dialog Wi-Fi,-82
+VISITORS,-91
+Freewifi_Mobitel,-94
+STAFF,-91
+Mobitel_Open,-90
+AndroidAP,-90
+,-93
+Mobitel_EAP,-93
+eduroam,-93
+Test123,-94
+Mobitel_Open,-92
+Test123,-92
+BIT,-93
+Sci-Fi,-90
+,-96
+STAFF,-92
+Test123,-92
+Mobitel_Open,-94
+Freewifi_Mobitel,-93
+eduroam,-92
+Sci-Fi,-94
+STAFF,-93
+IBMBB Wireless,-96
+Mobitel_EAP,-96
+IBMBB Wireless,-94
+ ------------ 

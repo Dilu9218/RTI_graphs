@@ -1,0 +1,5679 @@
+HTC Portable Hotspot ED58,-69
+Freewifi_Mobitel,-92
+eduroam,-94
+VISITORS,-94
+Sci-Fi,-95
+BIT,-95
+Mobitel_EAP,-91
+Freewifi_Mobitel,-92
+Face's iMac,-93
+,-94
+My ASUS,-90
+Mobitel_Open,-95
+Test123,-91
+eduroam,-94
+Test123,-92
+Dialog Wi-Fi,-86
+STAFF,-93
+STAFF,-95
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+BIT,-90
+STAFF,-93
+BIT,-91
+lish,-95
+Dialog Wi-Fi,-95
+eduroam,-93
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-68
+eduroam,-94
+VISITORS,-94
+Sci-Fi,-95
+BIT,-95
+Mobitel_EAP,-93
+Freewifi_Mobitel,-92
+Face's iMac,-94
+,-94
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-91
+Test123,-92
+Dialog Wi-Fi,-86
+STAFF,-93
+STAFF,-95
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+BIT,-90
+STAFF,-93
+BIT,-91
+lish,-95
+Dialog Wi-Fi,-95
+eduroam,-93
+VISITORS,-92
+eduroam,-92
+BIT,-93
+STAFF,-94
+Test123,-94
+IBMBB Wireless,-95
+CSHR ,-95
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-68
+eduroam,-94
+VISITORS,-94
+Sci-Fi,-95
+BIT,-95
+Mobitel_EAP,-93
+Freewifi_Mobitel,-92
+Face's iMac,-94
+,-94
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-91
+Test123,-92
+Dialog Wi-Fi,-86
+STAFF,-93
+STAFF,-95
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+BIT,-90
+STAFF,-93
+BIT,-91
+lish,-95
+Dialog Wi-Fi,-95
+eduroam,-93
+VISITORS,-92
+eduroam,-92
+BIT,-93
+STAFF,-94
+Test123,-94
+IBMBB Wireless,-95
+CSHR ,-95
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-68
+eduroam,-94
+VISITORS,-94
+Sci-Fi,-95
+BIT,-95
+Mobitel_EAP,-93
+Freewifi_Mobitel,-92
+Face's iMac,-94
+,-94
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-91
+Test123,-92
+Dialog Wi-Fi,-86
+STAFF,-93
+STAFF,-95
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+BIT,-90
+STAFF,-93
+BIT,-91
+lish,-95
+Dialog Wi-Fi,-95
+eduroam,-93
+VISITORS,-92
+eduroam,-92
+BIT,-93
+STAFF,-94
+Test123,-94
+IBMBB Wireless,-95
+CSHR ,-95
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-68
+eduroam,-93
+VISITORS,-94
+Sci-Fi,-95
+BIT,-93
+Mobitel_EAP,-91
+Freewifi_Mobitel,-91
+Face's iMac,-94
+,-94
+My ASUS,-90
+Mobitel_Open,-95
+Test123,-92
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-93
+STAFF,-95
+Mobitel_EAP,-92
+BIT,-90
+STAFF,-93
+BIT,-91
+lish,-95
+Dialog Wi-Fi,-95
+eduroam,-93
+VISITORS,-92
+eduroam,-91
+BIT,-93
+STAFF,-92
+Test123,-94
+IBMBB Wireless,-95
+CSHR ,-95
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-68
+eduroam,-93
+VISITORS,-94
+Sci-Fi,-95
+BIT,-93
+Mobitel_EAP,-91
+Freewifi_Mobitel,-91
+Face's iMac,-94
+,-94
+My ASUS,-90
+Mobitel_Open,-95
+Test123,-92
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-93
+STAFF,-95
+Mobitel_EAP,-92
+BIT,-90
+STAFF,-93
+BIT,-91
+lish,-95
+Dialog Wi-Fi,-95
+eduroam,-93
+VISITORS,-92
+eduroam,-91
+BIT,-93
+STAFF,-92
+Test123,-94
+IBMBB Wireless,-95
+CSHR ,-95
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-68
+eduroam,-93
+VISITORS,-94
+Sci-Fi,-95
+BIT,-93
+Mobitel_EAP,-91
+Freewifi_Mobitel,-91
+Face's iMac,-94
+,-94
+My ASUS,-90
+Mobitel_Open,-95
+Test123,-92
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-93
+STAFF,-95
+Mobitel_EAP,-92
+BIT,-90
+STAFF,-93
+BIT,-91
+lish,-95
+Dialog Wi-Fi,-95
+eduroam,-93
+VISITORS,-92
+eduroam,-91
+BIT,-93
+STAFF,-92
+Test123,-94
+IBMBB Wireless,-95
+CSHR ,-95
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-71
+eduroam,-93
+VISITORS,-94
+BIT,-93
+Mobitel_EAP,-90
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-89
+Mobitel_Open,-91
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-93
+STAFF,-95
+BIT,-90
+STAFF,-93
+eduroam,-93
+VISITORS,-92
+eduroam,-92
+BIT,-92
+STAFF,-95
+Test123,-94
+IBMBB Wireless,-95
+CSHR ,-95
+VISITORS,-92
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+ ------------ 
+HTC Portable Hotspot ED58,-71
+eduroam,-93
+VISITORS,-94
+BIT,-93
+Mobitel_EAP,-90
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-89
+Mobitel_Open,-91
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-93
+STAFF,-95
+BIT,-90
+STAFF,-93
+eduroam,-93
+VISITORS,-92
+eduroam,-92
+BIT,-92
+STAFF,-95
+Test123,-94
+IBMBB Wireless,-95
+CSHR ,-95
+VISITORS,-92
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+ ------------ 
+HTC Portable Hotspot ED58,-71
+eduroam,-93
+VISITORS,-94
+BIT,-93
+Mobitel_EAP,-90
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-89
+Mobitel_Open,-91
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-93
+STAFF,-95
+BIT,-90
+STAFF,-93
+eduroam,-93
+VISITORS,-92
+eduroam,-92
+BIT,-92
+STAFF,-95
+Test123,-94
+IBMBB Wireless,-95
+CSHR ,-95
+VISITORS,-92
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+ ------------ 
+HTC Portable Hotspot ED58,-66
+eduroam,-93
+VISITORS,-94
+BIT,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-91
+Face's iMac,-94
+My ASUS,-94
+Mobitel_Open,-91
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-93
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-66
+eduroam,-93
+VISITORS,-94
+BIT,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-91
+Face's iMac,-94
+My ASUS,-94
+Mobitel_Open,-91
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-93
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-66
+eduroam,-93
+VISITORS,-94
+BIT,-93
+Mobitel_EAP,-93
+Freewifi_Mobitel,-91
+Face's iMac,-94
+My ASUS,-94
+Mobitel_Open,-91
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-93
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-92
+VISITORS,-91
+BIT,-93
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-92
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-92
+VISITORS,-91
+BIT,-93
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-92
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-92
+VISITORS,-91
+BIT,-93
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-92
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-92
+VISITORS,-91
+BIT,-93
+Mobitel_EAP,-91
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-95
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-92
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-92
+VISITORS,-91
+BIT,-93
+Mobitel_EAP,-91
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-95
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-92
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-92
+VISITORS,-91
+BIT,-93
+Mobitel_EAP,-91
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-95
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-92
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-92
+VISITORS,-91
+BIT,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-92
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-92
+VISITORS,-91
+BIT,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-92
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-92
+VISITORS,-91
+BIT,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-92
+Dialog Wi-Fi,-84
+STAFF,-92
+BIT,-95
+eduroam,-92
+BIT,-94
+STAFF,-92
+Test123,-93
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-93
+Mobitel_EAP,-89
+Freewifi_Mobitel,-88
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-95
+Mobitel_Open,-94
+Test123,-93
+Dialog Wi-Fi,-84
+STAFF,-95
+BIT,-95
+eduroam,-94
+BIT,-94
+STAFF,-93
+Test123,-94
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-94
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-95
+Mobitel_Open,-94
+Test123,-93
+Dialog Wi-Fi,-84
+STAFF,-95
+BIT,-95
+eduroam,-94
+BIT,-94
+STAFF,-93
+Test123,-94
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-94
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-95
+Mobitel_Open,-94
+Test123,-93
+Dialog Wi-Fi,-84
+STAFF,-95
+BIT,-95
+eduroam,-94
+BIT,-94
+STAFF,-93
+Test123,-94
+IBMBB Wireless,-92
+CSHR ,-97
+VISITORS,-94
+Sci-Fi,-94
+Test123,-95
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-92
+Mobitel_Open,-94
+Test123,-93
+Dialog Wi-Fi,-84
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-92
+Mobitel_Open,-94
+Test123,-93
+Dialog Wi-Fi,-84
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-92
+Mobitel_Open,-94
+Test123,-93
+Dialog Wi-Fi,-84
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+DOA,-96
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-92
+Face's iMac,-95
+My ASUS,-93
+Mobitel_Open,-94
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+Test123,-91
+STAFF,-93
+eduroam,-95
+BIT,-96
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-92
+Face's iMac,-95
+My ASUS,-93
+Mobitel_Open,-94
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+Test123,-91
+STAFF,-93
+eduroam,-95
+BIT,-96
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-92
+Face's iMac,-95
+My ASUS,-93
+Mobitel_Open,-94
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+Test123,-91
+STAFF,-93
+eduroam,-95
+BIT,-96
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-92
+Face's iMac,-95
+My ASUS,-93
+Mobitel_Open,-94
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+UocLib,-96
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-96
+Test123,-91
+STAFF,-93
+eduroam,-95
+BIT,-96
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-61
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-92
+Face's iMac,-95
+My ASUS,-93
+Mobitel_Open,-94
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+Art Faculty Staff 3,-96
+Test123,-95
+STAFF,-94
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-96
+My ASUS,-91
+Mobitel_Open,-94
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+Art Faculty Staff 3,-96
+Test123,-95
+STAFF,-94
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-96
+My ASUS,-91
+Mobitel_Open,-94
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+Art Faculty Staff 3,-96
+Test123,-95
+STAFF,-94
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-96
+My ASUS,-91
+Mobitel_Open,-94
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+Art Faculty Staff 3,-96
+Test123,-95
+STAFF,-94
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+Test123,-95
+STAFF,-94
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+Test123,-95
+STAFF,-94
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+eduroam,-93
+VISITORS,-93
+BIT,-94
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-92
+Mobitel_Open,-95
+Test123,-93
+STAFF,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-94
+Test123,-95
+STAFF,-94
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-96
+Face's iMac,-93
+My ASUS,-94
+Mobitel_Open,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-92
+Test123,-95
+STAFF,-90
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-95
+dilshan,-95
+BIT,-95
+UocLib,-96
+Dialog Wi-Fi,-90
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-96
+Face's iMac,-93
+My ASUS,-94
+Mobitel_Open,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-92
+Test123,-95
+STAFF,-90
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-95
+dilshan,-95
+BIT,-95
+UocLib,-96
+Dialog Wi-Fi,-90
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-96
+Face's iMac,-93
+My ASUS,-94
+Mobitel_Open,-95
+eduroam,-94
+STAFF,-93
+Test123,-94
+VISITORS,-92
+Test123,-95
+STAFF,-90
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-95
+dilshan,-95
+BIT,-95
+UocLib,-96
+Dialog Wi-Fi,-90
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-96
+Face's iMac,-93
+My ASUS,-87
+Mobitel_Open,-95
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-95
+STAFF,-90
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-94
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-90
+,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-96
+Face's iMac,-93
+My ASUS,-87
+Mobitel_Open,-95
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-95
+STAFF,-90
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-94
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-90
+,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-96
+Face's iMac,-93
+My ASUS,-87
+Mobitel_Open,-95
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-95
+STAFF,-90
+eduroam,-93
+BIT,-94
+VISITORS,-94
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-94
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-90
+,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-60
+Mobitel_EAP,-93
+Freewifi_Mobitel,-91
+Face's iMac,-93
+My ASUS,-92
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-95
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-94
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-90
+,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-60
+Mobitel_EAP,-93
+Freewifi_Mobitel,-91
+Face's iMac,-93
+My ASUS,-92
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-95
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-94
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-90
+,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-60
+Mobitel_EAP,-93
+Freewifi_Mobitel,-91
+Face's iMac,-93
+My ASUS,-92
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-95
+CSHR ,-96
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-94
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-90
+,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-58
+Mobitel_EAP,-93
+Freewifi_Mobitel,-91
+Face's iMac,-93
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-95
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-93
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-88
+,-94
+Dialog Wi-Fi,-95
+Test123,-94
+STAFF,-95
+BIT,-95
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-58
+Mobitel_EAP,-93
+Freewifi_Mobitel,-91
+Face's iMac,-93
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-95
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-93
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-88
+,-94
+Dialog Wi-Fi,-95
+Test123,-94
+STAFF,-95
+BIT,-95
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-58
+Mobitel_EAP,-93
+Freewifi_Mobitel,-91
+Face's iMac,-93
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-95
+eduroam,-94
+BIT,-94
+STAFF,-95
+Sci-Fi,-93
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-88
+,-94
+Dialog Wi-Fi,-95
+Test123,-94
+STAFF,-95
+BIT,-95
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-94
+eduroam,-94
+BIT,-94
+Sci-Fi,-93
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-88
+,-95
+Dialog Wi-Fi,-95
+Test123,-94
+STAFF,-95
+BIT,-95
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-94
+eduroam,-94
+BIT,-94
+Sci-Fi,-93
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-88
+,-95
+Dialog Wi-Fi,-95
+Test123,-94
+STAFF,-95
+BIT,-95
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-93
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-94
+eduroam,-94
+BIT,-94
+Sci-Fi,-93
+dilshan,-95
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-88
+,-95
+Dialog Wi-Fi,-95
+Test123,-94
+STAFF,-95
+BIT,-95
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-92
+STAFF,-93
+Test123,-94
+VISITORS,-91
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-94
+eduroam,-91
+BIT,-92
+Sci-Fi,-93
+BIT,-93
+UocLib,-92
+Dialog Wi-Fi,-90
+,-95
+Dialog Wi-Fi,-95
+Test123,-94
+STAFF,-95
+BIT,-95
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-95
+Test123,-93
+DOA,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-92
+STAFF,-93
+Test123,-94
+VISITORS,-91
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-94
+eduroam,-91
+BIT,-92
+Sci-Fi,-93
+BIT,-93
+UocLib,-92
+Dialog Wi-Fi,-90
+,-95
+Dialog Wi-Fi,-95
+Test123,-94
+STAFF,-95
+BIT,-95
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-95
+Test123,-93
+DOA,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-92
+STAFF,-93
+Test123,-94
+VISITORS,-91
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-94
+eduroam,-91
+BIT,-92
+Sci-Fi,-93
+BIT,-93
+UocLib,-92
+Dialog Wi-Fi,-90
+,-95
+Dialog Wi-Fi,-95
+Test123,-94
+STAFF,-95
+BIT,-95
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-95
+Test123,-93
+DOA,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-92
+STAFF,-90
+Test123,-94
+VISITORS,-92
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-95
+eduroam,-91
+BIT,-92
+Sci-Fi,-93
+BIT,-91
+UocLib,-92
+Dialog Wi-Fi,-90
+,-94
+Test123,-94
+STAFF,-91
+BIT,-93
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-94
+Test123,-93
+DOA,-94
+dilshan,-93
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-92
+STAFF,-90
+Test123,-94
+VISITORS,-92
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-95
+eduroam,-91
+BIT,-92
+Sci-Fi,-93
+BIT,-91
+UocLib,-92
+Dialog Wi-Fi,-90
+,-94
+Test123,-94
+STAFF,-91
+BIT,-93
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-94
+Test123,-93
+DOA,-94
+dilshan,-93
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-91
+Mobitel_Open,-93
+eduroam,-92
+STAFF,-90
+Test123,-94
+VISITORS,-92
+Test123,-94
+STAFF,-93
+eduroam,-92
+BIT,-92
+VISITORS,-95
+eduroam,-91
+BIT,-92
+Sci-Fi,-93
+BIT,-91
+UocLib,-92
+Dialog Wi-Fi,-90
+,-94
+Test123,-94
+STAFF,-91
+BIT,-93
+eduroam,-95
+Mobitel_EAP,-96
+VISITORS,-94
+Test123,-93
+DOA,-94
+dilshan,-93
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-94
+Mobitel_Open,-96
+eduroam,-95
+STAFF,-90
+Test123,-93
+VISITORS,-92
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-95
+BIT,-94
+UocLib,-97
+Dialog Wi-Fi,-90
+,-96
+Test123,-94
+STAFF,-91
+BIT,-93
+eduroam,-94
+Mobitel_EAP,-96
+VISITORS,-94
+Test123,-94
+DOA,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-94
+Mobitel_Open,-96
+eduroam,-95
+STAFF,-90
+Test123,-93
+VISITORS,-92
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-95
+BIT,-94
+UocLib,-97
+Dialog Wi-Fi,-90
+,-96
+Test123,-94
+STAFF,-91
+BIT,-93
+eduroam,-94
+Mobitel_EAP,-96
+VISITORS,-94
+Test123,-94
+DOA,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-94
+Mobitel_Open,-96
+eduroam,-95
+STAFF,-90
+Test123,-93
+VISITORS,-92
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-95
+BIT,-94
+UocLib,-97
+Dialog Wi-Fi,-90
+,-96
+Test123,-94
+STAFF,-91
+BIT,-93
+eduroam,-94
+Mobitel_EAP,-96
+VISITORS,-94
+Test123,-94
+DOA,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Face's iMac,-92
+My ASUS,-95
+Mobitel_Open,-96
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-92
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-95
+BIT,-93
+UocLib,-97
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-91
+BIT,-93
+eduroam,-95
+VISITORS,-94
+Test123,-94
+DOA,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Face's iMac,-92
+My ASUS,-95
+Mobitel_Open,-96
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-92
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-95
+BIT,-93
+UocLib,-97
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-91
+BIT,-93
+eduroam,-95
+VISITORS,-94
+Test123,-94
+DOA,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Face's iMac,-92
+My ASUS,-95
+Mobitel_Open,-96
+eduroam,-94
+STAFF,-93
+Test123,-93
+VISITORS,-92
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-95
+BIT,-93
+UocLib,-97
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-91
+BIT,-93
+eduroam,-95
+VISITORS,-94
+Test123,-94
+DOA,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-93
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-95
+Face's iMac,-94
+My ASUS,-93
+Mobitel_Open,-96
+eduroam,-92
+STAFF,-91
+Test123,-90
+VISITORS,-91
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-95
+BIT,-92
+UocLib,-95
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+BIT,-93
+eduroam,-95
+VISITORS,-94
+Test123,-94
+DOA,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-93
+eduroam,-94
+Test123,-94
+STAFF,-95
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-95
+Face's iMac,-94
+My ASUS,-93
+Mobitel_Open,-96
+eduroam,-92
+STAFF,-91
+Test123,-90
+VISITORS,-91
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-95
+BIT,-92
+UocLib,-95
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+BIT,-93
+eduroam,-95
+VISITORS,-94
+Test123,-94
+DOA,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-93
+eduroam,-94
+Test123,-94
+STAFF,-95
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-95
+Face's iMac,-94
+My ASUS,-93
+Mobitel_Open,-96
+eduroam,-92
+STAFF,-91
+Test123,-90
+VISITORS,-91
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-95
+BIT,-92
+UocLib,-95
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+BIT,-93
+eduroam,-95
+VISITORS,-94
+Test123,-94
+DOA,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-93
+eduroam,-94
+Test123,-94
+STAFF,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-90
+Mobitel_Open,-96
+eduroam,-92
+STAFF,-91
+Test123,-90
+VISITORS,-91
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-97
+BIT,-92
+UocLib,-94
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+BIT,-93
+eduroam,-95
+VISITORS,-94
+Test123,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-93
+eduroam,-94
+Test123,-94
+STAFF,-95
+BIT,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-90
+Mobitel_Open,-96
+eduroam,-92
+STAFF,-91
+Test123,-90
+VISITORS,-91
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-97
+BIT,-92
+UocLib,-94
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+BIT,-93
+eduroam,-95
+VISITORS,-94
+Test123,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-93
+eduroam,-94
+Test123,-94
+STAFF,-95
+BIT,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-90
+Mobitel_Open,-96
+eduroam,-92
+STAFF,-91
+Test123,-90
+VISITORS,-91
+VISITORS,-95
+eduroam,-95
+BIT,-91
+Sci-Fi,-97
+BIT,-92
+UocLib,-94
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+BIT,-93
+eduroam,-95
+VISITORS,-94
+Test123,-94
+dilshan,-93
+STAFF,-93
+VISITORS,-93
+eduroam,-94
+Test123,-94
+STAFF,-95
+BIT,-95
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-94
+Mobitel_Open,-96
+eduroam,-90
+STAFF,-92
+Test123,-93
+VISITORS,-91
+eduroam,-95
+BIT,-91
+Sci-Fi,-97
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-94
+Test123,-93
+STAFF,-93
+VISITORS,-93
+eduroam,-94
+Test123,-95
+STAFF,-95
+BIT,-93
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-94
+Mobitel_Open,-96
+eduroam,-90
+STAFF,-92
+Test123,-93
+VISITORS,-91
+eduroam,-95
+BIT,-91
+Sci-Fi,-97
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-94
+Test123,-93
+STAFF,-93
+VISITORS,-93
+eduroam,-94
+Test123,-95
+STAFF,-95
+BIT,-93
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-94
+Mobitel_Open,-96
+eduroam,-90
+STAFF,-92
+Test123,-93
+VISITORS,-91
+eduroam,-95
+BIT,-91
+Sci-Fi,-97
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-94
+Test123,-93
+STAFF,-93
+VISITORS,-93
+eduroam,-94
+Test123,-95
+STAFF,-95
+BIT,-93
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-94
+eduroam,-90
+STAFF,-91
+Test123,-93
+VISITORS,-92
+Sci-Fi,-97
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-94
+Test123,-93
+VISITORS,-93
+eduroam,-94
+Test123,-95
+STAFF,-95
+BIT,-93
+dilshan,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-94
+eduroam,-90
+STAFF,-91
+Test123,-93
+VISITORS,-92
+Sci-Fi,-97
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-94
+Test123,-93
+VISITORS,-93
+eduroam,-94
+Test123,-95
+STAFF,-95
+BIT,-93
+dilshan,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-94
+eduroam,-90
+STAFF,-91
+Test123,-93
+VISITORS,-92
+Sci-Fi,-97
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-96
+Test123,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-94
+Test123,-93
+VISITORS,-93
+eduroam,-94
+Test123,-95
+STAFF,-95
+BIT,-93
+dilshan,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-96
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+eduroam,-93
+STAFF,-91
+Test123,-92
+VISITORS,-93
+Sci-Fi,-93
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-89
+,-96
+STAFF,-93
+VISITORS,-94
+Test123,-93
+eduroam,-94
+Test123,-95
+STAFF,-91
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-96
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+eduroam,-93
+STAFF,-91
+Test123,-92
+VISITORS,-93
+Sci-Fi,-93
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-89
+,-96
+STAFF,-93
+VISITORS,-94
+Test123,-93
+eduroam,-94
+Test123,-95
+STAFF,-91
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-96
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+eduroam,-93
+STAFF,-91
+Test123,-92
+VISITORS,-93
+Sci-Fi,-93
+BIT,-93
+UocLib,-96
+Dialog Wi-Fi,-89
+,-96
+STAFF,-93
+VISITORS,-94
+Test123,-93
+eduroam,-94
+Test123,-95
+STAFF,-91
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Face's iMac,-91
+My ASUS,-91
+eduroam,-93
+STAFF,-93
+Test123,-92
+VISITORS,-91
+Sci-Fi,-93
+BIT,-92
+UocLib,-93
+Dialog Wi-Fi,-89
+,-96
+Test123,-93
+Test123,-95
+STAFF,-91
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Face's iMac,-91
+My ASUS,-91
+eduroam,-93
+STAFF,-93
+Test123,-92
+VISITORS,-91
+Sci-Fi,-93
+BIT,-92
+UocLib,-93
+Dialog Wi-Fi,-89
+,-96
+Test123,-93
+Test123,-95
+STAFF,-91
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Face's iMac,-91
+My ASUS,-91
+eduroam,-93
+STAFF,-93
+Test123,-92
+VISITORS,-91
+Sci-Fi,-93
+BIT,-92
+UocLib,-93
+Dialog Wi-Fi,-89
+,-96
+Test123,-93
+Test123,-95
+STAFF,-91
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Face's iMac,-91
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-90
+VISITORS,-91
+Sci-Fi,-94
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-95
+Test123,-93
+Test123,-95
+STAFF,-91
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+Dialog Wi-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Face's iMac,-91
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-90
+VISITORS,-91
+Sci-Fi,-94
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-95
+Test123,-93
+Test123,-95
+STAFF,-91
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+Dialog Wi-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Face's iMac,-91
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-90
+VISITORS,-91
+Sci-Fi,-94
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-95
+Test123,-93
+Test123,-95
+STAFF,-91
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+Dialog Wi-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-90
+VISITORS,-91
+Sci-Fi,-93
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-95
+Test123,-94
+STAFF,-94
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+Dialog Wi-Fi,-93
+eduroam,-95
+VISITORS,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-90
+VISITORS,-91
+Sci-Fi,-93
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-95
+Test123,-94
+STAFF,-94
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+Dialog Wi-Fi,-93
+eduroam,-95
+VISITORS,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-96
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-90
+VISITORS,-91
+Sci-Fi,-93
+BIT,-91
+UocLib,-94
+Dialog Wi-Fi,-89
+,-95
+Test123,-94
+STAFF,-94
+BIT,-93
+dilshan,-94
+IBMBB Wireless,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+Dialog Wi-Fi,-93
+eduroam,-95
+VISITORS,-95
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-94
+eduroam,-94
+STAFF,-92
+Test123,-93
+VISITORS,-92
+Sci-Fi,-93
+BIT,-92
+UocLib,-95
+Dialog Wi-Fi,-89
+,-95
+Test123,-94
+STAFF,-94
+BIT,-93
+IBMBB Wireless,-95
+STAFF,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-93
+eduroam,-95
+VISITORS,-95
+Test123,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-94
+eduroam,-94
+STAFF,-92
+Test123,-93
+VISITORS,-92
+Sci-Fi,-93
+BIT,-92
+UocLib,-95
+Dialog Wi-Fi,-89
+,-95
+Test123,-94
+STAFF,-94
+BIT,-93
+IBMBB Wireless,-95
+STAFF,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-93
+eduroam,-95
+VISITORS,-95
+Test123,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-94
+eduroam,-94
+STAFF,-92
+Test123,-93
+VISITORS,-92
+Sci-Fi,-93
+BIT,-92
+UocLib,-95
+Dialog Wi-Fi,-89
+,-95
+Test123,-94
+STAFF,-94
+BIT,-93
+IBMBB Wireless,-95
+STAFF,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-93
+eduroam,-95
+VISITORS,-95
+Test123,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-96
+eduroam,-94
+STAFF,-92
+Test123,-93
+VISITORS,-92
+Sci-Fi,-94
+BIT,-92
+UocLib,-95
+Dialog Wi-Fi,-89
+,-92
+Test123,-94
+STAFF,-94
+BIT,-93
+STAFF,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-95
+VISITORS,-95
+Test123,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-96
+eduroam,-94
+STAFF,-92
+Test123,-93
+VISITORS,-92
+Sci-Fi,-94
+BIT,-92
+UocLib,-95
+Dialog Wi-Fi,-89
+,-92
+Test123,-94
+STAFF,-94
+BIT,-93
+STAFF,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-95
+VISITORS,-95
+Test123,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-96
+eduroam,-94
+STAFF,-92
+Test123,-93
+VISITORS,-92
+Sci-Fi,-94
+BIT,-92
+UocLib,-95
+Dialog Wi-Fi,-89
+,-92
+Test123,-94
+STAFF,-94
+BIT,-93
+STAFF,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-95
+VISITORS,-95
+Test123,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-88
+eduroam,-94
+STAFF,-92
+Test123,-93
+VISITORS,-92
+Sci-Fi,-94
+BIT,-92
+UocLib,-95
+,-92
+Test123,-94
+STAFF,-94
+BIT,-93
+STAFF,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-95
+VISITORS,-95
+Test123,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-88
+eduroam,-94
+STAFF,-92
+Test123,-93
+VISITORS,-92
+Sci-Fi,-94
+BIT,-92
+UocLib,-95
+,-92
+Test123,-94
+STAFF,-94
+BIT,-93
+STAFF,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-95
+VISITORS,-95
+Test123,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-88
+eduroam,-94
+STAFF,-92
+Test123,-93
+VISITORS,-92
+Sci-Fi,-94
+BIT,-92
+UocLib,-95
+,-92
+Test123,-94
+STAFF,-94
+BIT,-93
+STAFF,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-95
+VISITORS,-95
+Test123,-93
+BIT,-94
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-94
+My ASUS,-95
+eduroam,-92
+STAFF,-91
+Test123,-94
+VISITORS,-91
+Sci-Fi,-94
+BIT,-92
+UocLib,-95
+,-92
+Test123,-94
+STAFF,-94
+STAFF,-93
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-90
+VISITORS,-95
+Test123,-91
+BIT,-93
+Dialog Wi-Fi,-87
+VISITORS,-94
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-94
+My ASUS,-95
+eduroam,-92
+STAFF,-91
+Test123,-94
+VISITORS,-91
+Sci-Fi,-94
+BIT,-92
+UocLib,-95
+,-92
+Test123,-94
+STAFF,-94
+STAFF,-93
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-90
+VISITORS,-95
+Test123,-91
+BIT,-93
+Dialog Wi-Fi,-87
+VISITORS,-94
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-94
+My ASUS,-95
+eduroam,-92
+STAFF,-91
+Test123,-94
+VISITORS,-91
+Sci-Fi,-94
+BIT,-92
+UocLib,-95
+,-92
+Test123,-94
+STAFF,-94
+STAFF,-93
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-90
+VISITORS,-95
+Test123,-91
+BIT,-93
+Dialog Wi-Fi,-87
+VISITORS,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-92
+My ASUS,-93
+eduroam,-93
+STAFF,-94
+Test123,-94
+VISITORS,-94
+Sci-Fi,-94
+BIT,-94
+UocLib,-93
+,-92
+STAFF,-93
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-94
+VISITORS,-95
+Test123,-94
+BIT,-93
+Dialog Wi-Fi,-87
+VISITORS,-94
+PROLINK_H5004NK_891C0,-95
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-92
+My ASUS,-93
+eduroam,-93
+STAFF,-94
+Test123,-94
+VISITORS,-94
+Sci-Fi,-94
+BIT,-94
+UocLib,-93
+,-92
+STAFF,-93
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-94
+VISITORS,-95
+Test123,-94
+BIT,-93
+Dialog Wi-Fi,-87
+VISITORS,-94
+PROLINK_H5004NK_891C0,-95
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-92
+My ASUS,-93
+eduroam,-93
+STAFF,-94
+Test123,-94
+VISITORS,-94
+Sci-Fi,-94
+BIT,-94
+UocLib,-93
+,-92
+STAFF,-93
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-94
+VISITORS,-95
+Test123,-94
+BIT,-93
+Dialog Wi-Fi,-87
+VISITORS,-94
+PROLINK_H5004NK_891C0,-95
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-92
+eduroam,-91
+STAFF,-92
+Test123,-91
+VISITORS,-93
+Sci-Fi,-94
+BIT,-91
+UocLib,-95
+,-92
+STAFF,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-94
+VISITORS,-95
+Test123,-94
+BIT,-93
+Dialog Wi-Fi,-87
+VISITORS,-94
+PROLINK_H5004NK_891C0,-95
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-92
+eduroam,-91
+STAFF,-92
+Test123,-91
+VISITORS,-93
+Sci-Fi,-94
+BIT,-91
+UocLib,-95
+,-92
+STAFF,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-94
+VISITORS,-95
+Test123,-94
+BIT,-93
+Dialog Wi-Fi,-87
+VISITORS,-94
+PROLINK_H5004NK_891C0,-95
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-92
+eduroam,-91
+STAFF,-92
+Test123,-91
+VISITORS,-93
+Sci-Fi,-94
+BIT,-91
+UocLib,-95
+,-92
+STAFF,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-95
+eduroam,-94
+VISITORS,-95
+Test123,-94
+BIT,-93
+Dialog Wi-Fi,-87
+VISITORS,-94
+PROLINK_H5004NK_891C0,-95
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-92
+VISITORS,-93
+BIT,-93
+UocLib,-95
+STAFF,-94
+Art Faculty Staff 3,-95
+eduroam,-94
+VISITORS,-95
+Test123,-95
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-93
+PROLINK_H5004NK_891C0,-95
+STAFF,-93
+BIT,-94
+eduroam,-95
+dilshan,-95
+DOA,-96
+VISITORS,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-92
+VISITORS,-93
+BIT,-93
+UocLib,-95
+STAFF,-94
+Art Faculty Staff 3,-95
+eduroam,-94
+VISITORS,-95
+Test123,-95
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-93
+PROLINK_H5004NK_891C0,-95
+STAFF,-93
+BIT,-94
+eduroam,-95
+dilshan,-95
+DOA,-96
+VISITORS,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-92
+VISITORS,-93
+BIT,-93
+UocLib,-95
+STAFF,-94
+Art Faculty Staff 3,-95
+eduroam,-94
+VISITORS,-95
+Test123,-95
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-93
+PROLINK_H5004NK_891C0,-95
+STAFF,-93
+BIT,-94
+eduroam,-95
+dilshan,-95
+DOA,-96
+VISITORS,-94
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-89
+eduroam,-92
+STAFF,-91
+Test123,-91
+VISITORS,-91
+BIT,-91
+UocLib,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-93
+VISITORS,-94
+Test123,-95
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-93
+PROLINK_H5004NK_891C0,-95
+STAFF,-93
+BIT,-94
+eduroam,-95
+dilshan,-95
+DOA,-96
+VISITORS,-94
+Test123,-95
+STAFF,-97
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-89
+eduroam,-92
+STAFF,-91
+Test123,-91
+VISITORS,-91
+BIT,-91
+UocLib,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-93
+VISITORS,-94
+Test123,-95
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-93
+PROLINK_H5004NK_891C0,-95
+STAFF,-93
+BIT,-94
+eduroam,-95
+dilshan,-95
+DOA,-96
+VISITORS,-94
+Test123,-95
+STAFF,-97
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-92
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-89
+eduroam,-92
+STAFF,-91
+Test123,-91
+VISITORS,-91
+BIT,-91
+UocLib,-95
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-93
+VISITORS,-94
+Test123,-95
+BIT,-95
+Dialog Wi-Fi,-87
+VISITORS,-93
+PROLINK_H5004NK_891C0,-95
+STAFF,-93
+BIT,-94
+eduroam,-95
+dilshan,-95
+DOA,-96
+VISITORS,-94
+Test123,-95
+STAFF,-97
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-93
+Face's iMac,-91
+My ASUS,-92
+eduroam,-92
+STAFF,-91
+Test123,-91
+VISITORS,-91
+BIT,-91
+UocLib,-92
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-94
+VISITORS,-94
+Test123,-93
+BIT,-93
+VISITORS,-91
+PROLINK_H5004NK_891C0,-95
+STAFF,-93
+BIT,-94
+eduroam,-95
+dilshan,-95
+DOA,-96
+VISITORS,-94
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-93
+Face's iMac,-91
+My ASUS,-92
+eduroam,-92
+STAFF,-91
+Test123,-91
+VISITORS,-91
+BIT,-91
+UocLib,-92
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-94
+VISITORS,-94
+Test123,-93
+BIT,-93
+VISITORS,-91
+PROLINK_H5004NK_891C0,-95
+STAFF,-93
+BIT,-94
+eduroam,-95
+dilshan,-95
+DOA,-96
+VISITORS,-94
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-94
+Freewifi_Mobitel,-93
+Face's iMac,-91
+My ASUS,-92
+eduroam,-92
+STAFF,-91
+Test123,-91
+VISITORS,-91
+BIT,-91
+UocLib,-92
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-94
+VISITORS,-94
+Test123,-93
+BIT,-93
+VISITORS,-91
+PROLINK_H5004NK_891C0,-95
+STAFF,-93
+BIT,-94
+eduroam,-95
+dilshan,-95
+DOA,-96
+VISITORS,-94
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-92
+Freewifi_Mobitel,-95
+Face's iMac,-91
+My ASUS,-91
+eduroam,-93
+STAFF,-94
+Test123,-93
+VISITORS,-91
+BIT,-94
+UocLib,-92
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-96
+VISITORS,-94
+Test123,-94
+BIT,-96
+VISITORS,-91
+PROLINK_H5004NK_891C0,-95
+STAFF,-95
+BIT,-94
+eduroam,-94
+dilshan,-93
+DOA,-96
+VISITORS,-95
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-93
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-92
+Freewifi_Mobitel,-95
+Face's iMac,-91
+My ASUS,-91
+eduroam,-93
+STAFF,-94
+Test123,-93
+VISITORS,-91
+BIT,-94
+UocLib,-92
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-96
+VISITORS,-94
+Test123,-94
+BIT,-96
+VISITORS,-91
+PROLINK_H5004NK_891C0,-95
+STAFF,-95
+BIT,-94
+eduroam,-94
+dilshan,-93
+DOA,-96
+VISITORS,-95
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-93
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-92
+Freewifi_Mobitel,-95
+Face's iMac,-91
+My ASUS,-91
+eduroam,-93
+STAFF,-94
+Test123,-93
+VISITORS,-91
+BIT,-94
+UocLib,-92
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-96
+VISITORS,-94
+Test123,-94
+BIT,-96
+VISITORS,-91
+PROLINK_H5004NK_891C0,-95
+STAFF,-95
+BIT,-94
+eduroam,-94
+dilshan,-93
+DOA,-96
+VISITORS,-95
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-93
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-93
+eduroam,-93
+STAFF,-96
+Test123,-93
+VISITORS,-93
+BIT,-94
+UocLib,-93
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-94
+VISITORS,-94
+Test123,-92
+BIT,-93
+VISITORS,-91
+PROLINK_H5004NK_891C0,-95
+STAFF,-95
+BIT,-94
+eduroam,-94
+dilshan,-93
+DOA,-96
+VISITORS,-95
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-86
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-93
+eduroam,-93
+STAFF,-96
+Test123,-93
+VISITORS,-93
+BIT,-94
+UocLib,-93
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-94
+VISITORS,-94
+Test123,-92
+BIT,-93
+VISITORS,-91
+PROLINK_H5004NK_891C0,-95
+STAFF,-95
+BIT,-94
+eduroam,-94
+dilshan,-93
+DOA,-96
+VISITORS,-95
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-86
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-93
+eduroam,-93
+STAFF,-96
+Test123,-93
+VISITORS,-93
+BIT,-94
+UocLib,-93
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-94
+VISITORS,-94
+Test123,-92
+BIT,-93
+VISITORS,-91
+PROLINK_H5004NK_891C0,-95
+STAFF,-95
+BIT,-94
+eduroam,-94
+dilshan,-93
+DOA,-96
+VISITORS,-95
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Mobitel_Open,-93
+Dialog Wi-Fi,-89
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-89
+My ASUS,-95
+eduroam,-95
+STAFF,-95
+Test123,-96
+VISITORS,-94
+BIT,-93
+UocLib,-93
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-94
+VISITORS,-94
+Test123,-95
+BIT,-94
+VISITORS,-93
+PROLINK_H5004NK_891C0,-95
+STAFF,-95
+eduroam,-94
+dilshan,-93
+VISITORS,-95
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-86
+Mobitel_Open,-93
+Dialog Wi-Fi,-89
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-89
+My ASUS,-95
+eduroam,-95
+STAFF,-95
+Test123,-96
+VISITORS,-94
+BIT,-93
+UocLib,-93
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-94
+VISITORS,-94
+Test123,-95
+BIT,-94
+VISITORS,-93
+PROLINK_H5004NK_891C0,-95
+STAFF,-95
+eduroam,-94
+dilshan,-93
+VISITORS,-95
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-86
+Mobitel_Open,-93
+Dialog Wi-Fi,-89
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-89
+My ASUS,-95
+eduroam,-95
+STAFF,-95
+Test123,-96
+VISITORS,-94
+BIT,-93
+UocLib,-93
+STAFF,-94
+Art Faculty Staff 3,-96
+eduroam,-94
+VISITORS,-94
+Test123,-95
+BIT,-94
+VISITORS,-93
+PROLINK_H5004NK_891C0,-95
+STAFF,-95
+eduroam,-94
+dilshan,-93
+VISITORS,-95
+Test123,-95
+STAFF,-97
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-96
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-86
+Mobitel_Open,-93
+Dialog Wi-Fi,-89
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-91
+Face's iMac,-91
+My ASUS,-92
+eduroam,-93
+STAFF,-93
+Test123,-93
+VISITORS,-95
+BIT,-95
+UocLib,-93
+STAFF,-94
+eduroam,-94
+Test123,-95
+BIT,-93
+VISITORS,-93
+STAFF,-96
+eduroam,-94
+dilshan,-93
+VISITORS,-95
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-89
+Mobitel_Open,-94
+Dialog Wi-Fi,-89
+BIT,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-91
+Face's iMac,-91
+My ASUS,-92
+eduroam,-93
+STAFF,-93
+Test123,-93
+VISITORS,-95
+BIT,-95
+UocLib,-93
+STAFF,-94
+eduroam,-94
+Test123,-95
+BIT,-93
+VISITORS,-93
+STAFF,-96
+eduroam,-94
+dilshan,-93
+VISITORS,-95
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-89
+Mobitel_Open,-94
+Dialog Wi-Fi,-89
+BIT,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-91
+Face's iMac,-91
+My ASUS,-92
+eduroam,-93
+STAFF,-93
+Test123,-93
+VISITORS,-95
+BIT,-95
+UocLib,-93
+STAFF,-94
+eduroam,-94
+Test123,-95
+BIT,-93
+VISITORS,-93
+STAFF,-96
+eduroam,-94
+dilshan,-93
+VISITORS,-95
+IBMBB Wireless,-96
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-89
+Mobitel_Open,-94
+Dialog Wi-Fi,-89
+BIT,-95
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Face's iMac,-90
+My ASUS,-92
+eduroam,-92
+STAFF,-92
+Test123,-93
+VISITORS,-95
+BIT,-92
+UocLib,-94
+STAFF,-95
+eduroam,-95
+Test123,-95
+BIT,-94
+VISITORS,-95
+STAFF,-96
+eduroam,-94
+dilshan,-93
+VISITORS,-95
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-89
+Mobitel_Open,-94
+Dialog Wi-Fi,-89
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Face's iMac,-90
+My ASUS,-92
+eduroam,-92
+STAFF,-92
+Test123,-93
+VISITORS,-95
+BIT,-92
+UocLib,-94
+STAFF,-95
+eduroam,-95
+Test123,-95
+BIT,-94
+VISITORS,-95
+STAFF,-96
+eduroam,-94
+dilshan,-93
+VISITORS,-95
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-89
+Mobitel_Open,-94
+Dialog Wi-Fi,-89
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-94
+Freewifi_Mobitel,-96
+Face's iMac,-90
+My ASUS,-92
+eduroam,-92
+STAFF,-92
+Test123,-93
+VISITORS,-95
+BIT,-92
+UocLib,-94
+STAFF,-95
+eduroam,-95
+Test123,-95
+BIT,-94
+VISITORS,-95
+STAFF,-96
+eduroam,-94
+dilshan,-93
+VISITORS,-95
+Test123,-94
+Mobitel_EAP,-95
+Sci-Fi,-97
+Freewifi_Mobitel,-93
+HTC Portable Hotspot,-89
+Mobitel_Open,-94
+Dialog Wi-Fi,-89
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-95
+Freewifi_Mobitel,-91
+Face's iMac,-90
+My ASUS,-93
+eduroam,-95
+STAFF,-94
+Test123,-95
+VISITORS,-94
+BIT,-90
+UocLib,-94
+STAFF,-95
+eduroam,-95
+Test123,-95
+BIT,-93
+VISITORS,-95
+STAFF,-96
+Sci-Fi,-97
+HTC Portable Hotspot,-89
+Mobitel_Open,-94
+Dialog Wi-Fi,-90
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-95
+Freewifi_Mobitel,-91
+Face's iMac,-90
+My ASUS,-93
+eduroam,-95
+STAFF,-94
+Test123,-95
+VISITORS,-94
+BIT,-90
+UocLib,-94
+STAFF,-95
+eduroam,-95
+Test123,-95
+BIT,-93
+VISITORS,-95
+STAFF,-96
+Sci-Fi,-97
+HTC Portable Hotspot,-89
+Mobitel_Open,-94
+Dialog Wi-Fi,-90
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-95
+Freewifi_Mobitel,-91
+Face's iMac,-90
+My ASUS,-93
+eduroam,-95
+STAFF,-94
+Test123,-95
+VISITORS,-94
+BIT,-90
+UocLib,-94
+STAFF,-95
+eduroam,-95
+Test123,-95
+BIT,-93
+VISITORS,-95
+STAFF,-96
+Sci-Fi,-97
+HTC Portable Hotspot,-89
+Mobitel_Open,-94
+Dialog Wi-Fi,-90
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-88
+eduroam,-95
+STAFF,-94
+Test123,-95
+VISITORS,-94
+BIT,-90
+UocLib,-95
+STAFF,-95
+eduroam,-94
+Test123,-95
+BIT,-93
+VISITORS,-95
+STAFF,-96
+Sci-Fi,-97
+HTC Portable Hotspot,-84
+Mobitel_Open,-93
+Dialog Wi-Fi,-90
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-88
+eduroam,-95
+STAFF,-94
+Test123,-95
+VISITORS,-94
+BIT,-90
+UocLib,-95
+STAFF,-95
+eduroam,-94
+Test123,-95
+BIT,-93
+VISITORS,-95
+STAFF,-96
+Sci-Fi,-97
+HTC Portable Hotspot,-84
+Mobitel_Open,-93
+Dialog Wi-Fi,-90
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-88
+eduroam,-95
+STAFF,-94
+Test123,-95
+VISITORS,-94
+BIT,-90
+UocLib,-95
+STAFF,-95
+eduroam,-94
+Test123,-95
+BIT,-93
+VISITORS,-95
+STAFF,-96
+Sci-Fi,-97
+HTC Portable Hotspot,-84
+Mobitel_Open,-93
+Dialog Wi-Fi,-90
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-90
+eduroam,-95
+STAFF,-94
+Test123,-95
+VISITORS,-94
+BIT,-90
+UocLib,-95
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+STAFF,-96
+Sci-Fi,-97
+HTC Portable Hotspot,-95
+Mobitel_Open,-93
+Dialog Wi-Fi,-90
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+BIT,-94
+Mobitel_EAP,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-90
+eduroam,-95
+STAFF,-94
+Test123,-95
+VISITORS,-94
+BIT,-90
+UocLib,-95
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+STAFF,-96
+Sci-Fi,-97
+HTC Portable Hotspot,-95
+Mobitel_Open,-93
+Dialog Wi-Fi,-90
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+BIT,-94
+Mobitel_EAP,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-90
+eduroam,-95
+STAFF,-94
+Test123,-95
+VISITORS,-94
+BIT,-90
+UocLib,-95
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+STAFF,-96
+Sci-Fi,-97
+HTC Portable Hotspot,-95
+Mobitel_Open,-93
+Dialog Wi-Fi,-90
+BIT,-95
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+BIT,-94
+Mobitel_EAP,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-95
+eduroam,-94
+STAFF,-93
+Test123,-95
+VISITORS,-94
+BIT,-95
+UocLib,-95
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-89
+Mobitel_Open,-93
+Dialog Wi-Fi,-90
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+BIT,-94
+Mobitel_EAP,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-95
+eduroam,-94
+STAFF,-93
+Test123,-95
+VISITORS,-94
+BIT,-95
+UocLib,-95
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-89
+Mobitel_Open,-93
+Dialog Wi-Fi,-90
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+BIT,-94
+Mobitel_EAP,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-95
+eduroam,-94
+STAFF,-93
+Test123,-95
+VISITORS,-94
+BIT,-95
+UocLib,-95
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-89
+Mobitel_Open,-93
+Dialog Wi-Fi,-90
+PROLINK_H5004NK_891C0,-96
+Test123,-94
+BIT,-94
+Mobitel_EAP,-94
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-94
+eduroam,-94
+STAFF,-93
+Test123,-95
+VISITORS,-94
+BIT,-95
+UocLib,-97
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-90
+Mobitel_Open,-94
+Dialog Wi-Fi,-90
+Test123,-94
+BIT,-94
+Mobitel_EAP,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-94
+eduroam,-94
+STAFF,-93
+Test123,-95
+VISITORS,-94
+BIT,-95
+UocLib,-97
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-90
+Mobitel_Open,-94
+Dialog Wi-Fi,-90
+Test123,-94
+BIT,-94
+Mobitel_EAP,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-94
+eduroam,-94
+STAFF,-93
+Test123,-95
+VISITORS,-94
+BIT,-95
+UocLib,-97
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-90
+Mobitel_Open,-94
+Dialog Wi-Fi,-90
+Test123,-94
+BIT,-94
+Mobitel_EAP,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-91
+eduroam,-95
+STAFF,-92
+Test123,-93
+VISITORS,-92
+BIT,-93
+UocLib,-94
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+BIT,-94
+Mobitel_EAP,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-91
+eduroam,-95
+STAFF,-92
+Test123,-93
+VISITORS,-92
+BIT,-93
+UocLib,-94
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+BIT,-94
+Mobitel_EAP,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-94
+My ASUS,-91
+eduroam,-95
+STAFF,-92
+Test123,-93
+VISITORS,-92
+BIT,-93
+UocLib,-94
+STAFF,-95
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+BIT,-94
+Mobitel_EAP,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-93
+My ASUS,-96
+eduroam,-95
+STAFF,-91
+Test123,-92
+VISITORS,-93
+BIT,-92
+UocLib,-93
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+BIT,-94
+Mobitel_EAP,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-93
+My ASUS,-96
+eduroam,-95
+STAFF,-91
+Test123,-92
+VISITORS,-93
+BIT,-92
+UocLib,-93
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+BIT,-94
+Mobitel_EAP,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-95
+Face's iMac,-93
+My ASUS,-96
+eduroam,-95
+STAFF,-91
+Test123,-92
+VISITORS,-93
+BIT,-92
+UocLib,-93
+eduroam,-97
+BIT,-97
+VISITORS,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+BIT,-94
+Mobitel_EAP,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-96
+eduroam,-95
+STAFF,-91
+Test123,-92
+VISITORS,-93
+BIT,-92
+UocLib,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-96
+eduroam,-95
+STAFF,-91
+Test123,-92
+VISITORS,-93
+BIT,-92
+UocLib,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-96
+eduroam,-95
+STAFF,-91
+Test123,-92
+VISITORS,-93
+BIT,-92
+UocLib,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-91
+My ASUS,-96
+eduroam,-95
+STAFF,-91
+Test123,-92
+VISITORS,-93
+BIT,-92
+UocLib,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-91
+My ASUS,-96
+eduroam,-95
+STAFF,-91
+Test123,-92
+VISITORS,-93
+BIT,-92
+UocLib,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-91
+My ASUS,-96
+eduroam,-95
+STAFF,-91
+Test123,-92
+VISITORS,-93
+BIT,-92
+UocLib,-94
+HTC Portable Hotspot,-88
+Mobitel_Open,-94
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-91
+My ASUS,-87
+eduroam,-95
+STAFF,-91
+Test123,-94
+VISITORS,-93
+BIT,-94
+UocLib,-93
+HTC Portable Hotspot,-88
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-91
+My ASUS,-87
+eduroam,-95
+STAFF,-91
+Test123,-94
+VISITORS,-93
+BIT,-94
+UocLib,-93
+HTC Portable Hotspot,-88
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-91
+My ASUS,-87
+eduroam,-95
+STAFF,-91
+Test123,-94
+VISITORS,-93
+BIT,-94
+UocLib,-93
+HTC Portable Hotspot,-88
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+ ------------ 
+HTC Portable Hotspot ED58,-60
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-91
+My ASUS,-93
+eduroam,-95
+STAFF,-91
+Test123,-94
+VISITORS,-93
+BIT,-94
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+STAFF,-95
+Test123,-95
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-60
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-91
+My ASUS,-93
+eduroam,-95
+STAFF,-91
+Test123,-94
+VISITORS,-93
+BIT,-94
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+STAFF,-95
+Test123,-95
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-60
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-91
+My ASUS,-93
+eduroam,-95
+STAFF,-91
+Test123,-94
+VISITORS,-93
+BIT,-94
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+STAFF,-95
+Test123,-95
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-89
+My ASUS,-92
+eduroam,-95
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+STAFF,-94
+Test123,-95
+Mobitel_Open,-94
+Freewifi_Mobitel,-92
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-89
+My ASUS,-92
+eduroam,-95
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+STAFF,-94
+Test123,-95
+Mobitel_Open,-94
+Freewifi_Mobitel,-92
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-89
+My ASUS,-92
+eduroam,-95
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-92
+STAFF,-94
+Test123,-95
+Mobitel_Open,-94
+Freewifi_Mobitel,-92
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-96
+eduroam,-95
+STAFF,-93
+Test123,-94
+VISITORS,-93
+BIT,-92
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-93
+STAFF,-94
+Test123,-95
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-96
+eduroam,-95
+STAFF,-93
+Test123,-94
+VISITORS,-93
+BIT,-92
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-93
+STAFF,-94
+Test123,-95
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+ ------------ 
+HTC Portable Hotspot ED58,-61
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-90
+My ASUS,-96
+eduroam,-95
+STAFF,-93
+Test123,-94
+VISITORS,-93
+BIT,-92
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-93
+STAFF,-94
+Test123,-95
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-94
+VISITORS,-94
+BIT,-93
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-93
+STAFF,-94
+Test123,-95
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-94
+VISITORS,-94
+BIT,-93
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-93
+STAFF,-94
+Test123,-95
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-96
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-93
+eduroam,-92
+STAFF,-93
+Test123,-94
+VISITORS,-94
+BIT,-93
+UocLib,-93
+Dialog Wi-Fi,-95
+Sci-Fi,-93
+STAFF,-94
+Test123,-95
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-96
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-94
+eduroam,-92
+STAFF,-93
+Test123,-94
+VISITORS,-94
+BIT,-93
+Sci-Fi,-92
+STAFF,-94
+Test123,-95
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-96
+Dialog Wi-Fi,-88
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-94
+eduroam,-92
+STAFF,-93
+Test123,-94
+VISITORS,-94
+BIT,-93
+Sci-Fi,-92
+STAFF,-94
+Test123,-95
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-96
+Dialog Wi-Fi,-88
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-94
+eduroam,-92
+STAFF,-93
+Test123,-94
+VISITORS,-94
+BIT,-93
+Sci-Fi,-92
+STAFF,-94
+Test123,-95
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-96
+Dialog Wi-Fi,-88
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-91
+eduroam,-92
+STAFF,-94
+Test123,-94
+VISITORS,-94
+BIT,-93
+Sci-Fi,-92
+STAFF,-94
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-96
+Dialog Wi-Fi,-88
+UocLib,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-91
+eduroam,-92
+STAFF,-94
+Test123,-94
+VISITORS,-94
+BIT,-93
+Sci-Fi,-92
+STAFF,-94
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-96
+Dialog Wi-Fi,-88
+UocLib,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-91
+eduroam,-92
+STAFF,-94
+Test123,-94
+VISITORS,-94
+BIT,-93
+Sci-Fi,-92
+STAFF,-94
+Mobitel_Open,-93
+Freewifi_Mobitel,-92
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-96
+Dialog Wi-Fi,-88
+UocLib,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-89
+My ASUS,-91
+eduroam,-92
+STAFF,-94
+Test123,-94
+VISITORS,-94
+BIT,-93
+Sci-Fi,-92
+Mobitel_Open,-93
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-94
+Dialog Wi-Fi,-88
+UocLib,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-89
+My ASUS,-91
+eduroam,-92
+STAFF,-94
+Test123,-94
+VISITORS,-94
+BIT,-93
+Sci-Fi,-92
+Mobitel_Open,-93
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-94
+Dialog Wi-Fi,-88
+UocLib,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-95
+Freewifi_Mobitel,-93
+Face's iMac,-89
+My ASUS,-91
+eduroam,-92
+STAFF,-94
+Test123,-94
+VISITORS,-94
+BIT,-93
+Sci-Fi,-92
+Mobitel_Open,-93
+,-95
+Mobitel_EAP,-91
+IBMBB Wireless,-94
+Dialog Wi-Fi,-88
+UocLib,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-92
+Face's iMac,-89
+My ASUS,-92
+eduroam,-92
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-92
+Mobitel_EAP,-91
+IBMBB Wireless,-94
+Dialog Wi-Fi,-88
+UocLib,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-92
+Face's iMac,-89
+My ASUS,-92
+eduroam,-92
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-92
+Mobitel_EAP,-91
+IBMBB Wireless,-94
+Dialog Wi-Fi,-88
+UocLib,-94
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-95
+Freewifi_Mobitel,-92
+Face's iMac,-89
+My ASUS,-92
+eduroam,-92
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-92
+Mobitel_EAP,-91
+IBMBB Wireless,-94
+Dialog Wi-Fi,-88
+UocLib,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-91
+Freewifi_Mobitel,-92
+Face's iMac,-91
+My ASUS,-95
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+Dialog Wi-Fi,-88
+UocLib,-92
+STAFF,-94
+,-94
+Art Faculty Staff 3,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-91
+Freewifi_Mobitel,-92
+Face's iMac,-91
+My ASUS,-95
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+Dialog Wi-Fi,-88
+UocLib,-92
+STAFF,-94
+,-94
+Art Faculty Staff 3,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-91
+Freewifi_Mobitel,-92
+Face's iMac,-91
+My ASUS,-95
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+Dialog Wi-Fi,-88
+UocLib,-92
+STAFF,-94
+,-94
+Art Faculty Staff 3,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-69
+Mobitel_EAP,-93
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-95
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+UocLib,-94
+STAFF,-94
+,-94
+Art Faculty Staff 3,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-69
+Mobitel_EAP,-93
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-95
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+UocLib,-94
+STAFF,-94
+,-94
+Art Faculty Staff 3,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-69
+Mobitel_EAP,-93
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-95
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+UocLib,-94
+STAFF,-94
+,-94
+Art Faculty Staff 3,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-95
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-90
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+UocLib,-94
+STAFF,-94
+,-94
+Art Faculty Staff 3,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-95
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-90
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+UocLib,-94
+STAFF,-94
+,-94
+Art Faculty Staff 3,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-95
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-90
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-93
+IBMBB Wireless,-94
+UocLib,-94
+STAFF,-94
+,-94
+Art Faculty Staff 3,-94
+Mobitel_Open,-94
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-95
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-89
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-92
+UocLib,-92
+STAFF,-94
+,-93
+Art Faculty Staff 3,-94
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-95
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-89
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-92
+UocLib,-92
+STAFF,-94
+,-93
+Art Faculty Staff 3,-94
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-64
+Mobitel_EAP,-95
+Freewifi_Mobitel,-92
+Face's iMac,-93
+My ASUS,-89
+STAFF,-94
+Test123,-94
+VISITORS,-93
+BIT,-92
+Sci-Fi,-92
+UocLib,-92
+STAFF,-94
+,-93
+Art Faculty Staff 3,-94
+Mobitel_Open,-93
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-95
+My ASUS,-94
+STAFF,-94
+BIT,-92
+Sci-Fi,-92
+UocLib,-92
+STAFF,-94
+,-93
+Art Faculty Staff 3,-94
+Mobitel_Open,-93
+STAFF,-94
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-95
+My ASUS,-94
+STAFF,-94
+BIT,-92
+Sci-Fi,-92
+UocLib,-92
+STAFF,-94
+,-93
+Art Faculty Staff 3,-94
+Mobitel_Open,-93
+STAFF,-94
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-95
+My ASUS,-94
+STAFF,-94
+BIT,-92
+Sci-Fi,-92
+UocLib,-92
+STAFF,-94
+,-93
+Art Faculty Staff 3,-94
+Mobitel_Open,-93
+STAFF,-94
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-95
+My ASUS,-94
+STAFF,-92
+BIT,-92
+Sci-Fi,-92
+UocLib,-96
+,-93
+Mobitel_Open,-96
+STAFF,-94
+eduroam,-94
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-95
+My ASUS,-94
+STAFF,-92
+BIT,-92
+Sci-Fi,-92
+UocLib,-96
+,-93
+Mobitel_Open,-96
+STAFF,-94
+eduroam,-94
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-95
+My ASUS,-94
+STAFF,-92
+BIT,-92
+Sci-Fi,-92
+UocLib,-96
+,-93
+Mobitel_Open,-96
+STAFF,-94
+eduroam,-94
+VISITORS,-91
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-95
+My ASUS,-94
+STAFF,-93
+BIT,-91
+Sci-Fi,-96
+UocLib,-93
+,-96
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+VISITORS,-91
+eduroam,-92
+Test123,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-95
+My ASUS,-94
+STAFF,-93
+BIT,-91
+Sci-Fi,-96
+UocLib,-93
+,-96
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+VISITORS,-91
+eduroam,-92
+Test123,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-95
+My ASUS,-94
+STAFF,-93
+BIT,-91
+Sci-Fi,-96
+UocLib,-93
+,-96
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+VISITORS,-91
+eduroam,-92
+Test123,-94
+Dialog Wi-Fi,-95
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-92
+My ASUS,-92
+STAFF,-93
+BIT,-91
+Sci-Fi,-96
+UocLib,-94
+,-96
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+VISITORS,-91
+eduroam,-92
+Test123,-94
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-92
+My ASUS,-92
+STAFF,-93
+BIT,-91
+Sci-Fi,-96
+UocLib,-94
+,-96
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+VISITORS,-91
+eduroam,-92
+Test123,-94
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-89
+Face's iMac,-92
+My ASUS,-92
+STAFF,-93
+BIT,-91
+Sci-Fi,-96
+UocLib,-94
+,-96
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+VISITORS,-91
+eduroam,-92
+Test123,-94
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-95
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-95
+STAFF,-93
+BIT,-89
+Sci-Fi,-96
+UocLib,-94
+,-96
+Mobitel_Open,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-92
+eduroam,-92
+Test123,-95
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-90
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-95
+STAFF,-93
+BIT,-89
+Sci-Fi,-96
+UocLib,-94
+,-96
+Mobitel_Open,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-92
+eduroam,-92
+Test123,-95
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-90
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-67
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-95
+STAFF,-93
+BIT,-89
+Sci-Fi,-96
+UocLib,-94
+,-96
+Mobitel_Open,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-92
+eduroam,-92
+Test123,-95
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-90
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-95
+STAFF,-93
+BIT,-89
+Sci-Fi,-96
+UocLib,-94
+,-93
+Mobitel_Open,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-92
+eduroam,-92
+Test123,-95
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-97
+Dialog Wi-Fi,-90
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-95
+STAFF,-93
+BIT,-89
+Sci-Fi,-96
+UocLib,-94
+,-93
+Mobitel_Open,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-92
+eduroam,-92
+Test123,-95
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-97
+Dialog Wi-Fi,-90
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-95
+STAFF,-93
+BIT,-89
+Sci-Fi,-96
+UocLib,-94
+,-93
+Mobitel_Open,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-92
+eduroam,-92
+Test123,-95
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-97
+Dialog Wi-Fi,-90
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+STAFF,-93
+BIT,-89
+Sci-Fi,-96
+UocLib,-93
+,-93
+Mobitel_Open,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-92
+eduroam,-92
+Test123,-95
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+STAFF,-93
+BIT,-89
+Sci-Fi,-96
+UocLib,-93
+,-93
+Mobitel_Open,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-92
+eduroam,-92
+Test123,-95
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+STAFF,-93
+BIT,-89
+Sci-Fi,-96
+UocLib,-93
+,-93
+Mobitel_Open,-94
+STAFF,-93
+eduroam,-95
+VISITORS,-92
+eduroam,-92
+Test123,-95
+Dialog Wi-Fi,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+STAFF,-93
+BIT,-89
+UocLib,-95
+,-92
+Mobitel_Open,-94
+eduroam,-95
+VISITORS,-92
+Test123,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+STAFF,-93
+BIT,-89
+UocLib,-95
+,-92
+Mobitel_Open,-94
+eduroam,-95
+VISITORS,-92
+Test123,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-92
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+STAFF,-93
+BIT,-89
+UocLib,-95
+,-92
+Mobitel_Open,-94
+eduroam,-95
+VISITORS,-92
+Test123,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+IBMBB-AP2,-96
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+STAFF,-93
+BIT,-89
+UocLib,-95
+,-94
+Mobitel_Open,-94
+eduroam,-95
+VISITORS,-92
+Test123,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+IBMBB-AP2,-96
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+STAFF,-93
+BIT,-89
+UocLib,-95
+,-94
+Mobitel_Open,-94
+eduroam,-95
+VISITORS,-92
+Test123,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+IBMBB-AP2,-96
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-68
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-93
+My ASUS,-91
+STAFF,-93
+BIT,-89
+UocLib,-95
+,-94
+Mobitel_Open,-94
+eduroam,-95
+VISITORS,-92
+Test123,-95
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+IBMBB-AP2,-96
+Sci-Fi,-93
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-95
+My ASUS,-93
+UocLib,-93
+,-94
+Mobitel_Open,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+Sci-Fi,-93
+STAFF,-91
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-95
+My ASUS,-93
+UocLib,-93
+,-94
+Mobitel_Open,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+Sci-Fi,-93
+STAFF,-91
+ ------------ 
+HTC Portable Hotspot ED58,-63
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-95
+My ASUS,-93
+UocLib,-93
+,-94
+Mobitel_Open,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+Sci-Fi,-93
+STAFF,-91
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-95
+My ASUS,-93
+UocLib,-94
+,-93
+Mobitel_Open,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+Sci-Fi,-92
+STAFF,-91
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-95
+My ASUS,-93
+UocLib,-94
+,-93
+Mobitel_Open,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+Sci-Fi,-92
+STAFF,-91
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-95
+My ASUS,-93
+UocLib,-94
+,-93
+Mobitel_Open,-94
+Art Faculty Staff 3,-95
+Dialog Wi-Fi,-89
+Sci-Fi,-92
+STAFF,-91
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-91
+My ASUS,-93
+UocLib,-93
+,-93
+Mobitel_Open,-94
+Sci-Fi,-92
+STAFF,-91
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-91
+My ASUS,-93
+UocLib,-93
+,-93
+Mobitel_Open,-94
+Sci-Fi,-92
+STAFF,-91
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-91
+My ASUS,-93
+UocLib,-93
+,-93
+Mobitel_Open,-94
+Sci-Fi,-92
+STAFF,-91
+VISITORS,-92
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-91
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-94
+UocLib,-93
+,-93
+Mobitel_Open,-93
+Sci-Fi,-92
+STAFF,-94
+VISITORS,-92
+eduroam,-94
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-91
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-94
+UocLib,-93
+,-93
+Mobitel_Open,-93
+Sci-Fi,-92
+STAFF,-94
+VISITORS,-92
+eduroam,-94
+ ------------ 
+HTC Portable Hotspot ED58,-66
+Mobitel_EAP,-91
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-94
+UocLib,-93
+,-93
+Mobitel_Open,-93
+Sci-Fi,-92
+STAFF,-94
+VISITORS,-92
+eduroam,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-91
+UocLib,-94
+,-94
+Mobitel_Open,-94
+Sci-Fi,-93
+STAFF,-94
+VISITORS,-92
+eduroam,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-91
+UocLib,-94
+,-94
+Mobitel_Open,-94
+Sci-Fi,-93
+STAFF,-94
+VISITORS,-92
+eduroam,-94
+ ------------ 
+HTC Portable Hotspot ED58,-62
+Mobitel_EAP,-93
+Freewifi_Mobitel,-93
+Face's iMac,-92
+My ASUS,-91
+UocLib,-94
+,-94
+Mobitel_Open,-94
+Sci-Fi,-93
+STAFF,-94
+VISITORS,-92
+eduroam,-94
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-91
+UocLib,-94
+,-94
+Mobitel_Open,-94
+Sci-Fi,-93
+STAFF,-94
+VISITORS,-92
+eduroam,-94
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-91
+UocLib,-94
+,-94
+Mobitel_Open,-94
+Sci-Fi,-93
+STAFF,-94
+VISITORS,-92
+eduroam,-94
+ ------------ 
+HTC Portable Hotspot ED58,-65
+Mobitel_EAP,-94
+Freewifi_Mobitel,-94
+Face's iMac,-92
+My ASUS,-91
+UocLib,-94
+,-94
+Mobitel_Open,-94
+Sci-Fi,-93
+STAFF,-94
+VISITORS,-92
+eduroam,-94
+ ------------ 
+HTC Portable Hotspot ED58,-70
+Mobitel_EAP,-93
+Freewifi_Mobitel,-94
+Face's iMac,-94
+My ASUS,-93
+UocLib,-94
+,-94
+Mobitel_Open,-94
+Sci-Fi,-93
+STAFF,-94
+eduroam,-94
+CSHR ,-93
+ ------------ 

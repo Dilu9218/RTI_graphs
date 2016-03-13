@@ -1,0 +1,3175 @@
+AndroidAP0787,-72
+Art Faculty Staff 3,-90
+Freewifi_Mobitel,-96
+AndroidAP,-94
+DOA,-89
+Mobitel_Open,-95
+IBMBB-AP2,-96
+Dialog Wi-Fi,-82
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+Freewifi_Mobitel,-94
+AndroidAP,-94
+DOA,-87
+Mobitel_Open,-95
+IBMBB-AP2,-96
+Dialog Wi-Fi,-82
+Mobitel_EAP,-96
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+Freewifi_Mobitel,-94
+AndroidAP,-94
+DOA,-87
+Mobitel_Open,-95
+IBMBB-AP2,-96
+Dialog Wi-Fi,-82
+Mobitel_EAP,-96
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+Freewifi_Mobitel,-94
+AndroidAP,-94
+DOA,-87
+Mobitel_Open,-95
+IBMBB-AP2,-96
+Dialog Wi-Fi,-82
+Mobitel_EAP,-96
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-92
+Freewifi_Mobitel,-94
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-82
+Mobitel_EAP,-96
+Test123,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-92
+Freewifi_Mobitel,-94
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-82
+Mobitel_EAP,-96
+Test123,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-92
+Freewifi_Mobitel,-94
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-82
+Mobitel_EAP,-96
+Test123,-95
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-88
+Freewifi_Mobitel,-93
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-82
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-88
+Freewifi_Mobitel,-93
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-82
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-88
+Freewifi_Mobitel,-93
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-82
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-92
+Freewifi_Mobitel,-93
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-84
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+STAFF,-94
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-92
+Freewifi_Mobitel,-93
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-84
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+STAFF,-94
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-92
+Freewifi_Mobitel,-93
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-84
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+STAFF,-94
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-90
+Freewifi_Mobitel,-93
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-84
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+STAFF,-94
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-90
+Freewifi_Mobitel,-93
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-84
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+STAFF,-94
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-90
+Freewifi_Mobitel,-93
+DOA,-85
+Mobitel_Open,-95
+Dialog Wi-Fi,-84
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+STAFF,-94
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-93
+DOA,-84
+Dialog Wi-Fi,-84
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+STAFF,-94
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-93
+DOA,-84
+Dialog Wi-Fi,-84
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+STAFF,-94
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-93
+DOA,-84
+Dialog Wi-Fi,-84
+Mobitel_EAP,-94
+Test123,-95
+IBMBB-AP2,-96
+STAFF,-94
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-93
+DOA,-84
+Dialog Wi-Fi,-85
+Mobitel_EAP,-94
+IBMBB-AP2,-96
+STAFF,-94
+Mobitel_Open,-97
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-93
+DOA,-84
+Dialog Wi-Fi,-85
+Mobitel_EAP,-94
+IBMBB-AP2,-96
+STAFF,-94
+Mobitel_Open,-97
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-93
+DOA,-84
+Dialog Wi-Fi,-85
+Mobitel_EAP,-94
+IBMBB-AP2,-96
+STAFF,-94
+Mobitel_Open,-97
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-87
+Freewifi_Mobitel,-94
+DOA,-84
+Dialog Wi-Fi,-85
+Mobitel_EAP,-92
+STAFF,-94
+Mobitel_Open,-97
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-87
+Freewifi_Mobitel,-94
+DOA,-84
+Dialog Wi-Fi,-85
+Mobitel_EAP,-92
+STAFF,-94
+Mobitel_Open,-97
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-87
+Freewifi_Mobitel,-94
+DOA,-84
+Dialog Wi-Fi,-85
+Mobitel_EAP,-92
+STAFF,-94
+Mobitel_Open,-97
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-94
+DOA,-86
+Dialog Wi-Fi,-85
+Mobitel_EAP,-92
+Mobitel_Open,-97
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-94
+DOA,-86
+Dialog Wi-Fi,-85
+Mobitel_EAP,-92
+Mobitel_Open,-97
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-94
+DOA,-86
+Dialog Wi-Fi,-85
+Mobitel_EAP,-92
+Mobitel_Open,-97
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-93
+Freewifi_Mobitel,-95
+DOA,-87
+Dialog Wi-Fi,-85
+Mobitel_EAP,-95
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-95
+Test123,-95
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-93
+Freewifi_Mobitel,-95
+DOA,-87
+Dialog Wi-Fi,-85
+Mobitel_EAP,-95
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-95
+Test123,-95
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-93
+Freewifi_Mobitel,-95
+DOA,-87
+Dialog Wi-Fi,-85
+Mobitel_EAP,-95
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-95
+Test123,-95
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-88
+Freewifi_Mobitel,-95
+DOA,-92
+Dialog Wi-Fi,-85
+Mobitel_EAP,-96
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-95
+Test123,-95
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-88
+Freewifi_Mobitel,-95
+DOA,-92
+Dialog Wi-Fi,-85
+Mobitel_EAP,-96
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-95
+Test123,-95
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-88
+Freewifi_Mobitel,-95
+DOA,-92
+Dialog Wi-Fi,-85
+Mobitel_EAP,-96
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-95
+Test123,-95
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-93
+Freewifi_Mobitel,-93
+DOA,-89
+Mobitel_EAP,-92
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-95
+Test123,-95
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-93
+Freewifi_Mobitel,-93
+DOA,-89
+Mobitel_EAP,-92
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-95
+Test123,-95
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-93
+Freewifi_Mobitel,-93
+DOA,-89
+Mobitel_EAP,-92
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-95
+Test123,-95
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-93
+Freewifi_Mobitel,-94
+DOA,-85
+Mobitel_EAP,-94
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-94
+Test123,-95
+VISITORS,-95
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-93
+Freewifi_Mobitel,-94
+DOA,-85
+Mobitel_EAP,-94
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-94
+Test123,-95
+VISITORS,-95
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-93
+Freewifi_Mobitel,-94
+DOA,-85
+Mobitel_EAP,-94
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-94
+Test123,-95
+VISITORS,-95
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-94
+DOA,-88
+Mobitel_EAP,-95
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-94
+Test123,-95
+VISITORS,-95
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-94
+DOA,-88
+Mobitel_EAP,-95
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-94
+Test123,-95
+VISITORS,-95
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-94
+DOA,-88
+Mobitel_EAP,-95
+Mobitel_Open,-93
+eduroam,-93
+STAFF,-94
+Test123,-95
+VISITORS,-95
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-94
+DOA,-87
+Mobitel_EAP,-95
+Mobitel_Open,-93
+eduroam,-95
+STAFF,-94
+Test123,-95
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-94
+DOA,-87
+Mobitel_EAP,-95
+Mobitel_Open,-93
+eduroam,-95
+STAFF,-94
+Test123,-95
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-94
+DOA,-87
+Mobitel_EAP,-95
+Mobitel_Open,-93
+eduroam,-95
+STAFF,-94
+Test123,-95
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-92
+Freewifi_Mobitel,-94
+DOA,-87
+Mobitel_EAP,-94
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-94
+Test123,-93
+Dialog Wi-Fi,-84
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-92
+Freewifi_Mobitel,-94
+DOA,-87
+Mobitel_EAP,-94
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-94
+Test123,-93
+Dialog Wi-Fi,-84
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-92
+Freewifi_Mobitel,-94
+DOA,-87
+Mobitel_EAP,-94
+Mobitel_Open,-93
+eduroam,-94
+STAFF,-94
+Test123,-93
+Dialog Wi-Fi,-84
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+Freewifi_Mobitel,-94
+DOA,-87
+Mobitel_EAP,-94
+Mobitel_Open,-94
+eduroam,-94
+STAFF,-94
+Test123,-93
+Dialog Wi-Fi,-84
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+Freewifi_Mobitel,-94
+DOA,-87
+Mobitel_EAP,-94
+Mobitel_Open,-94
+eduroam,-94
+STAFF,-94
+Test123,-93
+Dialog Wi-Fi,-84
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+Freewifi_Mobitel,-94
+DOA,-87
+Mobitel_EAP,-94
+Mobitel_Open,-94
+eduroam,-94
+STAFF,-94
+Test123,-93
+Dialog Wi-Fi,-84
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-94
+DOA,-86
+Mobitel_EAP,-94
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-94
+Test123,-94
+Dialog Wi-Fi,-83
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-94
+DOA,-86
+Mobitel_EAP,-94
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-94
+Test123,-94
+Dialog Wi-Fi,-83
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-94
+DOA,-86
+Mobitel_EAP,-94
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-94
+Test123,-94
+Dialog Wi-Fi,-83
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-88
+Freewifi_Mobitel,-94
+DOA,-86
+Mobitel_EAP,-94
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-93
+Test123,-94
+Dialog Wi-Fi,-94
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-88
+Freewifi_Mobitel,-94
+DOA,-86
+Mobitel_EAP,-94
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-93
+Test123,-94
+Dialog Wi-Fi,-94
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-88
+Freewifi_Mobitel,-94
+DOA,-86
+Mobitel_EAP,-94
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-93
+Test123,-94
+Dialog Wi-Fi,-94
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-96
+DOA,-86
+Mobitel_EAP,-94
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-93
+Test123,-94
+Dialog Wi-Fi,-94
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-96
+DOA,-86
+Mobitel_EAP,-94
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-93
+Test123,-94
+Dialog Wi-Fi,-94
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+Freewifi_Mobitel,-96
+DOA,-86
+Mobitel_EAP,-94
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-93
+Test123,-94
+Dialog Wi-Fi,-94
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-96
+DOA,-84
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-95
+Test123,-94
+Dialog Wi-Fi,-94
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-96
+DOA,-84
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-95
+Test123,-94
+Dialog Wi-Fi,-94
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-96
+DOA,-84
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-95
+Test123,-94
+Dialog Wi-Fi,-94
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-89
+Freewifi_Mobitel,-96
+DOA,-88
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-95
+Test123,-94
+Dialog Wi-Fi,-79
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-89
+Freewifi_Mobitel,-96
+DOA,-88
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-95
+Test123,-94
+Dialog Wi-Fi,-79
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-89
+Freewifi_Mobitel,-96
+DOA,-88
+Mobitel_Open,-96
+eduroam,-96
+STAFF,-95
+Test123,-94
+Dialog Wi-Fi,-79
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-89
+Freewifi_Mobitel,-96
+DOA,-87
+STAFF,-95
+Dialog Wi-Fi,-79
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-89
+Freewifi_Mobitel,-96
+DOA,-87
+STAFF,-95
+Dialog Wi-Fi,-79
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-89
+Freewifi_Mobitel,-96
+DOA,-87
+STAFF,-95
+Dialog Wi-Fi,-79
+VISITORS,-97
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-96
+DOA,-87
+STAFF,-95
+Dialog Wi-Fi,-82
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-96
+DOA,-87
+STAFF,-95
+Dialog Wi-Fi,-82
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-94
+Freewifi_Mobitel,-96
+DOA,-87
+STAFF,-95
+Dialog Wi-Fi,-82
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-93
+DOA,-87
+STAFF,-95
+Dialog Wi-Fi,-82
+Mobitel_Open,-94
+Mobitel_EAP,-95
+OASISHOME,-96
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-93
+DOA,-87
+STAFF,-95
+Dialog Wi-Fi,-82
+Mobitel_Open,-94
+Mobitel_EAP,-95
+OASISHOME,-96
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-93
+DOA,-87
+STAFF,-95
+Dialog Wi-Fi,-82
+Mobitel_Open,-94
+Mobitel_EAP,-95
+OASISHOME,-96
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-87
+DOA,-87
+Dialog Wi-Fi,-82
+Mobitel_Open,-95
+Mobitel_EAP,-94
+OASISHOME,-96
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-87
+DOA,-87
+Dialog Wi-Fi,-82
+Mobitel_Open,-95
+Mobitel_EAP,-94
+OASISHOME,-96
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-87
+DOA,-87
+Dialog Wi-Fi,-82
+Mobitel_Open,-95
+Mobitel_EAP,-94
+OASISHOME,-96
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-90
+DOA,-88
+Dialog Wi-Fi,-82
+Mobitel_Open,-95
+Mobitel_EAP,-93
+OASISHOME,-96
+STAFF,-93
+Freewifi_Mobitel,-91
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-90
+DOA,-88
+Dialog Wi-Fi,-82
+Mobitel_Open,-95
+Mobitel_EAP,-93
+OASISHOME,-96
+STAFF,-93
+Freewifi_Mobitel,-91
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-90
+DOA,-88
+Dialog Wi-Fi,-82
+Mobitel_Open,-95
+Mobitel_EAP,-93
+OASISHOME,-96
+STAFF,-93
+Freewifi_Mobitel,-91
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-91
+DOA,-88
+Dialog Wi-Fi,-82
+Mobitel_Open,-95
+Mobitel_EAP,-91
+OASISHOME,-96
+STAFF,-93
+Freewifi_Mobitel,-91
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-91
+DOA,-88
+Dialog Wi-Fi,-82
+Mobitel_Open,-95
+Mobitel_EAP,-91
+OASISHOME,-96
+STAFF,-93
+Freewifi_Mobitel,-91
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-91
+DOA,-88
+Dialog Wi-Fi,-82
+Mobitel_Open,-95
+Mobitel_EAP,-91
+OASISHOME,-96
+STAFF,-93
+Freewifi_Mobitel,-91
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-82
+Art Faculty Staff 3,-91
+DOA,-88
+Mobitel_Open,-93
+Mobitel_EAP,-91
+OASISHOME,-96
+STAFF,-93
+Freewifi_Mobitel,-91
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-82
+Art Faculty Staff 3,-91
+DOA,-88
+Mobitel_Open,-93
+Mobitel_EAP,-91
+OASISHOME,-96
+STAFF,-93
+Freewifi_Mobitel,-91
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-82
+Art Faculty Staff 3,-91
+DOA,-88
+Mobitel_Open,-93
+Mobitel_EAP,-91
+OASISHOME,-96
+STAFF,-93
+Freewifi_Mobitel,-91
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-94
+DOA,-86
+Mobitel_Open,-93
+Mobitel_EAP,-91
+STAFF,-94
+Freewifi_Mobitel,-91
+VISITORS,-95
+Mobitel_EAP,-95
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-94
+DOA,-86
+Mobitel_Open,-93
+Mobitel_EAP,-91
+STAFF,-94
+Freewifi_Mobitel,-91
+VISITORS,-95
+Mobitel_EAP,-95
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-94
+DOA,-86
+Mobitel_Open,-93
+Mobitel_EAP,-91
+STAFF,-94
+Freewifi_Mobitel,-91
+VISITORS,-95
+Mobitel_EAP,-95
+ ------------ 
+AndroidAP0787,-79
+Art Faculty Staff 3,-92
+DOA,-86
+Mobitel_Open,-93
+Mobitel_EAP,-91
+STAFF,-94
+Freewifi_Mobitel,-91
+VISITORS,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-79
+Art Faculty Staff 3,-92
+DOA,-86
+Mobitel_Open,-93
+Mobitel_EAP,-91
+STAFF,-94
+Freewifi_Mobitel,-91
+VISITORS,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-79
+Art Faculty Staff 3,-92
+DOA,-86
+Mobitel_Open,-93
+Mobitel_EAP,-91
+STAFF,-94
+Freewifi_Mobitel,-91
+VISITORS,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-87
+DOA,-85
+Mobitel_Open,-94
+Mobitel_EAP,-91
+STAFF,-94
+Mobitel_EAP,-95
+Freewifi_Mobitel,-97
+Test123,-93
+eduroam,-94
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-87
+DOA,-85
+Mobitel_Open,-94
+Mobitel_EAP,-91
+STAFF,-94
+Mobitel_EAP,-95
+Freewifi_Mobitel,-97
+Test123,-93
+eduroam,-94
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-87
+DOA,-85
+Mobitel_Open,-94
+Mobitel_EAP,-91
+STAFF,-94
+Mobitel_EAP,-95
+Freewifi_Mobitel,-97
+Test123,-93
+eduroam,-94
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-96
+DOA,-88
+Mobitel_Open,-94
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-97
+Test123,-93
+eduroam,-93
+Freewifi_Mobitel,-94
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-96
+DOA,-88
+Mobitel_Open,-94
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-97
+Test123,-93
+eduroam,-93
+Freewifi_Mobitel,-94
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-96
+DOA,-88
+Mobitel_Open,-94
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-97
+Test123,-93
+eduroam,-93
+Freewifi_Mobitel,-94
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-92
+DOA,-88
+Mobitel_Open,-94
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-97
+Test123,-93
+eduroam,-95
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-92
+DOA,-88
+Mobitel_Open,-94
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-97
+Test123,-93
+eduroam,-95
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-92
+DOA,-88
+Mobitel_Open,-94
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-97
+Test123,-93
+eduroam,-95
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-91
+DOA,-88
+Mobitel_Open,-94
+STAFF,-92
+Mobitel_EAP,-94
+Freewifi_Mobitel,-95
+Test123,-94
+eduroam,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-91
+DOA,-88
+Mobitel_Open,-94
+STAFF,-92
+Mobitel_EAP,-94
+Freewifi_Mobitel,-95
+Test123,-94
+eduroam,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-91
+DOA,-88
+Mobitel_Open,-94
+STAFF,-92
+Mobitel_EAP,-94
+Freewifi_Mobitel,-95
+Test123,-94
+eduroam,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-88
+Mobitel_Open,-94
+STAFF,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Test123,-94
+eduroam,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-93
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+Dialog Wi-Fi,-83
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-88
+Mobitel_Open,-94
+STAFF,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Test123,-94
+eduroam,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-93
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+Dialog Wi-Fi,-83
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-88
+Mobitel_Open,-94
+STAFF,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-94
+Test123,-94
+eduroam,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-93
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+Dialog Wi-Fi,-83
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+DOA,-88
+STAFF,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-94
+eduroam,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-93
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+Dialog Wi-Fi,-83
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+DOA,-88
+STAFF,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-94
+eduroam,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-93
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+Dialog Wi-Fi,-83
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+DOA,-88
+STAFF,-92
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-94
+eduroam,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-93
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+Dialog Wi-Fi,-83
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-87
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-93
+eduroam,-94
+Freewifi_Mobitel,-93
+Mobitel_EAP,-93
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+Dialog Wi-Fi,-83
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-87
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-93
+eduroam,-94
+Freewifi_Mobitel,-93
+Mobitel_EAP,-93
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+Dialog Wi-Fi,-83
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-87
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-93
+eduroam,-94
+Freewifi_Mobitel,-93
+Mobitel_EAP,-93
+Mobitel_Open,-95
+BIT,-96
+VISITORS,-93
+Dialog Wi-Fi,-83
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-93
+DOA,-88
+STAFF,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-91
+eduroam,-91
+Freewifi_Mobitel,-93
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-93
+VISITORS,-93
+Dialog Wi-Fi,-83
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-93
+DOA,-88
+STAFF,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-91
+eduroam,-91
+Freewifi_Mobitel,-93
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-93
+VISITORS,-93
+Dialog Wi-Fi,-83
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-93
+DOA,-88
+STAFF,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-91
+eduroam,-91
+Freewifi_Mobitel,-93
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-93
+VISITORS,-93
+Dialog Wi-Fi,-83
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-93
+DOA,-87
+STAFF,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-91
+eduroam,-91
+Freewifi_Mobitel,-93
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-93
+VISITORS,-93
+Dialog Wi-Fi,-83
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-93
+DOA,-87
+STAFF,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-91
+eduroam,-91
+Freewifi_Mobitel,-93
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-93
+VISITORS,-93
+Dialog Wi-Fi,-83
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-93
+DOA,-87
+STAFF,-93
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-91
+eduroam,-91
+Freewifi_Mobitel,-93
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-93
+VISITORS,-93
+Dialog Wi-Fi,-83
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-93
+DOA,-86
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-93
+VISITORS,-93
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-93
+DOA,-86
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-93
+VISITORS,-93
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-93
+DOA,-86
+STAFF,-95
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-95
+Mobitel_EAP,-94
+Mobitel_Open,-95
+BIT,-93
+VISITORS,-93
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-80
+Art Faculty Staff 3,-88
+DOA,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-95
+Mobitel_EAP,-95
+BIT,-93
+VISITORS,-93
+Mobitel_Open,-94
+OASISHOME,-94
+ ------------ 
+AndroidAP0787,-80
+Art Faculty Staff 3,-88
+DOA,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-95
+Mobitel_EAP,-95
+BIT,-93
+VISITORS,-93
+Mobitel_Open,-94
+OASISHOME,-94
+ ------------ 
+AndroidAP0787,-80
+Art Faculty Staff 3,-88
+DOA,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-95
+Mobitel_EAP,-95
+BIT,-93
+VISITORS,-93
+Mobitel_Open,-94
+OASISHOME,-94
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-91
+DOA,-83
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-95
+Mobitel_EAP,-95
+BIT,-93
+VISITORS,-93
+Mobitel_Open,-94
+OASISHOME,-94
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-91
+DOA,-83
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-95
+Mobitel_EAP,-95
+BIT,-93
+VISITORS,-93
+Mobitel_Open,-94
+OASISHOME,-94
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-91
+DOA,-83
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-95
+Mobitel_EAP,-95
+BIT,-93
+VISITORS,-93
+Mobitel_Open,-94
+OASISHOME,-94
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-90
+DOA,-86
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-96
+Mobitel_EAP,-95
+VISITORS,-93
+Mobitel_Open,-94
+OASISHOME,-94
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-90
+DOA,-86
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-96
+Mobitel_EAP,-95
+VISITORS,-93
+Mobitel_Open,-94
+OASISHOME,-94
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-90
+DOA,-86
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-96
+Mobitel_EAP,-95
+VISITORS,-93
+Mobitel_Open,-94
+OASISHOME,-94
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-91
+DOA,-86
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-96
+Mobitel_EAP,-95
+VISITORS,-93
+OASISHOME,-93
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-91
+DOA,-86
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-96
+Mobitel_EAP,-95
+VISITORS,-93
+OASISHOME,-93
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-91
+DOA,-86
+STAFF,-95
+Freewifi_Mobitel,-95
+Test123,-95
+eduroam,-95
+Freewifi_Mobitel,-96
+Mobitel_EAP,-95
+VISITORS,-93
+OASISHOME,-93
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-91
+DOA,-91
+Freewifi_Mobitel,-97
+Freewifi_Mobitel,-93
+Mobitel_EAP,-95
+OASISHOME,-93
+Mobitel_EAP,-93
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-91
+DOA,-91
+Freewifi_Mobitel,-97
+Freewifi_Mobitel,-93
+Mobitel_EAP,-95
+OASISHOME,-93
+Mobitel_EAP,-93
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-91
+DOA,-91
+Freewifi_Mobitel,-97
+Freewifi_Mobitel,-93
+Mobitel_EAP,-95
+OASISHOME,-93
+Mobitel_EAP,-93
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-90
+DOA,-85
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-93
+Mobitel_EAP,-94
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-94
+STAFF,-95
+eduroam,-97
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-90
+DOA,-85
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-93
+Mobitel_EAP,-94
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-94
+STAFF,-95
+eduroam,-97
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-90
+DOA,-85
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-93
+Mobitel_EAP,-94
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-94
+STAFF,-95
+eduroam,-97
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-89
+DOA,-85
+Freewifi_Mobitel,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-94
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-94
+STAFF,-95
+eduroam,-97
+VISITORS,-95
+Mobitel_Open,-93
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-89
+DOA,-85
+Freewifi_Mobitel,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-94
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-94
+STAFF,-95
+eduroam,-97
+VISITORS,-95
+Mobitel_Open,-93
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-89
+DOA,-85
+Freewifi_Mobitel,-93
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-94
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-94
+STAFF,-95
+eduroam,-97
+VISITORS,-95
+Mobitel_Open,-93
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-89
+DOA,-87
+Freewifi_Mobitel,-94
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-94
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-93
+STAFF,-94
+eduroam,-95
+VISITORS,-93
+Mobitel_Open,-93
+BIT,-93
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-89
+DOA,-87
+Freewifi_Mobitel,-94
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-94
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-93
+STAFF,-94
+eduroam,-95
+VISITORS,-93
+Mobitel_Open,-93
+BIT,-93
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-89
+DOA,-87
+Freewifi_Mobitel,-94
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-94
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-93
+STAFF,-94
+eduroam,-95
+VISITORS,-93
+Mobitel_Open,-93
+BIT,-93
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-90
+DOA,-87
+Freewifi_Mobitel,-95
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-96
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-95
+STAFF,-94
+eduroam,-96
+VISITORS,-95
+Mobitel_Open,-93
+BIT,-93
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-90
+DOA,-87
+Freewifi_Mobitel,-95
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-96
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-95
+STAFF,-94
+eduroam,-96
+VISITORS,-95
+Mobitel_Open,-93
+BIT,-93
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-90
+DOA,-87
+Freewifi_Mobitel,-95
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-96
+Mobitel_Open,-95
+IBMBB Wireless,-95
+Test123,-95
+STAFF,-94
+eduroam,-96
+VISITORS,-95
+Mobitel_Open,-93
+BIT,-93
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-88
+DOA,-88
+Freewifi_Mobitel,-95
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-96
+IBMBB Wireless,-95
+Test123,-95
+STAFF,-94
+eduroam,-96
+VISITORS,-95
+Mobitel_Open,-93
+BIT,-93
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-88
+DOA,-88
+Freewifi_Mobitel,-95
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-96
+IBMBB Wireless,-95
+Test123,-95
+STAFF,-94
+eduroam,-96
+VISITORS,-95
+Mobitel_Open,-93
+BIT,-93
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-88
+DOA,-88
+Freewifi_Mobitel,-95
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+OASISHOME,-91
+Mobitel_EAP,-96
+IBMBB Wireless,-95
+Test123,-95
+STAFF,-94
+eduroam,-96
+VISITORS,-95
+Mobitel_Open,-93
+BIT,-93
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-92
+DOA,-90
+Freewifi_Mobitel,-95
+Freewifi_Mobitel,-94
+OASISHOME,-91
+Mobitel_EAP,-96
+Test123,-94
+STAFF,-94
+eduroam,-93
+VISITORS,-95
+Mobitel_Open,-93
+BIT,-93
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-92
+DOA,-90
+Freewifi_Mobitel,-95
+Freewifi_Mobitel,-94
+OASISHOME,-91
+Mobitel_EAP,-96
+Test123,-94
+STAFF,-94
+eduroam,-93
+VISITORS,-95
+Mobitel_Open,-93
+BIT,-93
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-92
+DOA,-90
+Freewifi_Mobitel,-95
+Freewifi_Mobitel,-94
+OASISHOME,-91
+Mobitel_EAP,-96
+Test123,-94
+STAFF,-94
+eduroam,-93
+VISITORS,-95
+Mobitel_Open,-93
+BIT,-93
+Dialog Wi-Fi,-85
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-90
+DOA,-90
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-94
+OASISHOME,-94
+Mobitel_EAP,-96
+Test123,-94
+STAFF,-94
+eduroam,-93
+VISITORS,-95
+BIT,-93
+Dialog Wi-Fi,-85
+Mobitel_EAP,-96
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-90
+DOA,-90
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-94
+OASISHOME,-94
+Mobitel_EAP,-96
+Test123,-94
+STAFF,-94
+eduroam,-93
+VISITORS,-95
+BIT,-93
+Dialog Wi-Fi,-85
+Mobitel_EAP,-96
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-90
+DOA,-90
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-94
+OASISHOME,-94
+Mobitel_EAP,-96
+Test123,-94
+STAFF,-94
+eduroam,-93
+VISITORS,-95
+BIT,-93
+Dialog Wi-Fi,-85
+Mobitel_EAP,-96
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-92
+DOA,-90
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-94
+OASISHOME,-94
+Mobitel_EAP,-97
+Test123,-94
+eduroam,-93
+VISITORS,-95
+Dialog Wi-Fi,-85
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-92
+DOA,-90
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-94
+OASISHOME,-94
+Mobitel_EAP,-97
+Test123,-94
+eduroam,-93
+VISITORS,-95
+Dialog Wi-Fi,-85
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-92
+DOA,-90
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-94
+OASISHOME,-94
+Mobitel_EAP,-97
+Test123,-94
+eduroam,-93
+VISITORS,-95
+Dialog Wi-Fi,-85
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-87
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-96
+OASISHOME,-94
+Mobitel_EAP,-97
+Test123,-94
+eduroam,-93
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-87
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-96
+OASISHOME,-94
+Mobitel_EAP,-97
+Test123,-94
+eduroam,-93
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-87
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-96
+OASISHOME,-94
+Mobitel_EAP,-97
+Test123,-94
+eduroam,-93
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-94
+DOA,-84
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-96
+OASISHOME,-94
+Mobitel_EAP,-97
+Test123,-94
+eduroam,-93
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-94
+DOA,-84
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-96
+OASISHOME,-94
+Mobitel_EAP,-97
+Test123,-94
+eduroam,-93
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-94
+DOA,-84
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-96
+OASISHOME,-94
+Mobitel_EAP,-97
+Test123,-94
+eduroam,-93
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-89
+DOA,-96
+Freewifi_Mobitel,-93
+Freewifi_Mobitel,-96
+OASISHOME,-94
+Mobitel_EAP,-97
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-89
+DOA,-96
+Freewifi_Mobitel,-93
+Freewifi_Mobitel,-96
+OASISHOME,-94
+Mobitel_EAP,-97
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-89
+DOA,-96
+Freewifi_Mobitel,-93
+Freewifi_Mobitel,-96
+OASISHOME,-94
+Mobitel_EAP,-97
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-83
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-96
+Mobitel_EAP,-97
+Dialog Wi-Fi,-83
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-83
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-96
+Mobitel_EAP,-97
+Dialog Wi-Fi,-83
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-83
+Freewifi_Mobitel,-96
+Freewifi_Mobitel,-96
+Mobitel_EAP,-97
+Dialog Wi-Fi,-83
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-92
+DOA,-87
+Freewifi_Mobitel,-94
+Freewifi_Mobitel,-96
+Mobitel_EAP,-94
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+OASISHOME,-96
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-92
+DOA,-87
+Freewifi_Mobitel,-94
+Freewifi_Mobitel,-96
+Mobitel_EAP,-94
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+OASISHOME,-96
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-92
+DOA,-87
+Freewifi_Mobitel,-94
+Freewifi_Mobitel,-96
+Mobitel_EAP,-94
+Dialog Wi-Fi,-83
+Mobitel_EAP,-96
+OASISHOME,-96
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_EAP,-96
+OASISHOME,-96
+Mobitel_Open,-96
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_EAP,-96
+OASISHOME,-96
+Mobitel_Open,-96
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-91
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_EAP,-96
+OASISHOME,-96
+Mobitel_Open,-96
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-93
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_EAP,-95
+OASISHOME,-96
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-93
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_EAP,-95
+OASISHOME,-96
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-93
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_EAP,-95
+OASISHOME,-96
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-95
+DOA,-92
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_EAP,-95
+OASISHOME,-95
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-95
+DOA,-92
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_EAP,-95
+OASISHOME,-95
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-72
+Art Faculty Staff 3,-95
+DOA,-92
+Freewifi_Mobitel,-94
+Mobitel_EAP,-94
+Mobitel_EAP,-95
+OASISHOME,-95
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-93
+DOA,-92
+Freewifi_Mobitel,-94
+Mobitel_EAP,-95
+Mobitel_EAP,-95
+OASISHOME,-95
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-93
+DOA,-92
+Freewifi_Mobitel,-94
+Mobitel_EAP,-95
+Mobitel_EAP,-95
+OASISHOME,-95
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-93
+DOA,-92
+Freewifi_Mobitel,-94
+Mobitel_EAP,-95
+Mobitel_EAP,-95
+OASISHOME,-95
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-70
+Art Faculty Staff 3,-92
+DOA,-91
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+Mobitel_EAP,-95
+OASISHOME,-95
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-70
+Art Faculty Staff 3,-92
+DOA,-91
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+Mobitel_EAP,-95
+OASISHOME,-95
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-70
+Art Faculty Staff 3,-92
+DOA,-91
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+Mobitel_EAP,-95
+OASISHOME,-95
+Mobitel_Open,-96
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-94
+DOA,-88
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+Mobitel_EAP,-95
+OASISHOME,-95
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-94
+DOA,-88
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+Mobitel_EAP,-95
+OASISHOME,-95
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-94
+DOA,-88
+Freewifi_Mobitel,-94
+Mobitel_EAP,-97
+Mobitel_EAP,-95
+OASISHOME,-95
+STAFF,-93
+eduroam,-94
+Test123,-95
+Dialog Wi-Fi,-87
+VISITORS,-95
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-96
+OASISHOME,-95
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-96
+OASISHOME,-95
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-96
+OASISHOME,-95
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-96
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-86
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-96
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-86
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+DOA,-90
+Freewifi_Mobitel,-94
+Mobitel_EAP,-96
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-86
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-92
+DOA,-89
+Freewifi_Mobitel,-94
+Mobitel_EAP,-96
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-86
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-92
+DOA,-89
+Freewifi_Mobitel,-94
+Mobitel_EAP,-96
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-86
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-92
+DOA,-89
+Freewifi_Mobitel,-94
+Mobitel_EAP,-96
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-86
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-92
+DOA,-86
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-86
+Mobitel_EAP,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-92
+DOA,-86
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-86
+Mobitel_EAP,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-92
+DOA,-86
+Mobitel_EAP,-95
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-86
+Mobitel_EAP,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-91
+DOA,-86
+Mobitel_EAP,-96
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-95
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-91
+DOA,-86
+Mobitel_EAP,-96
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-95
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-91
+DOA,-86
+Mobitel_EAP,-96
+Freewifi_Mobitel,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-95
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-93
+DOA,-90
+Mobitel_EAP,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-95
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-93
+DOA,-90
+Mobitel_EAP,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-95
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-93
+DOA,-90
+Mobitel_EAP,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-95
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-88
+DOA,-87
+Mobitel_EAP,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-95
+Mobitel_Open,-94
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-88
+DOA,-87
+Mobitel_EAP,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-95
+Mobitel_Open,-94
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-88
+DOA,-87
+Mobitel_EAP,-96
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-95
+Mobitel_Open,-94
+Freewifi_Mobitel,-95
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-89
+DOA,-86
+Mobitel_EAP,-98
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-93
+Mobitel_Open,-94
+Freewifi_Mobitel,-95
+OASISHOME,-93
+BIT,-95
+eduroam,-96
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-89
+DOA,-86
+Mobitel_EAP,-98
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-93
+Mobitel_Open,-94
+Freewifi_Mobitel,-95
+OASISHOME,-93
+BIT,-95
+eduroam,-96
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-77
+Art Faculty Staff 3,-89
+DOA,-86
+Mobitel_EAP,-98
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+Mobitel_EAP,-95
+STAFF,-93
+Mobitel_Open,-94
+Freewifi_Mobitel,-95
+OASISHOME,-93
+BIT,-95
+eduroam,-96
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-90
+DOA,-86
+Mobitel_EAP,-98
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+STAFF,-93
+Mobitel_Open,-94
+Freewifi_Mobitel,-95
+OASISHOME,-93
+BIT,-95
+eduroam,-96
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-90
+DOA,-86
+Mobitel_EAP,-98
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+STAFF,-93
+Mobitel_Open,-94
+Freewifi_Mobitel,-95
+OASISHOME,-93
+BIT,-95
+eduroam,-96
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-90
+DOA,-86
+Mobitel_EAP,-98
+Mobitel_Open,-96
+Dialog Wi-Fi,-84
+STAFF,-93
+Mobitel_Open,-94
+Freewifi_Mobitel,-95
+OASISHOME,-93
+BIT,-95
+eduroam,-96
+VISITORS,-96
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-86
+Mobitel_EAP,-93
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+OASISHOME,-93
+BIT,-91
+eduroam,-96
+VISITORS,-93
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-86
+Mobitel_EAP,-93
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+OASISHOME,-93
+BIT,-91
+eduroam,-96
+VISITORS,-93
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-91
+DOA,-86
+Mobitel_EAP,-93
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+OASISHOME,-93
+BIT,-91
+eduroam,-96
+VISITORS,-93
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+DOA,-86
+Mobitel_EAP,-93
+Dialog Wi-Fi,-84
+STAFF,-92
+Freewifi_Mobitel,-94
+OASISHOME,-93
+BIT,-93
+eduroam,-95
+VISITORS,-95
+Test123,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+DOA,-86
+Mobitel_EAP,-93
+Dialog Wi-Fi,-84
+STAFF,-92
+Freewifi_Mobitel,-94
+OASISHOME,-93
+BIT,-93
+eduroam,-95
+VISITORS,-95
+Test123,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+DOA,-86
+Mobitel_EAP,-93
+Dialog Wi-Fi,-84
+STAFF,-92
+Freewifi_Mobitel,-94
+OASISHOME,-93
+BIT,-93
+eduroam,-95
+VISITORS,-95
+Test123,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-93
+DOA,-86
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-92
+Freewifi_Mobitel,-94
+OASISHOME,-93
+BIT,-93
+eduroam,-91
+VISITORS,-95
+Test123,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-93
+DOA,-86
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-92
+Freewifi_Mobitel,-94
+OASISHOME,-93
+BIT,-93
+eduroam,-91
+VISITORS,-95
+Test123,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-93
+DOA,-86
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-92
+Freewifi_Mobitel,-94
+OASISHOME,-93
+BIT,-93
+eduroam,-91
+VISITORS,-95
+Test123,-95
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-93
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-93
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Mobitel_EAP,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-93
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-93
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Mobitel_EAP,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-93
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-93
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Mobitel_EAP,-95
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-92
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-93
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Mobitel_EAP,-95
+OASISHOME,-95
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-92
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-93
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Mobitel_EAP,-95
+OASISHOME,-95
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-92
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-95
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-93
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Mobitel_EAP,-95
+OASISHOME,-95
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-89
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-96
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-93
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Mobitel_EAP,-95
+OASISHOME,-95
+DOA,-87
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-89
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-96
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-93
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Mobitel_EAP,-95
+OASISHOME,-95
+DOA,-87
+ ------------ 
+AndroidAP0787,-76
+Art Faculty Staff 3,-89
+Mobitel_EAP,-95
+Dialog Wi-Fi,-84
+STAFF,-95
+Freewifi_Mobitel,-96
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-93
+Freewifi_Mobitel,-94
+Mobitel_Open,-95
+Mobitel_EAP,-95
+OASISHOME,-95
+DOA,-87
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+Mobitel_EAP,-95
+Dialog Wi-Fi,-83
+STAFF,-95
+Freewifi_Mobitel,-96
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-97
+Mobitel_EAP,-95
+OASISHOME,-95
+DOA,-92
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+Mobitel_EAP,-95
+Dialog Wi-Fi,-83
+STAFF,-95
+Freewifi_Mobitel,-96
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-97
+Mobitel_EAP,-95
+OASISHOME,-95
+DOA,-92
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-89
+Mobitel_EAP,-95
+Dialog Wi-Fi,-83
+STAFF,-95
+Freewifi_Mobitel,-96
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-97
+Mobitel_EAP,-95
+OASISHOME,-95
+DOA,-92
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-90
+Mobitel_EAP,-95
+Dialog Wi-Fi,-83
+STAFF,-95
+Freewifi_Mobitel,-96
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-97
+Mobitel_EAP,-95
+OASISHOME,-94
+DOA,-87
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-90
+Mobitel_EAP,-95
+Dialog Wi-Fi,-83
+STAFF,-95
+Freewifi_Mobitel,-96
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-97
+Mobitel_EAP,-95
+OASISHOME,-94
+DOA,-87
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-90
+Mobitel_EAP,-95
+Dialog Wi-Fi,-83
+STAFF,-95
+Freewifi_Mobitel,-96
+BIT,-93
+eduroam,-94
+VISITORS,-95
+Test123,-97
+Mobitel_EAP,-95
+OASISHOME,-94
+DOA,-87
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-88
+Mobitel_EAP,-91
+Dialog Wi-Fi,-83
+Freewifi_Mobitel,-92
+Test123,-97
+OASISHOME,-94
+DOA,-87
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-88
+Mobitel_EAP,-91
+Dialog Wi-Fi,-83
+Freewifi_Mobitel,-92
+Test123,-97
+OASISHOME,-94
+DOA,-87
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-73
+Art Faculty Staff 3,-88
+Mobitel_EAP,-91
+Dialog Wi-Fi,-83
+Freewifi_Mobitel,-92
+Test123,-97
+OASISHOME,-94
+DOA,-87
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-88
+Mobitel_EAP,-96
+Dialog Wi-Fi,-84
+Freewifi_Mobitel,-96
+Test123,-97
+OASISHOME,-94
+DOA,-88
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-88
+Mobitel_EAP,-96
+Dialog Wi-Fi,-84
+Freewifi_Mobitel,-96
+Test123,-97
+OASISHOME,-94
+DOA,-88
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-88
+Mobitel_EAP,-96
+Dialog Wi-Fi,-84
+Freewifi_Mobitel,-96
+Test123,-97
+OASISHOME,-94
+DOA,-88
+Mobitel_Open,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-91
+Mobitel_EAP,-96
+Dialog Wi-Fi,-84
+Freewifi_Mobitel,-96
+Test123,-97
+OASISHOME,-92
+DOA,-87
+Mobitel_Open,-94
+Mobitel_EAP,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-91
+Mobitel_EAP,-96
+Dialog Wi-Fi,-84
+Freewifi_Mobitel,-96
+Test123,-97
+OASISHOME,-92
+DOA,-87
+Mobitel_Open,-94
+Mobitel_EAP,-94
+ ------------ 
+AndroidAP0787,-74
+Art Faculty Staff 3,-91
+Mobitel_EAP,-96
+Dialog Wi-Fi,-84
+Freewifi_Mobitel,-96
+Test123,-97
+OASISHOME,-92
+DOA,-87
+Mobitel_Open,-94
+Mobitel_EAP,-94
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+Mobitel_EAP,-94
+Dialog Wi-Fi,-84
+Freewifi_Mobitel,-93
+OASISHOME,-92
+DOA,-86
+Mobitel_Open,-94
+Mobitel_EAP,-94
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+Mobitel_EAP,-94
+Dialog Wi-Fi,-84
+Freewifi_Mobitel,-93
+OASISHOME,-92
+DOA,-86
+Mobitel_Open,-94
+Mobitel_EAP,-94
+ ------------ 
+AndroidAP0787,-71
+Art Faculty Staff 3,-90
+Mobitel_EAP,-94
+Dialog Wi-Fi,-84
+Freewifi_Mobitel,-93
+OASISHOME,-92
+DOA,-86
+Mobitel_Open,-94
+Mobitel_EAP,-94
+ ------------ 
+AndroidAP0787,-75
+Art Faculty Staff 3,-92
+Mobitel_EAP,-94
+Dialog Wi-Fi,-81
+Freewifi_Mobitel,-93
+OASISHOME,-92
+DOA,-89
+Mobitel_Open,-94
+Mobitel_EAP,-94
+ ------------ 

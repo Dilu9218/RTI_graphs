@@ -1,0 +1,4081 @@
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-86
+ edu@colombo,-92
+ Law Wi-Fi,-93
+ Freewifi_Mobitel,-93
+ Face's iMac,-95
+ ,-93
+ Mobitel_EAP,-89
+ BIT,-92
+ UocLib,-92
+ Dialog Wi-Fi,-92
+ eduroam,-92
+ STAFF,-95
+ Test123,-95
+ VISITORS,-93
+ STAFF,-93
+ IBMBB Wireless,-93
+ TP-LINK_AD7678,-93
+ 3Com,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-86
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-93
+ Mobitel_EAP,-89
+ BIT,-92
+ UocLib,-92
+ Dialog Wi-Fi,-92
+ eduroam,-92
+ STAFF,-95
+ Test123,-95
+ VISITORS,-93
+ STAFF,-93
+ IBMBB Wireless,-93
+ TP-LINK_AD7678,-93
+ 3Com,-93
+ BIT,-93
+ STAFF,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-86
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-93
+ Mobitel_EAP,-89
+ BIT,-92
+ UocLib,-92
+ Dialog Wi-Fi,-92
+ eduroam,-92
+ STAFF,-95
+ Test123,-95
+ VISITORS,-93
+ STAFF,-93
+ IBMBB Wireless,-93
+ TP-LINK_AD7678,-93
+ 3Com,-93
+ BIT,-93
+ STAFF,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-86
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-93
+ Mobitel_EAP,-89
+ BIT,-92
+ UocLib,-92
+ Dialog Wi-Fi,-92
+ eduroam,-92
+ STAFF,-95
+ Test123,-95
+ VISITORS,-93
+ STAFF,-93
+ IBMBB Wireless,-93
+ TP-LINK_AD7678,-93
+ 3Com,-93
+ BIT,-93
+ STAFF,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-93
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-89
+ BIT,-92
+ Dialog Wi-Fi,-92
+ STAFF,-95
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-93
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-90
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-93
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-89
+ BIT,-92
+ Dialog Wi-Fi,-92
+ STAFF,-95
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-93
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-90
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-93
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-89
+ BIT,-92
+ Dialog Wi-Fi,-92
+ STAFF,-95
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-93
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-90
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-93
+ Face's iMac,-97
+ ,-92
+ Mobitel_EAP,-87
+ BIT,-92
+ Dialog Wi-Fi,-90
+ STAFF,-95
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-94
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-90
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-88
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-93
+ Face's iMac,-97
+ ,-92
+ Mobitel_EAP,-87
+ BIT,-92
+ Dialog Wi-Fi,-90
+ STAFF,-95
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-94
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-90
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-88
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-93
+ Face's iMac,-97
+ ,-92
+ Mobitel_EAP,-87
+ BIT,-92
+ Dialog Wi-Fi,-90
+ STAFF,-95
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-94
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-90
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-88
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-93
+ Face's iMac,-93
+ ,-92
+ Mobitel_EAP,-87
+ BIT,-92
+ Dialog Wi-Fi,-90
+ STAFF,-95
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-94
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-90
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-88
+ Test123,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-93
+ Face's iMac,-93
+ ,-92
+ Mobitel_EAP,-87
+ BIT,-92
+ Dialog Wi-Fi,-90
+ STAFF,-95
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-94
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-90
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-88
+ Test123,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-93
+ Face's iMac,-93
+ ,-92
+ Mobitel_EAP,-87
+ BIT,-92
+ Dialog Wi-Fi,-90
+ STAFF,-95
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-94
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-90
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-88
+ Test123,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-70
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-95
+ Law Wi-Fi,-94
+ Face's iMac,-93
+ ,-94
+ Mobitel_EAP,-88
+ Dialog Wi-Fi,-90
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-94
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-88
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-88
+ Test123,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-70
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-95
+ Law Wi-Fi,-94
+ Face's iMac,-93
+ ,-94
+ Mobitel_EAP,-88
+ Dialog Wi-Fi,-90
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-94
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-88
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-88
+ Test123,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-70
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-95
+ Law Wi-Fi,-94
+ Face's iMac,-93
+ ,-94
+ Mobitel_EAP,-88
+ Dialog Wi-Fi,-90
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-94
+ BIT,-93
+ STAFF,-94
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-88
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-88
+ Test123,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-74
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-95
+ Law Wi-Fi,-94
+ Face's iMac,-95
+ ,-94
+ Mobitel_EAP,-87
+ Dialog Wi-Fi,-90
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-91
+ BIT,-93
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-92
+ Test123,-94
+ Freewifi_Mobitel,-96
+ ------------ 
+ HTC Portable Hotspot ED58,-74
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-95
+ Law Wi-Fi,-94
+ Face's iMac,-95
+ ,-94
+ Mobitel_EAP,-87
+ Dialog Wi-Fi,-90
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-91
+ BIT,-93
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-92
+ Test123,-94
+ Freewifi_Mobitel,-96
+ ------------ 
+ HTC Portable Hotspot ED58,-74
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-95
+ Law Wi-Fi,-94
+ Face's iMac,-95
+ ,-94
+ Mobitel_EAP,-87
+ Dialog Wi-Fi,-90
+ Test123,-93
+ VISITORS,-93
+ TP-LINK_AD7678,-92
+ 3Com,-91
+ BIT,-93
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-92
+ Test123,-94
+ Freewifi_Mobitel,-96
+ ------------ 
+ HTC Portable Hotspot ED58,-69
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-89
+ edu@colombo,-92
+ Law Wi-Fi,-94
+ Face's iMac,-93
+ ,-94
+ Mobitel_EAP,-87
+ Dialog Wi-Fi,-90
+ 3Com,-96
+ BIT,-93
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-92
+ Test123,-94
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-69
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-89
+ edu@colombo,-92
+ Law Wi-Fi,-94
+ Face's iMac,-93
+ ,-94
+ Mobitel_EAP,-87
+ Dialog Wi-Fi,-90
+ 3Com,-96
+ BIT,-93
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-92
+ Test123,-94
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-69
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-89
+ edu@colombo,-92
+ Law Wi-Fi,-94
+ Face's iMac,-93
+ ,-94
+ Mobitel_EAP,-87
+ Dialog Wi-Fi,-90
+ 3Com,-96
+ BIT,-93
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Law Wi-Fi,-95
+ Dialog Wi-Fi,-92
+ Test123,-94
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-93
+ Mobitel_EAP,-87
+ 3Com,-96
+ BIT,-93
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Dialog Wi-Fi,-92
+ Test123,-94
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-93
+ Mobitel_EAP,-87
+ 3Com,-96
+ BIT,-93
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Dialog Wi-Fi,-92
+ Test123,-94
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-93
+ Mobitel_EAP,-87
+ 3Com,-96
+ BIT,-93
+ Mobitel_Open,-87
+ Mobitel_Open,-91
+ Freewifi_Mobitel,-87
+ Dialog Wi-Fi,-92
+ Test123,-94
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-93
+ Mobitel_EAP,-87
+ 3Com,-96
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ Dialog Wi-Fi,-92
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-88
+ STAFF,-90
+ Law Wi-Fi,-95
+ UocLib,-93
+ UocLib,-94
+ VISITORS,-84
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-93
+ Mobitel_EAP,-87
+ 3Com,-96
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ Dialog Wi-Fi,-92
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-88
+ STAFF,-90
+ Law Wi-Fi,-95
+ UocLib,-93
+ UocLib,-94
+ VISITORS,-84
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-93
+ Mobitel_EAP,-87
+ 3Com,-96
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ Dialog Wi-Fi,-92
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-88
+ STAFF,-90
+ Law Wi-Fi,-95
+ UocLib,-93
+ UocLib,-94
+ VISITORS,-84
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-93
+ Mobitel_EAP,-87
+ 3Com,-96
+ Freewifi_Mobitel,-87
+ Dialog Wi-Fi,-92
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-87
+ STAFF,-88
+ Law Wi-Fi,-95
+ UocLib,-95
+ UocLib,-94
+ VISITORS,-87
+ BIT,-87
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-96
+ Mobitel_Open,-89
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-93
+ Mobitel_EAP,-87
+ 3Com,-96
+ Freewifi_Mobitel,-87
+ Dialog Wi-Fi,-92
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-87
+ STAFF,-88
+ Law Wi-Fi,-95
+ UocLib,-95
+ UocLib,-94
+ VISITORS,-87
+ BIT,-87
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-96
+ Mobitel_Open,-89
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-93
+ Mobitel_EAP,-87
+ 3Com,-96
+ Freewifi_Mobitel,-87
+ Dialog Wi-Fi,-92
+ Freewifi_Mobitel,-96
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-87
+ STAFF,-88
+ Law Wi-Fi,-95
+ UocLib,-95
+ UocLib,-94
+ VISITORS,-87
+ BIT,-87
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-96
+ Mobitel_Open,-89
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-89
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-94
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-87
+ STAFF,-90
+ Law Wi-Fi,-94
+ UocLib,-93
+ UocLib,-94
+ VISITORS,-87
+ BIT,-87
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-96
+ Mobitel_Open,-89
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-89
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-94
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-87
+ STAFF,-90
+ Law Wi-Fi,-94
+ UocLib,-93
+ UocLib,-94
+ VISITORS,-87
+ BIT,-87
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-96
+ Mobitel_Open,-89
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-89
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-94
+ IBMBB Wireless,-95
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-87
+ STAFF,-90
+ Law Wi-Fi,-94
+ UocLib,-93
+ UocLib,-94
+ VISITORS,-87
+ BIT,-87
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-96
+ Mobitel_Open,-89
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-91
+ edu@colombo,-90
+ Law Wi-Fi,-90
+ Face's iMac,-92
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-87
+ STAFF,-89
+ Law Wi-Fi,-94
+ UocLib,-93
+ UocLib,-94
+ VISITORS,-89
+ BIT,-88
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-96
+ Mobitel_Open,-89
+ BIT,-93
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-91
+ edu@colombo,-90
+ Law Wi-Fi,-90
+ Face's iMac,-92
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-87
+ STAFF,-89
+ Law Wi-Fi,-94
+ UocLib,-93
+ UocLib,-94
+ VISITORS,-89
+ BIT,-88
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-96
+ Mobitel_Open,-89
+ BIT,-93
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-91
+ edu@colombo,-90
+ Law Wi-Fi,-90
+ Face's iMac,-92
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-95
+ IBMBB Wireless,-91
+ STAFF,-95
+ Test123,-97
+ eduroam,-87
+ STAFF,-89
+ Law Wi-Fi,-94
+ UocLib,-93
+ UocLib,-94
+ VISITORS,-89
+ BIT,-88
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-96
+ Mobitel_Open,-89
+ BIT,-93
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-88
+ edu@colombo,-90
+ Law Wi-Fi,-89
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-90
+ VISITORS,-93
+ STAFF,-94
+ Test123,-92
+ eduroam,-88
+ STAFF,-86
+ Law Wi-Fi,-94
+ UocLib,-96
+ UocLib,-94
+ VISITORS,-89
+ BIT,-87
+ Test123,-86
+ Mobitel_EAP,-94
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-93
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-92
+ eduroam,-93
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-89
+ Freewifi_Mobitel,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-88
+ edu@colombo,-90
+ Law Wi-Fi,-89
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-90
+ VISITORS,-93
+ STAFF,-94
+ Test123,-92
+ eduroam,-88
+ STAFF,-86
+ Law Wi-Fi,-94
+ UocLib,-96
+ UocLib,-94
+ VISITORS,-89
+ BIT,-87
+ Test123,-86
+ Mobitel_EAP,-94
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-93
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-92
+ eduroam,-93
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-89
+ Freewifi_Mobitel,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-88
+ edu@colombo,-90
+ Law Wi-Fi,-89
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-90
+ VISITORS,-93
+ STAFF,-94
+ Test123,-92
+ eduroam,-88
+ STAFF,-86
+ Law Wi-Fi,-94
+ UocLib,-96
+ UocLib,-94
+ VISITORS,-89
+ BIT,-87
+ Test123,-86
+ Mobitel_EAP,-94
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-93
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-92
+ eduroam,-93
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-89
+ Freewifi_Mobitel,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-88
+ edu@colombo,-92
+ Law Wi-Fi,-91
+ Face's iMac,-95
+ ,-93
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-89
+ Law Wi-Fi,-94
+ UocLib,-95
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-92
+ eduroam,-91
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-89
+ Freewifi_Mobitel,-95
+ DOA,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-88
+ edu@colombo,-92
+ Law Wi-Fi,-91
+ Face's iMac,-95
+ ,-93
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-89
+ Law Wi-Fi,-94
+ UocLib,-95
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-92
+ eduroam,-91
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-89
+ Freewifi_Mobitel,-95
+ DOA,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-90
+ Freewifi_Mobitel,-88
+ edu@colombo,-92
+ Law Wi-Fi,-91
+ Face's iMac,-95
+ ,-93
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-89
+ Law Wi-Fi,-94
+ UocLib,-95
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-94
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-92
+ eduroam,-91
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-89
+ Freewifi_Mobitel,-95
+ DOA,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-94
+ Face's iMac,-96
+ ,-93
+ Mobitel_EAP,-91
+ 3Com,-92
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-89
+ Law Wi-Fi,-92
+ UocLib,-95
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-91
+ eduroam,-91
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-89
+ Freewifi_Mobitel,-95
+ DOA,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-94
+ Face's iMac,-96
+ ,-93
+ Mobitel_EAP,-91
+ 3Com,-92
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-89
+ Law Wi-Fi,-92
+ UocLib,-95
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-91
+ eduroam,-91
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-89
+ Freewifi_Mobitel,-95
+ DOA,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-94
+ Face's iMac,-96
+ ,-93
+ Mobitel_EAP,-91
+ 3Com,-92
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-89
+ Law Wi-Fi,-92
+ UocLib,-95
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-94
+ edu@colombo,-95
+ Dialog Wi-Fi,-91
+ eduroam,-91
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-89
+ Freewifi_Mobitel,-95
+ DOA,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-94
+ Face's iMac,-96
+ ,-93
+ Mobitel_EAP,-91
+ 3Com,-92
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-89
+ Law Wi-Fi,-92
+ UocLib,-95
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-95
+ edu@colombo,-95
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Freewifi_Mobitel,-95
+ DOA,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-94
+ Face's iMac,-96
+ ,-93
+ Mobitel_EAP,-91
+ 3Com,-92
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-89
+ Law Wi-Fi,-92
+ UocLib,-95
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-95
+ edu@colombo,-95
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Freewifi_Mobitel,-95
+ DOA,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-91
+ Law Wi-Fi,-94
+ Face's iMac,-96
+ ,-93
+ Mobitel_EAP,-91
+ 3Com,-92
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-89
+ Law Wi-Fi,-92
+ UocLib,-95
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-95
+ edu@colombo,-95
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Freewifi_Mobitel,-95
+ DOA,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-88
+ edu@colombo,-92
+ Law Wi-Fi,-95
+ Face's iMac,-92
+ ,-90
+ Mobitel_EAP,-86
+ 3Com,-96
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-90
+ Law Wi-Fi,-92
+ UocLib,-93
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-95
+ edu@colombo,-95
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Freewifi_Mobitel,-95
+ DOA,-95
+ Dialog Wi-Fi,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-88
+ edu@colombo,-92
+ Law Wi-Fi,-95
+ Face's iMac,-92
+ ,-90
+ Mobitel_EAP,-86
+ 3Com,-96
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-90
+ Law Wi-Fi,-92
+ UocLib,-93
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-95
+ edu@colombo,-95
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Freewifi_Mobitel,-95
+ DOA,-95
+ Dialog Wi-Fi,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-88
+ edu@colombo,-92
+ Law Wi-Fi,-95
+ Face's iMac,-92
+ ,-90
+ Mobitel_EAP,-86
+ 3Com,-96
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-90
+ Law Wi-Fi,-92
+ UocLib,-93
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-89
+ BIT,-94
+ Art Faculty Staff 3,-95
+ edu@colombo,-95
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Freewifi_Mobitel,-95
+ DOA,-95
+ Dialog Wi-Fi,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-70
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-88
+ edu@colombo,-91
+ Law Wi-Fi,-90
+ Face's iMac,-97
+ ,-90
+ Mobitel_EAP,-86
+ 3Com,-96
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-94
+ Law Wi-Fi,-92
+ UocLib,-93
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-88
+ BIT,-94
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ DOA,-95
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-70
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-88
+ edu@colombo,-91
+ Law Wi-Fi,-90
+ Face's iMac,-97
+ ,-90
+ Mobitel_EAP,-86
+ 3Com,-96
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-94
+ Law Wi-Fi,-92
+ UocLib,-93
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-88
+ BIT,-94
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ DOA,-95
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-70
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-88
+ edu@colombo,-91
+ Law Wi-Fi,-90
+ Face's iMac,-97
+ ,-90
+ Mobitel_EAP,-86
+ 3Com,-96
+ VISITORS,-90
+ STAFF,-88
+ Test123,-87
+ eduroam,-88
+ STAFF,-94
+ Law Wi-Fi,-92
+ UocLib,-93
+ VISITORS,-90
+ BIT,-89
+ Test123,-88
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-88
+ BIT,-94
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ DOA,-95
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-93
+ Law Wi-Fi,-94
+ Face's iMac,-97
+ ,-90
+ Mobitel_EAP,-88
+ 3Com,-96
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-94
+ Law Wi-Fi,-92
+ UocLib,-91
+ BIT,-87
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-88
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-93
+ Law Wi-Fi,-94
+ Face's iMac,-97
+ ,-90
+ Mobitel_EAP,-88
+ 3Com,-96
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-94
+ Law Wi-Fi,-92
+ UocLib,-91
+ BIT,-87
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-88
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-93
+ Law Wi-Fi,-94
+ Face's iMac,-97
+ ,-90
+ Mobitel_EAP,-88
+ 3Com,-96
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-94
+ Law Wi-Fi,-92
+ UocLib,-91
+ BIT,-87
+ Mobitel_EAP,-95
+ IBMBB Wireless,-91
+ Mobitel_Open,-88
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ Dialog Wi-Fi,-91
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-89
+ Law Wi-Fi,-91
+ Face's iMac,-94
+ ,-90
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-91
+ Law Wi-Fi,-96
+ UocLib,-94
+ BIT,-87
+ IBMBB Wireless,-91
+ Mobitel_Open,-88
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-89
+ Law Wi-Fi,-91
+ Face's iMac,-94
+ ,-90
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-91
+ Law Wi-Fi,-96
+ UocLib,-94
+ BIT,-87
+ IBMBB Wireless,-91
+ Mobitel_Open,-88
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-89
+ Law Wi-Fi,-91
+ Face's iMac,-94
+ ,-90
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-91
+ Law Wi-Fi,-96
+ UocLib,-94
+ BIT,-87
+ IBMBB Wireless,-91
+ Mobitel_Open,-88
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ eduroam,-94
+ Mobitel_Open,-89
+ Freewifi_Mobitel,-86
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-88
+ edu@colombo,-89
+ Law Wi-Fi,-91
+ Face's iMac,-95
+ ,-90
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-91
+ Law Wi-Fi,-96
+ UocLib,-94
+ BIT,-90
+ IBMBB Wireless,-91
+ Mobitel_Open,-86
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-88
+ edu@colombo,-89
+ Law Wi-Fi,-91
+ Face's iMac,-95
+ ,-90
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-91
+ Law Wi-Fi,-96
+ UocLib,-94
+ BIT,-90
+ IBMBB Wireless,-91
+ Mobitel_Open,-86
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-88
+ edu@colombo,-89
+ Law Wi-Fi,-91
+ Face's iMac,-95
+ ,-90
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-91
+ Law Wi-Fi,-96
+ UocLib,-94
+ BIT,-90
+ IBMBB Wireless,-91
+ Mobitel_Open,-86
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ Dialog Wi-Fi,-95
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-87
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-90
+ Law Wi-Fi,-96
+ UocLib,-95
+ BIT,-91
+ IBMBB Wireless,-91
+ Mobitel_Open,-86
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-93
+ eduroam,-92
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ VISITORS,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-87
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-90
+ Law Wi-Fi,-96
+ UocLib,-95
+ BIT,-91
+ IBMBB Wireless,-91
+ Mobitel_Open,-86
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-93
+ eduroam,-92
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ VISITORS,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-87
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-91
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-90
+ Law Wi-Fi,-96
+ UocLib,-95
+ BIT,-91
+ IBMBB Wireless,-91
+ Mobitel_Open,-86
+ Art Faculty Staff 3,-96
+ edu@colombo,-93
+ IBMBB Wireless,-93
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-93
+ eduroam,-92
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ VISITORS,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-95
+ Law Wi-Fi,-92
+ Face's iMac,-96
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-90
+ Law Wi-Fi,-96
+ UocLib,-95
+ BIT,-91
+ IBMBB Wireless,-91
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-94
+ eduroam,-92
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-90
+ VISITORS,-97
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-95
+ Law Wi-Fi,-92
+ Face's iMac,-96
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-90
+ Law Wi-Fi,-96
+ UocLib,-95
+ BIT,-91
+ IBMBB Wireless,-91
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-94
+ eduroam,-92
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-90
+ VISITORS,-97
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-95
+ Law Wi-Fi,-92
+ Face's iMac,-96
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-94
+ STAFF,-94
+ Test123,-94
+ STAFF,-90
+ Law Wi-Fi,-96
+ UocLib,-95
+ BIT,-91
+ IBMBB Wireless,-91
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ eduroam,-93
+ Test123,-94
+ Test123,-90
+ STAFF,-94
+ eduroam,-92
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-90
+ VISITORS,-97
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-94
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-93
+ STAFF,-93
+ Test123,-94
+ STAFF,-90
+ Law Wi-Fi,-96
+ UocLib,-94
+ BIT,-90
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-91
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-91
+ VISITORS,-97
+ BIT,-94
+ Mobitel_EAP,-94
+ eduroam,-94
+ Freewifi_Mobitel,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-94
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-93
+ STAFF,-93
+ Test123,-94
+ STAFF,-90
+ Law Wi-Fi,-96
+ UocLib,-94
+ BIT,-90
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-91
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-91
+ VISITORS,-97
+ BIT,-94
+ Mobitel_EAP,-94
+ eduroam,-94
+ Freewifi_Mobitel,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-94
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-93
+ STAFF,-93
+ Test123,-94
+ STAFF,-90
+ Law Wi-Fi,-96
+ UocLib,-94
+ BIT,-90
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-91
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-91
+ VISITORS,-97
+ BIT,-94
+ Mobitel_EAP,-94
+ eduroam,-94
+ Freewifi_Mobitel,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-93
+ STAFF,-93
+ Test123,-94
+ STAFF,-90
+ UocLib,-94
+ BIT,-94
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-91
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-94
+ VISITORS,-97
+ BIT,-94
+ Mobitel_EAP,-94
+ eduroam,-94
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-93
+ STAFF,-93
+ Test123,-94
+ STAFF,-90
+ UocLib,-94
+ BIT,-94
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-91
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-94
+ VISITORS,-97
+ BIT,-94
+ Mobitel_EAP,-94
+ eduroam,-94
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-92
+ VISITORS,-93
+ STAFF,-93
+ Test123,-94
+ STAFF,-90
+ UocLib,-94
+ BIT,-94
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-91
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-94
+ VISITORS,-97
+ BIT,-94
+ Mobitel_EAP,-94
+ eduroam,-94
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-69
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-90
+ VISITORS,-93
+ STAFF,-95
+ Test123,-92
+ STAFF,-90
+ UocLib,-94
+ BIT,-93
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-92
+ VISITORS,-97
+ BIT,-94
+ Mobitel_EAP,-94
+ eduroam,-93
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-69
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-90
+ VISITORS,-93
+ STAFF,-95
+ Test123,-92
+ STAFF,-90
+ UocLib,-94
+ BIT,-93
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-92
+ VISITORS,-97
+ BIT,-94
+ Mobitel_EAP,-94
+ eduroam,-93
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-69
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-90
+ VISITORS,-93
+ STAFF,-95
+ Test123,-92
+ STAFF,-90
+ UocLib,-94
+ BIT,-93
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-88
+ VISITORS,-92
+ VISITORS,-97
+ BIT,-94
+ Mobitel_EAP,-94
+ eduroam,-93
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-86
+ edu@colombo,-93
+ Law Wi-Fi,-91
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-90
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-91
+ UocLib,-95
+ BIT,-93
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ VISITORS,-92
+ VISITORS,-97
+ BIT,-92
+ Mobitel_EAP,-94
+ eduroam,-93
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-86
+ edu@colombo,-93
+ Law Wi-Fi,-91
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-90
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-91
+ UocLib,-95
+ BIT,-93
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ VISITORS,-92
+ VISITORS,-97
+ BIT,-92
+ Mobitel_EAP,-94
+ eduroam,-93
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-86
+ edu@colombo,-93
+ Law Wi-Fi,-91
+ Face's iMac,-95
+ ,-92
+ Mobitel_EAP,-88
+ 3Com,-90
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-91
+ UocLib,-95
+ BIT,-93
+ Mobitel_Open,-87
+ Art Faculty Staff 3,-96
+ Test123,-92
+ STAFF,-94
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ VISITORS,-92
+ VISITORS,-97
+ BIT,-92
+ Mobitel_EAP,-94
+ eduroam,-93
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-91
+ Face's iMac,-94
+ ,-92
+ Mobitel_EAP,-86
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-90
+ UocLib,-92
+ BIT,-93
+ Mobitel_Open,-87
+ Test123,-92
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ VISITORS,-92
+ BIT,-86
+ Mobitel_EAP,-94
+ eduroam,-93
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-91
+ Face's iMac,-94
+ ,-92
+ Mobitel_EAP,-86
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-90
+ UocLib,-92
+ BIT,-93
+ Mobitel_Open,-87
+ Test123,-92
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ VISITORS,-92
+ BIT,-86
+ Mobitel_EAP,-94
+ eduroam,-93
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-66
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-91
+ Face's iMac,-94
+ ,-92
+ Mobitel_EAP,-86
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-90
+ UocLib,-92
+ BIT,-93
+ Mobitel_Open,-87
+ Test123,-92
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-87
+ VISITORS,-92
+ BIT,-86
+ Mobitel_EAP,-94
+ eduroam,-93
+ Freewifi_Mobitel,-94
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-91
+ Face's iMac,-94
+ ,-92
+ Mobitel_EAP,-86
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-90
+ UocLib,-92
+ BIT,-93
+ Test123,-92
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-86
+ VISITORS,-92
+ BIT,-86
+ Mobitel_EAP,-94
+ eduroam,-93
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-91
+ Face's iMac,-94
+ ,-92
+ Mobitel_EAP,-86
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-90
+ UocLib,-92
+ BIT,-93
+ Test123,-92
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-86
+ VISITORS,-92
+ BIT,-86
+ Mobitel_EAP,-94
+ eduroam,-93
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-67
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-91
+ Face's iMac,-94
+ ,-92
+ Mobitel_EAP,-86
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-90
+ UocLib,-92
+ BIT,-93
+ Test123,-92
+ eduroam,-95
+ Mobitel_Open,-87
+ Freewifi_Mobitel,-86
+ VISITORS,-92
+ BIT,-86
+ Mobitel_EAP,-94
+ eduroam,-93
+ PROLINK_H5004NK_891C0,-95
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-87
+ edu@colombo,-96
+ Law Wi-Fi,-91
+ Face's iMac,-96
+ Mobitel_EAP,-87
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-90
+ UocLib,-96
+ BIT,-93
+ Test123,-92
+ eduroam,-95
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-85
+ VISITORS,-92
+ BIT,-93
+ Mobitel_EAP,-94
+ eduroam,-92
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-87
+ edu@colombo,-96
+ Law Wi-Fi,-91
+ Face's iMac,-96
+ Mobitel_EAP,-87
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-90
+ UocLib,-96
+ BIT,-93
+ Test123,-92
+ eduroam,-95
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-85
+ VISITORS,-92
+ BIT,-93
+ Mobitel_EAP,-94
+ eduroam,-92
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-87
+ edu@colombo,-96
+ Law Wi-Fi,-91
+ Face's iMac,-96
+ Mobitel_EAP,-87
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-90
+ UocLib,-96
+ BIT,-93
+ Test123,-92
+ eduroam,-95
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-85
+ VISITORS,-92
+ BIT,-93
+ Mobitel_EAP,-94
+ eduroam,-92
+ Dialog Wi-Fi,-92
+ Dialog Wi-Fi,-92
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-86
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Face's iMac,-96
+ Mobitel_EAP,-86
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-92
+ UocLib,-96
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-85
+ VISITORS,-93
+ BIT,-93
+ Mobitel_EAP,-94
+ eduroam,-92
+ Dialog Wi-Fi,-91
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-86
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Face's iMac,-96
+ Mobitel_EAP,-86
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-92
+ UocLib,-96
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-85
+ VISITORS,-93
+ BIT,-93
+ Mobitel_EAP,-94
+ eduroam,-92
+ Dialog Wi-Fi,-91
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-86
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Face's iMac,-96
+ Mobitel_EAP,-86
+ 3Com,-93
+ VISITORS,-92
+ STAFF,-94
+ Test123,-92
+ STAFF,-92
+ UocLib,-96
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-85
+ VISITORS,-93
+ BIT,-93
+ Mobitel_EAP,-94
+ eduroam,-92
+ Dialog Wi-Fi,-91
+ IBMBB Wireless,-94
+ IBMBB Wireless,-94
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-86
+ edu@colombo,-92
+ Law Wi-Fi,-93
+ Face's iMac,-99
+ Mobitel_EAP,-86
+ 3Com,-90
+ STAFF,-92
+ UocLib,-92
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ Mobitel_EAP,-94
+ eduroam,-92
+ Dialog Wi-Fi,-93
+ ,-93
+ Mobitel_Open,-85
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-86
+ edu@colombo,-92
+ Law Wi-Fi,-93
+ Face's iMac,-99
+ Mobitel_EAP,-86
+ 3Com,-90
+ STAFF,-92
+ UocLib,-92
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ Mobitel_EAP,-94
+ eduroam,-92
+ Dialog Wi-Fi,-93
+ ,-93
+ Mobitel_Open,-85
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-86
+ edu@colombo,-92
+ Law Wi-Fi,-93
+ Face's iMac,-99
+ Mobitel_EAP,-86
+ 3Com,-90
+ STAFF,-92
+ UocLib,-92
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ Mobitel_EAP,-94
+ eduroam,-92
+ Dialog Wi-Fi,-93
+ ,-93
+ Mobitel_Open,-85
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-94
+ Law Wi-Fi,-93
+ Face's iMac,-99
+ Mobitel_EAP,-89
+ 3Com,-90
+ STAFF,-92
+ UocLib,-92
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ eduroam,-92
+ Dialog Wi-Fi,-93
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-96
+ IBMBB-AP2,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-94
+ Law Wi-Fi,-93
+ Face's iMac,-99
+ Mobitel_EAP,-89
+ 3Com,-90
+ STAFF,-92
+ UocLib,-92
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ eduroam,-92
+ Dialog Wi-Fi,-93
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-96
+ IBMBB-AP2,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-68
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-87
+ edu@colombo,-94
+ Law Wi-Fi,-93
+ Face's iMac,-99
+ Mobitel_EAP,-89
+ 3Com,-90
+ STAFF,-92
+ UocLib,-92
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ eduroam,-92
+ Dialog Wi-Fi,-93
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-96
+ IBMBB-AP2,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-86
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ Mobitel_EAP,-90
+ 3Com,-90
+ STAFF,-92
+ UocLib,-94
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ eduroam,-92
+ Dialog Wi-Fi,-89
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-96
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-94
+ BIT,-95
+ VISITORS,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-86
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ Mobitel_EAP,-90
+ 3Com,-90
+ STAFF,-92
+ UocLib,-94
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ eduroam,-92
+ Dialog Wi-Fi,-89
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-96
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-94
+ BIT,-95
+ VISITORS,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-86
+ Freewifi_Mobitel,-86
+ edu@colombo,-93
+ Law Wi-Fi,-92
+ Face's iMac,-95
+ Mobitel_EAP,-90
+ 3Com,-90
+ STAFF,-92
+ UocLib,-94
+ BIT,-91
+ Mobitel_Open,-86
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ eduroam,-92
+ Dialog Wi-Fi,-89
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-96
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-94
+ BIT,-95
+ VISITORS,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-93
+ Face's iMac,-94
+ Mobitel_EAP,-90
+ 3Com,-94
+ STAFF,-92
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ Dialog Wi-Fi,-89
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-96
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-94
+ BIT,-95
+ VISITORS,-93
+ IBMBB Wireless,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-93
+ Face's iMac,-94
+ Mobitel_EAP,-90
+ 3Com,-94
+ STAFF,-92
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ Dialog Wi-Fi,-89
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-96
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-94
+ BIT,-95
+ VISITORS,-93
+ IBMBB Wireless,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-93
+ Face's iMac,-94
+ Mobitel_EAP,-90
+ 3Com,-94
+ STAFF,-92
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-86
+ VISITORS,-93
+ BIT,-95
+ Dialog Wi-Fi,-89
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-96
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-94
+ BIT,-95
+ VISITORS,-93
+ IBMBB Wireless,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-93
+ Face's iMac,-95
+ Mobitel_EAP,-86
+ 3Com,-94
+ UocLib,-96
+ BIT,-86
+ Freewifi_Mobitel,-89
+ BIT,-95
+ Dialog Wi-Fi,-89
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-92
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-93
+ BIT,-95
+ VISITORS,-94
+ IBMBB Wireless,-92
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-87
+ VISITORS,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-93
+ Face's iMac,-95
+ Mobitel_EAP,-86
+ 3Com,-94
+ UocLib,-96
+ BIT,-86
+ Freewifi_Mobitel,-89
+ BIT,-95
+ Dialog Wi-Fi,-89
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-92
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-93
+ BIT,-95
+ VISITORS,-94
+ IBMBB Wireless,-92
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-87
+ VISITORS,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-87
+ edu@colombo,-93
+ Law Wi-Fi,-93
+ Face's iMac,-95
+ Mobitel_EAP,-86
+ 3Com,-94
+ UocLib,-96
+ BIT,-86
+ Freewifi_Mobitel,-89
+ BIT,-95
+ Dialog Wi-Fi,-89
+ ,-93
+ Mobitel_Open,-85
+ IBMBB Wireless,-92
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-93
+ BIT,-95
+ VISITORS,-94
+ IBMBB Wireless,-92
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-87
+ VISITORS,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-88
+ edu@colombo,-94
+ Law Wi-Fi,-89
+ Face's iMac,-95
+ Mobitel_EAP,-86
+ 3Com,-94
+ UocLib,-93
+ BIT,-84
+ Freewifi_Mobitel,-89
+ BIT,-91
+ Dialog Wi-Fi,-89
+ ,-95
+ Mobitel_Open,-89
+ IBMBB Wireless,-92
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-93
+ BIT,-95
+ VISITORS,-94
+ IBMBB Wireless,-92
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-87
+ VISITORS,-95
+ eduroam,-85
+ Test123,-86
+ STAFF,-87
+ VISITORS,-87
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-88
+ edu@colombo,-94
+ Law Wi-Fi,-89
+ Face's iMac,-95
+ Mobitel_EAP,-86
+ 3Com,-94
+ UocLib,-93
+ BIT,-84
+ Freewifi_Mobitel,-89
+ BIT,-91
+ Dialog Wi-Fi,-89
+ ,-95
+ Mobitel_Open,-89
+ IBMBB Wireless,-92
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-93
+ BIT,-95
+ VISITORS,-94
+ IBMBB Wireless,-92
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-87
+ VISITORS,-95
+ eduroam,-85
+ Test123,-86
+ STAFF,-87
+ VISITORS,-87
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-88
+ edu@colombo,-94
+ Law Wi-Fi,-89
+ Face's iMac,-95
+ Mobitel_EAP,-86
+ 3Com,-94
+ UocLib,-93
+ BIT,-84
+ Freewifi_Mobitel,-89
+ BIT,-91
+ Dialog Wi-Fi,-89
+ ,-95
+ Mobitel_Open,-89
+ IBMBB Wireless,-92
+ IBMBB-AP2,-94
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-93
+ BIT,-95
+ VISITORS,-94
+ IBMBB Wireless,-92
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-87
+ VISITORS,-95
+ eduroam,-85
+ Test123,-86
+ STAFF,-87
+ edu@colombo,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-88
+ edu@colombo,-94
+ Law Wi-Fi,-89
+ Face's iMac,-96
+ Mobitel_EAP,-86
+ 3Com,-90
+ UocLib,-94
+ BIT,-84
+ Freewifi_Mobitel,-89
+ BIT,-91
+ Dialog Wi-Fi,-89
+ ,-95
+ Mobitel_Open,-89
+ IBMBB Wireless,-92
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-93
+ BIT,-95
+ VISITORS,-94
+ IBMBB Wireless,-92
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-89
+ VISITORS,-95
+ eduroam,-85
+ Test123,-86
+ STAFF,-87
+ VISITORS,-87
+ edu@colombo,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-88
+ edu@colombo,-94
+ Law Wi-Fi,-89
+ Face's iMac,-96
+ Mobitel_EAP,-86
+ 3Com,-90
+ UocLib,-94
+ BIT,-84
+ Freewifi_Mobitel,-89
+ BIT,-91
+ Dialog Wi-Fi,-89
+ ,-95
+ Mobitel_Open,-89
+ IBMBB Wireless,-92
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-93
+ BIT,-95
+ VISITORS,-94
+ IBMBB Wireless,-92
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-89
+ VISITORS,-95
+ eduroam,-85
+ Test123,-86
+ STAFF,-87
+ VISITORS,-87
+ edu@colombo,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-87
+ Freewifi_Mobitel,-88
+ edu@colombo,-94
+ Law Wi-Fi,-89
+ Face's iMac,-96
+ Mobitel_EAP,-86
+ 3Com,-90
+ UocLib,-94
+ BIT,-84
+ Freewifi_Mobitel,-89
+ BIT,-91
+ Dialog Wi-Fi,-89
+ ,-95
+ Mobitel_Open,-89
+ IBMBB Wireless,-92
+ eduroam,-92
+ STAFF,-92
+ ,-94
+ Test123,-93
+ BIT,-95
+ VISITORS,-94
+ IBMBB Wireless,-92
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-89
+ VISITORS,-95
+ eduroam,-85
+ Test123,-86
+ STAFF,-87
+ VISITORS,-87
+ edu@colombo,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-91
+ edu@colombo,-91
+ Law Wi-Fi,-89
+ Face's iMac,-96
+ Mobitel_EAP,-86
+ 3Com,-90
+ UocLib,-94
+ BIT,-84
+ Freewifi_Mobitel,-89
+ BIT,-91
+ ,-95
+ Mobitel_Open,-89
+ IBMBB Wireless,-92
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-89
+ VISITORS,-95
+ eduroam,-85
+ Test123,-86
+ STAFF,-87
+ VISITORS,-87
+ edu@colombo,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-91
+ edu@colombo,-91
+ Law Wi-Fi,-89
+ Face's iMac,-96
+ Mobitel_EAP,-86
+ 3Com,-90
+ UocLib,-94
+ BIT,-84
+ Freewifi_Mobitel,-89
+ BIT,-91
+ ,-95
+ Mobitel_Open,-89
+ IBMBB Wireless,-92
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-89
+ VISITORS,-95
+ eduroam,-85
+ Test123,-86
+ STAFF,-87
+ VISITORS,-87
+ edu@colombo,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-91
+ edu@colombo,-91
+ Law Wi-Fi,-89
+ Face's iMac,-96
+ Mobitel_EAP,-86
+ 3Com,-90
+ UocLib,-94
+ BIT,-84
+ Freewifi_Mobitel,-89
+ BIT,-91
+ ,-95
+ Mobitel_Open,-89
+ IBMBB Wireless,-92
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-89
+ VISITORS,-95
+ eduroam,-85
+ Test123,-86
+ STAFF,-87
+ VISITORS,-87
+ edu@colombo,-94
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-88
+ edu@colombo,-89
+ Law Wi-Fi,-89
+ Face's iMac,-93
+ Mobitel_EAP,-89
+ 3Com,-90
+ UocLib,-94
+ BIT,-92
+ Freewifi_Mobitel,-89
+ BIT,-91
+ ,-95
+ Mobitel_Open,-88
+ IBMBB Wireless,-92
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-89
+ VISITORS,-95
+ eduroam,-92
+ Test123,-91
+ STAFF,-92
+ VISITORS,-90
+ edu@colombo,-94
+ Sci-Fi,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-88
+ edu@colombo,-89
+ Law Wi-Fi,-89
+ Face's iMac,-93
+ Mobitel_EAP,-89
+ 3Com,-90
+ UocLib,-94
+ BIT,-92
+ Freewifi_Mobitel,-89
+ BIT,-91
+ ,-95
+ Mobitel_Open,-88
+ IBMBB Wireless,-92
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-89
+ VISITORS,-95
+ eduroam,-92
+ Test123,-91
+ STAFF,-92
+ VISITORS,-90
+ edu@colombo,-94
+ Sci-Fi,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-88
+ edu@colombo,-89
+ Law Wi-Fi,-89
+ Face's iMac,-93
+ Mobitel_EAP,-89
+ 3Com,-90
+ UocLib,-94
+ BIT,-92
+ Freewifi_Mobitel,-89
+ BIT,-91
+ ,-95
+ Mobitel_Open,-88
+ IBMBB Wireless,-92
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ eduroam,-96
+ STAFF,-97
+ Test123,-97
+ Mobitel_Open,-89
+ VISITORS,-95
+ eduroam,-92
+ Test123,-91
+ STAFF,-92
+ VISITORS,-90
+ edu@colombo,-94
+ Sci-Fi,-95
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-88
+ edu@colombo,-89
+ Law Wi-Fi,-89
+ Face's iMac,-93
+ Mobitel_EAP,-89
+ 3Com,-90
+ UocLib,-94
+ BIT,-92
+ Freewifi_Mobitel,-87
+ BIT,-95
+ ,-95
+ Mobitel_Open,-88
+ IBMBB Wireless,-95
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ Mobitel_Open,-88
+ eduroam,-92
+ Test123,-91
+ STAFF,-92
+ VISITORS,-90
+ edu@colombo,-94
+ Sci-Fi,-95
+ Law Wi-Fi,-94
+ Mobitel_EAP,-95
+ Mobitel_Open,-96
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-88
+ edu@colombo,-89
+ Law Wi-Fi,-89
+ Face's iMac,-93
+ Mobitel_EAP,-89
+ 3Com,-90
+ UocLib,-94
+ BIT,-92
+ Freewifi_Mobitel,-87
+ BIT,-95
+ ,-95
+ Mobitel_Open,-88
+ IBMBB Wireless,-95
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ Mobitel_Open,-88
+ eduroam,-92
+ Test123,-91
+ STAFF,-92
+ VISITORS,-90
+ edu@colombo,-94
+ Sci-Fi,-95
+ Law Wi-Fi,-94
+ Mobitel_EAP,-95
+ Mobitel_Open,-96
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-88
+ edu@colombo,-89
+ Law Wi-Fi,-89
+ Face's iMac,-93
+ Mobitel_EAP,-89
+ 3Com,-90
+ UocLib,-94
+ BIT,-92
+ Freewifi_Mobitel,-87
+ BIT,-95
+ ,-95
+ Mobitel_Open,-88
+ IBMBB Wireless,-95
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ Mobitel_Open,-88
+ eduroam,-92
+ Test123,-91
+ STAFF,-92
+ VISITORS,-90
+ edu@colombo,-94
+ Sci-Fi,-95
+ Law Wi-Fi,-94
+ Mobitel_EAP,-95
+ Mobitel_Open,-96
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-93
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-93
+ Face's iMac,-93
+ Mobitel_EAP,-90
+ 3Com,-90
+ UocLib,-94
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-95
+ Mobitel_Open,-88
+ IBMBB Wireless,-95
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ Mobitel_Open,-88
+ eduroam,-90
+ Test123,-91
+ STAFF,-89
+ VISITORS,-88
+ edu@colombo,-94
+ Sci-Fi,-95
+ Law Wi-Fi,-93
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-93
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-93
+ Face's iMac,-93
+ Mobitel_EAP,-90
+ 3Com,-90
+ UocLib,-94
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-95
+ Mobitel_Open,-88
+ IBMBB Wireless,-95
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ Mobitel_Open,-88
+ eduroam,-90
+ Test123,-91
+ STAFF,-89
+ VISITORS,-88
+ edu@colombo,-94
+ Sci-Fi,-95
+ Law Wi-Fi,-93
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-93
+ Freewifi_Mobitel,-87
+ edu@colombo,-92
+ Law Wi-Fi,-93
+ Face's iMac,-93
+ Mobitel_EAP,-90
+ 3Com,-90
+ UocLib,-94
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-95
+ Mobitel_Open,-88
+ IBMBB Wireless,-95
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ Mobitel_Open,-88
+ eduroam,-90
+ Test123,-91
+ STAFF,-89
+ VISITORS,-88
+ edu@colombo,-94
+ Sci-Fi,-95
+ Law Wi-Fi,-93
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-92
+ Law Wi-Fi,-93
+ Face's iMac,-93
+ Mobitel_EAP,-90
+ UocLib,-93
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-95
+ Mobitel_Open,-90
+ IBMBB Wireless,-95
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ Mobitel_Open,-88
+ eduroam,-90
+ Test123,-91
+ STAFF,-89
+ VISITORS,-88
+ edu@colombo,-93
+ Sci-Fi,-95
+ Law Wi-Fi,-93
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ,-94
+ Dialog Wi-Fi,-87
+ Dialog Wi-Fi,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-92
+ Law Wi-Fi,-93
+ Face's iMac,-93
+ Mobitel_EAP,-90
+ UocLib,-93
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-95
+ Mobitel_Open,-90
+ IBMBB Wireless,-95
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ Mobitel_Open,-88
+ eduroam,-90
+ Test123,-91
+ STAFF,-89
+ VISITORS,-88
+ edu@colombo,-93
+ Sci-Fi,-95
+ Law Wi-Fi,-93
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ,-94
+ Dialog Wi-Fi,-87
+ Dialog Wi-Fi,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-89
+ edu@colombo,-92
+ Law Wi-Fi,-93
+ Face's iMac,-93
+ Mobitel_EAP,-90
+ UocLib,-93
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-95
+ Mobitel_Open,-90
+ IBMBB Wireless,-95
+ Test123,-93
+ VISITORS,-92
+ IBMBB Wireless,-93
+ Mobitel_Open,-88
+ eduroam,-90
+ Test123,-91
+ STAFF,-89
+ VISITORS,-88
+ edu@colombo,-93
+ Sci-Fi,-95
+ Law Wi-Fi,-93
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ,-94
+ Dialog Wi-Fi,-87
+ Dialog Wi-Fi,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-90
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ Mobitel_EAP,-87
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-88
+ Mobitel_Open,-90
+ IBMBB Wireless,-95
+ Mobitel_Open,-88
+ eduroam,-92
+ Test123,-95
+ STAFF,-89
+ VISITORS,-88
+ edu@colombo,-89
+ Sci-Fi,-95
+ Law Wi-Fi,-92
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ,-94
+ Dialog Wi-Fi,-87
+ Dialog Wi-Fi,-93
+ eduroam,-88
+ STAFF,-88
+ Test123,-94
+ VISITORS,-90
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-90
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ Mobitel_EAP,-87
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-88
+ Mobitel_Open,-90
+ IBMBB Wireless,-95
+ Mobitel_Open,-88
+ eduroam,-92
+ Test123,-95
+ STAFF,-89
+ VISITORS,-88
+ edu@colombo,-89
+ Sci-Fi,-95
+ Law Wi-Fi,-92
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ,-94
+ Dialog Wi-Fi,-87
+ Dialog Wi-Fi,-93
+ eduroam,-88
+ STAFF,-88
+ Test123,-94
+ VISITORS,-90
+ ------------ 
+ HTC Portable Hotspot ED58,-62
+ Mobitel_EAP,-89
+ Freewifi_Mobitel,-87
+ edu@colombo,-90
+ Law Wi-Fi,-92
+ Face's iMac,-93
+ Mobitel_EAP,-87
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-88
+ Mobitel_Open,-90
+ IBMBB Wireless,-95
+ Mobitel_Open,-88
+ eduroam,-92
+ Test123,-95
+ STAFF,-89
+ VISITORS,-88
+ edu@colombo,-89
+ Sci-Fi,-95
+ Law Wi-Fi,-92
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ,-94
+ Dialog Wi-Fi,-87
+ Dialog Wi-Fi,-93
+ eduroam,-88
+ STAFF,-88
+ Test123,-94
+ VISITORS,-90
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-86
+ edu@colombo,-96
+ Law Wi-Fi,-95
+ Face's iMac,-95
+ Mobitel_EAP,-87
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-88
+ Mobitel_Open,-90
+ IBMBB Wireless,-95
+ Mobitel_Open,-88
+ eduroam,-92
+ Test123,-94
+ STAFF,-91
+ VISITORS,-92
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ,-91
+ Dialog Wi-Fi,-87
+ Dialog Wi-Fi,-93
+ eduroam,-88
+ STAFF,-88
+ Test123,-94
+ VISITORS,-90
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-86
+ edu@colombo,-96
+ Law Wi-Fi,-95
+ Face's iMac,-95
+ Mobitel_EAP,-87
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-89
+ BIT,-88
+ Mobitel_Open,-90
+ IBMBB Wireless,-95
+ Mobitel_Open,-88
+ eduroam,-92
+ Test123,-94
+ STAFF,-91
+ VISITORS,-92
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Mobitel_EAP,-93
+ Mobitel_Open,-96
+ Freewifi_Mobitel,-92
+ ,-91
+ Dialog Wi-Fi,-87
+ Dialog Wi-Fi,-93
+ eduroam,-88
+ STAFF,-88
+ Test123,-94
+ VISITORS,-90
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-85
+ edu@colombo,-96
+ Law Wi-Fi,-95
+ Face's iMac,-93
+ Mobitel_EAP,-87
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-90
+ BIT,-93
+ Mobitel_Open,-89
+ eduroam,-92
+ Test123,-94
+ STAFF,-93
+ VISITORS,-92
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Mobitel_EAP,-93
+ Freewifi_Mobitel,-92
+ ,-91
+ Dialog Wi-Fi,-89
+ Dialog Wi-Fi,-93
+ eduroam,-88
+ STAFF,-88
+ Test123,-94
+ VISITORS,-90
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-85
+ edu@colombo,-96
+ Law Wi-Fi,-95
+ Face's iMac,-93
+ Mobitel_EAP,-87
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-90
+ BIT,-93
+ Mobitel_Open,-89
+ eduroam,-92
+ Test123,-94
+ STAFF,-93
+ VISITORS,-92
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Mobitel_EAP,-93
+ Freewifi_Mobitel,-92
+ ,-91
+ Dialog Wi-Fi,-89
+ Dialog Wi-Fi,-93
+ eduroam,-88
+ STAFF,-88
+ Test123,-94
+ VISITORS,-90
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-63
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-85
+ edu@colombo,-96
+ Law Wi-Fi,-95
+ Face's iMac,-93
+ Mobitel_EAP,-87
+ UocLib,-96
+ BIT,-91
+ Freewifi_Mobitel,-90
+ BIT,-93
+ Mobitel_Open,-89
+ eduroam,-92
+ Test123,-94
+ STAFF,-93
+ VISITORS,-92
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ Mobitel_EAP,-93
+ Freewifi_Mobitel,-92
+ ,-91
+ Dialog Wi-Fi,-89
+ Dialog Wi-Fi,-93
+ eduroam,-88
+ STAFF,-88
+ Test123,-94
+ VISITORS,-90
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-85
+ edu@colombo,-91
+ Law Wi-Fi,-90
+ Face's iMac,-93
+ Mobitel_EAP,-88
+ UocLib,-92
+ BIT,-91
+ Freewifi_Mobitel,-87
+ BIT,-91
+ Mobitel_Open,-89
+ eduroam,-92
+ Test123,-94
+ STAFF,-93
+ VISITORS,-92
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ ,-91
+ Dialog Wi-Fi,-89
+ Dialog Wi-Fi,-93
+ eduroam,-92
+ STAFF,-94
+ Test123,-94
+ VISITORS,-93
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-85
+ edu@colombo,-91
+ Law Wi-Fi,-90
+ Face's iMac,-93
+ Mobitel_EAP,-88
+ UocLib,-92
+ BIT,-91
+ Freewifi_Mobitel,-87
+ BIT,-91
+ Mobitel_Open,-89
+ eduroam,-92
+ Test123,-94
+ STAFF,-93
+ VISITORS,-92
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ ,-91
+ Dialog Wi-Fi,-89
+ Dialog Wi-Fi,-93
+ eduroam,-92
+ STAFF,-94
+ Test123,-94
+ VISITORS,-93
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-85
+ edu@colombo,-91
+ Law Wi-Fi,-90
+ Face's iMac,-93
+ Mobitel_EAP,-88
+ UocLib,-92
+ BIT,-91
+ Freewifi_Mobitel,-87
+ BIT,-91
+ Mobitel_Open,-89
+ eduroam,-92
+ Test123,-94
+ STAFF,-93
+ VISITORS,-92
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ ,-91
+ Dialog Wi-Fi,-89
+ Dialog Wi-Fi,-93
+ eduroam,-92
+ STAFF,-94
+ Test123,-94
+ VISITORS,-93
+ ,-93
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-88
+ edu@colombo,-90
+ Law Wi-Fi,-91
+ Face's iMac,-88
+ Mobitel_EAP,-88
+ UocLib,-95
+ BIT,-90
+ Freewifi_Mobitel,-88
+ BIT,-91
+ Mobitel_Open,-89
+ eduroam,-92
+ Test123,-94
+ STAFF,-93
+ VISITORS,-91
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ ,-91
+ Dialog Wi-Fi,-89
+ Dialog Wi-Fi,-93
+ eduroam,-92
+ STAFF,-94
+ Test123,-94
+ VISITORS,-93
+ ,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-88
+ edu@colombo,-90
+ Law Wi-Fi,-91
+ Face's iMac,-88
+ Mobitel_EAP,-88
+ UocLib,-95
+ BIT,-90
+ Freewifi_Mobitel,-88
+ BIT,-91
+ Mobitel_Open,-89
+ eduroam,-92
+ Test123,-94
+ STAFF,-93
+ VISITORS,-91
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ ,-91
+ Dialog Wi-Fi,-89
+ Dialog Wi-Fi,-93
+ eduroam,-92
+ STAFF,-94
+ Test123,-94
+ VISITORS,-93
+ ,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-64
+ Mobitel_EAP,-88
+ Freewifi_Mobitel,-88
+ edu@colombo,-90
+ Law Wi-Fi,-91
+ Face's iMac,-88
+ Mobitel_EAP,-88
+ UocLib,-95
+ BIT,-90
+ Freewifi_Mobitel,-88
+ BIT,-91
+ Mobitel_Open,-89
+ eduroam,-92
+ Test123,-94
+ STAFF,-93
+ VISITORS,-91
+ edu@colombo,-91
+ Law Wi-Fi,-92
+ ,-91
+ Dialog Wi-Fi,-89
+ Dialog Wi-Fi,-93
+ eduroam,-92
+ STAFF,-94
+ Test123,-94
+ VISITORS,-93
+ ,-92
+ ------------ 
+ HTC Portable Hotspot ED58,-65
+ Mobitel_EAP,-85
+ Freewifi_Mobitel,-87
+ edu@colombo,-90
+ Law Wi-Fi,-91
+ Face's iMac,-93
+ Mobitel_EAP,-89
+ UocLib,-95
+ BIT,-90
+ Freewifi_Mobitel,-89
+ BIT,-91
+ Mobitel_Open,-89
+ Test123,-94
+ STAFF,-93
+ VISITORS,-91
+ edu@colombo,-94
+ Law Wi-Fi,-94
+ ,-91
+ Dialog Wi-Fi,-88
+ Dialog Wi-Fi,-93
+ eduroam,-91
+ STAFF,-94
+ Test123,-93
+ VISITORS,-93
+ ,-92
+ Mobitel_Open,-87
+ ------------ 
